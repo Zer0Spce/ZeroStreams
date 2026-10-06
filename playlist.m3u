@@ -31,14 +31,14 @@ https://admin.formaturamaxi.com.br/mxgp.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b378dadf5d8cfbb0" tvg-name="Brooklyn Nets vs Charlotte Hornets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Brooklyn Nets vs Charlotte Hornets
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="Denver Nuggets vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Denver Nuggets vs Utah Jazz
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b378dadf5d8cfbb0" tvg-name="NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa233622a57ef2af" tvg-name="Denver Nuggets vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Denver Nuggets vs Utah Jazz
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="New Orleans Pelicans vs Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | New Orleans Pelicans vs Oklahoma City Thunder
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -79,14 +79,18 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ef83177d78a583d7" tvg-name="Vegas Golden Knights vs Seattle Kraken" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vegas Golden Knights vs Seattle Kraken
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.355f98690bcf9f75" tvg-name="Angola vs Malawi" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Angola vs Malawi
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a9d4de81fb361aab" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.f33990e829b367d3" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/premier2.m3u8
+https://admin.formaturamaxi.com.br/prem2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.de7e2c357a74868c" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
