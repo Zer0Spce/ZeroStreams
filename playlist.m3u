@@ -91,10 +91,10 @@ https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f33990e829b367d3" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.4ba4429cd8a79fab" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/prem2.m3u8
+https://admin2.formaturamaxi.com.br/prem2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.de7e2c357a74868c" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
