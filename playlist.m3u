@@ -87,58 +87,30 @@ https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.355f98690bcf9f75" tvg-name="Angola vs Malawi" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Angola vs Malawi
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4ba4429cd8a79fab" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.4ba4429cd8a79fab" tvg-name="Cruzeiro vs São Paulo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Cruzeiro vs São Paulo — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.de7e2c357a74868c" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.de7e2c357a74868c" tvg-name="Cruzeiro vs São Paulo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Cruzeiro vs São Paulo — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="zerostreams.87c2bc75b611b28e" tvg-name="Argentina vs Benin (Messi's Farewell)" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Argentina vs Benin (Messi's Farewell) — Feed 3
+#EXTINF:-1 tvg-id="zerostreams.87c2bc75b611b28e" tvg-name="Cruzeiro vs São Paulo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Cruzeiro vs São Paulo — Feed 3
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/vix.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5b5a7111f1ecca93" tvg-name="Colombia vs Peru" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Colombia vs Peru
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/peru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2ee3e9d11060ccca" tvg-name="Croatia vs Spain" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Croatia vs Spain — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.b78114e395df9d8f" tvg-name="Remo vs Grêmio" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Remo vs Grêmio
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/spain.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ac1a9e20ca1ae66f" tvg-name="Croatia vs Spain" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Croatia vs Spain — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+https://admin.formaturamaxi.com.br/fana3pt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.355f98690bcf9f75" tvg-name="UNAN Managua vs Real Estelí" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | UNAN Managua vs Real Estelí
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/spain.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fbdba2d90b6b4410" tvg-name="FS2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | FS2 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+https://admin.formaturamaxi.com.br/bein.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e5770d221c20d132" tvg-name="Vitória vs Chapecoense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Vitória vs Chapecoense
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fs2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f5bd7ce7f7e73076" tvg-name="FSP — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | FSP — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0f9391ed1d118e62" tvg-name="India vs Uruguay" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | India vs Uruguay
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sonyhindi.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2b37fae1ca990668" tvg-name="Mexico vs Chile" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Mexico vs Chile
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/uni.m3u8
-#EXTINF:-1 tvg-id="zerostreams.175ddede7bd94300" tvg-name="Switzerland vs North Macedonia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Switzerland vs North Macedonia
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4924000f8ba836ed" tvg-name="USA vs Canada" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | USA vs Canada
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/usa.m3u8
+https://admin.formaturamaxi.com.br/fana4pt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.54fe1972069c691b" tvg-name="WWE — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
