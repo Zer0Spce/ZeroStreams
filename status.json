@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-10-08T21:51:31.507899+00:00",
+  "updated_utc": "2026-10-08T22:04:10.404716+00:00",
   "pages": 40,
-  "candidate_urls": 40,
-  "live_urls": 35,
-  "unavailable_urls": 5,
+  "candidate_urls": 41,
+  "live_urls": 37,
+  "unavailable_urls": 4,
   "unsupported_pages": [],
   "errors": [],
   "event_groups": 30,
