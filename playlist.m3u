@@ -11,10 +11,10 @@ https://admin2.formaturamaxi.com.br/ncaa.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f79a6a9f6b94d023" tvg-name="South Florida vs UTSA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | South Florida vs UTSA
+#EXTINF:-1 tvg-id="zerostreams.0f1bf8736a9840c4" tvg-name="South Florida vs UTSA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | South Florida vs UTSA
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa3.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.829dfbd21aece480" tvg-name="Super DIRTcar Week" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Super DIRTcar Week
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -59,14 +59,14 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fab509876bc95351" tvg-name="Tampa Bay Buccaneers vs Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Tampa Bay Buccaneers vs Dallas Cowboys — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="Tampa Bay Buccaneers vs Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Tampa Bay Buccaneers vs Dallas Cowboys — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/espn2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.293a78cebb4bc24f" tvg-name="Tampa Bay Buccaneers vs Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Tampa Bay Buccaneers vs Dallas Cowboys — Feed 2
+https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="Tampa Bay Buccaneers vs Dallas Cowboys" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Tampa Bay Buccaneers vs Dallas Cowboys — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl.m3u8
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6732e4e4f78bdc60" tvg-name="Chicago Blackhawks vs New York Islanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Chicago Blackhawks vs New York Islanders
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
