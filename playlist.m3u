@@ -83,6 +83,10 @@ https://admin2.formaturamaxi.com.br/fubo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/afaplay2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.7406a41201f0b36b" tvg-name="Instituto vs Boca Juniors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Instituto vs Boca Juniors
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/sportdigitalhd.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e9bc51d855eee6c3" tvg-name="Lens vs Olympique Lyonnais" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Lens vs Olympique Lyonnais
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -107,10 +111,14 @@ https://admin2.formaturamaxi.com.br/virgin.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="West Ham vs QPR" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | West Ham vs QPR
+#EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="West Ham vs QPR" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | West Ham vs QPR — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3328d145c0a356cd" tvg-name="West Ham vs QPR" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | West Ham vs QPR — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/westham.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3c75eda5b47ca099" tvg-name="Atlanta Dream vs New York Liberty" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wnba.png" group-title="WNBA",WNBA | Atlanta Dream vs New York Liberty
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
