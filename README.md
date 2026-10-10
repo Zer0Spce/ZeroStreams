@@ -1,6 +1,6 @@
 # ZeroStreams
 
-An automatically maintained M3U playlist of validated live HLS streams,
+An automatically maintained M3U playlist of site-published HLS streams,
 refreshed every **15 minutes**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
@@ -33,7 +33,7 @@ Example title for alternate feeds:
 ## Sources
 
 RoxieStreams internal event links and current HLS domain lists are the only
-stream source for `playlist.m3u`. Only live manifests with reachable media segments are included.
+stream source for `playlist.m3u`. Reachable live manifests are verified. HTTP 403 feeds remain included but are\nreported as unverified, since access from the runner can differ from a player's connection.
 
 ## Schedule
 
@@ -95,3 +95,5 @@ playlist; validation errors are available in the run's diagnostics artifact. Con
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
+
+HTTP 403 is treated as access denied, not proof that a stream is offline. These\nsite-published URLs remain in the M3U; `unverified_urls` lists them and\n`live_urls` counts only feeds verified by the runner. Playback is not guaranteed.\nNo Cloudflare challenges or access controls are bypassed.

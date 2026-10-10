@@ -11,6 +11,7 @@ import re
 import time
 from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
 from metadata import clean_title, decorate, roxie_group
 
 BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
@@ -228,12 +229,18 @@ def main():
         pages, candidates, unsupported, errors, attempts = select_roxie(pool)
         entries, unavailable = [], 0
         validation_errors = []
+        unverified_urls = set()
         print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
         def check(aliases):
             for entry in aliases:
                 try:
                     if live_media(entry['url'], entry['page']):
                         # Use the verified referrer on the deduplicated playback entry.
+                        return [dict(alias, page=entry['page']) for alias in aliases]
+                except HTTPError as exc:
+                    validation_errors.append({'url':entry['url'], 'error':f'HTTPError: HTTP Error {exc.code}'})
+                    if exc.code == 403:
+                        unverified_urls.add(entry['url'])
                         return [dict(alias, page=entry['page']) for alias in aliases]
                 except Exception as exc:
                     validation_errors.append({'url':entry['url'], 'error':type(exc).__name__ + ': ' + str(exc)})
@@ -247,7 +254,10 @@ def main():
                 unavailable += 1
     entries = decorate(entries)
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
-              'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
+              'candidate_urls': len(candidates), 'live_urls': len({e['url'] for e in entries} - unverified_urls),
+              'published_urls':len(entries), 'unverified_urls':sorted(unverified_urls),
+              'validation_status':'partial-access-denied' if unverified_urls else 'verified',
+              'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors,
               'validation_errors':sorted(validation_errors, key=lambda e:e['url']),
               'event_groups':len({e['event_id'] for e in entries}),
