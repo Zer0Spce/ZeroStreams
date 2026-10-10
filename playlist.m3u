@@ -99,10 +99,10 @@ https://tedesco.formaturamaxi.com.br/mlb.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90e298ac81863038" tvg-name="Atlanta Hawks vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Atlanta Hawks vs Indiana Pacers
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="Atlanta Hawks vs Indiana Pacers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Atlanta Hawks vs Indiana Pacers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba2.m3u8
+https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="Detroit Pistons vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Detroit Pistons vs Washington Wizards
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -191,15 +191,15 @@ https://admin2.formaturamaxi.com.br/chelsea.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44b88ab14705006b" tvg-name="FOXMX — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | FOXMX — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxmx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="GOLAZO — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | GOLAZO — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bb03cbd399e89052" tvg-name="Inter Miami vs DC United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Inter Miami vs DC United
+#EXTINF:-1 tvg-id="zerostreams.44b88ab14705006b" tvg-name="Inter Miami vs DC United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Inter Miami vs DC United — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foxmx.m3u8
+#EXTINF:-1 tvg-id="zerostreams.bb03cbd399e89052" tvg-name="Inter Miami vs DC United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Inter Miami vs DC United — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mls.m3u8
@@ -239,10 +239,10 @@ https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/porto.m3u8
-#EXTINF:-1 tvg-id="zerostreams.428cd63832a9c10f" tvg-name="Querétaro vs Atlante" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Querétaro vs Atlante
+#EXTINF:-1 tvg-id="zerostreams.0d198167d7b98997" tvg-name="Querétaro vs Atlante" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Querétaro vs Atlante
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/foxmx.m3u8
+https://admin2.formaturamaxi.com.br/foxone.m3u8
 #EXTINF:-1 tvg-id="zerostreams.dbe62d8819c40df3" tvg-name="Real Madrid vs Villarreal" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Real Madrid vs Villarreal — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -259,10 +259,6 @@ https://admin.formaturamaxi.com.br/fana5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a2aea41eecd2598a" tvg-name="RUSSIA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | RUSSIA — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/russia.m3u8
 #EXTINF:-1 tvg-id="zerostreams.fd536c987e8465e8" tvg-name="São Paulo vs Vitoria" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | São Paulo vs Vitoria
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -271,6 +267,10 @@ https://admin.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/brighton.m3u8
+#EXTINF:-1 tvg-id="zerostreams.7d9b02e52ed68f3a" tvg-name="TSN5 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | TSN5 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/tsn5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="Vasco Gama vs Remo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Vasco Gama vs Remo
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
