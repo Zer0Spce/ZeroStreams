@@ -107,14 +107,14 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.b9ca8f8ed3c8ae19" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/eng.m3u8
-#EXTINF:-1 tvg-id="zerostreams.91ffb46b7f416b1a" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 2
+https://admin2.formaturamaxi.com.br/fs2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e8b7b445ee3c050a" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/virgin.m3u8
+https://admin2.formaturamaxi.com.br/universo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.5cb6649e6e7c1be5" tvg-name="Unión Santa Fe vs Defensa y Justicia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Unión Santa Fe vs Defensa y Justicia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
