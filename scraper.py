@@ -227,6 +227,7 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         pages, candidates, unsupported, errors, attempts = select_roxie(pool)
         entries, unavailable = [], 0
+        validation_errors = []
         print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
         def check(aliases):
             for entry in aliases:
@@ -234,8 +235,8 @@ def main():
                     if live_media(entry['url'], entry['page']):
                         # Use the verified referrer on the deduplicated playback entry.
                         return [dict(alias, page=entry['page']) for alias in aliases]
-                except Exception:
-                    pass
+                except Exception as exc:
+                    validation_errors.append({'url':entry['url'], 'error':type(exc).__name__ + ': ' + str(exc)})
             return None
         for index, result in enumerate(pool.map(check, candidates.values()), 1):
             if index % 10 == 0:
@@ -248,6 +249,7 @@ def main():
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors,
+              'validation_errors':sorted(validation_errors, key=lambda e:e['url']),
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
               'roxie_source':BASE,'roxie_attempts':attempts}
@@ -256,9 +258,12 @@ def main():
     # Retain the last successful playlist if every mirror fails discovery.
     if errors or not candidates:
         raise RuntimeError('Incomplete discovery; playlist was not updated. See status.json.')
+    if not entries:
+        raise RuntimeError('All playback checks failed; existing playlist retained. See validation_errors in status.json.')
     changed = write_playlist_if_changed(render(entries))
     print('Playlist updated.' if changed else 'Playlist unchanged; no update needed.', flush=True)
 
 
 if __name__ == '__main__':
     main()
+
