@@ -11,10 +11,10 @@ https://admin2.formaturamaxi.com.br/flo4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/flo2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3418396e91fb6b60" tvg-name="NCAA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="NCAA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f83ee6255f0180f7" tvg-name="NCAA10 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA10 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,7 +175,7 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="Arsenal vs Leeds" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Arsenal vs Leeds
+#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="TNT — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
@@ -279,10 +279,6 @@ https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/hub.m3u8
-#EXTINF:-1 tvg-id="zerostreams.692e6d9669a7fea7" tvg-name="UFC Fight Night: Allen vs Duncan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",UFC Fight Night: Allen vs Duncan — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="WWE: Money In The Bank" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE: Money In The Bank — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
