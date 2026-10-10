@@ -15,10 +15,10 @@ https://admin.formaturamaxi.com.br/ncaa.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f25a606eff894650" tvg-name="Washington State vs Utah State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Washington State vs Utah State
+#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="Washington State vs Utah State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Washington State vs Utah State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa2.m3u8
+https://admin.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.49c994e709826827" tvg-name="WoO Sprint Cars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | WoO Sprint Cars
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -75,10 +75,10 @@ https://admin2.formaturamaxi.com.br/bein.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b9b604c0ec26430e" tvg-name="Deportivo Garcilaso vs Sport Huancayo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Deportivo Garcilaso vs Sport Huancayo
+#EXTINF:-1 tvg-id="zerostreams.c7e1a957e30ffcd5" tvg-name="Deportivo Garcilaso vs Sport Huancayo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Deportivo Garcilaso vs Sport Huancayo
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fubo.m3u8
+https://admin.formaturamaxi.com.br/l1max.m3u8
 #EXTINF:-1 tvg-id="zerostreams.70ad55fd94fbf13d" tvg-name="Gimnasia La Plata vs Atlético Tucumán" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Gimnasia La Plata vs Atlético Tucumán
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -103,22 +103,22 @@ https://admin.formaturamaxi.com.br/beines.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="Puebla vs León" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Puebla vs León
+#EXTINF:-1 tvg-id="zerostreams.e67a26045d236015" tvg-name="Puebla vs León" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Puebla vs León
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="Tapatío vs CA La Paz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tapatío vs CA La Paz — Feed 1
+https://admin2.formaturamaxi.com.br/espnmx.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8f58a1768ec0195e" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/eng.m3u8
-#EXTINF:-1 tvg-id="zerostreams.91ffb46b7f416b1a" tvg-name="Tapatío vs CA La Paz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tapatío vs CA La Paz — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.91ffb46b7f416b1a" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/virgin.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c5e1539d121d72ad" tvg-name="Tigres UANL vs Toluca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tigres UANL vs Toluca
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTINF:-1 tvg-id="zerostreams.5cb6649e6e7c1be5" tvg-name="Unión Santa Fe vs Defensa y Justicia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Unión Santa Fe vs Defensa y Justicia
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana.m3u8
+https://admin.formaturamaxi.com.br/afaplay4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="West Ham vs QPR" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | West Ham vs QPR — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
