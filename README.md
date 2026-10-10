@@ -1,7 +1,7 @@
 # ZeroStreams
 
 An automatically maintained M3U playlist of site-published HLS streams,
-refreshed every **15 minutes**. ZeroStreams brings together clean event titles,
+refreshed every **5 minutes**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
 
@@ -33,11 +33,12 @@ Example title for alternate feeds:
 ## Sources
 
 RoxieStreams internal event links and current HLS domain lists are the only
-stream source for `playlist.m3u`. Reachable live manifests are verified. HTTP 403 feeds remain included but are\nreported as unverified, since access from the runner can differ from a player's connection.
+stream source for `playlist.m3u`. Reachable live manifests are verified. HTTP 403 feeds remain included but are
+reported as unverified, since access from the runner can differ from a player's connection.
 
 ## Schedule
 
-Runs **every 15 minutes**, at minutes **07, 22, 37, and 52 of every hour** (UTC and
+Runs **every 5 minutes**, at minutes **02, 07, 12, …, 57 of every hour** (UTC and
 Philippine time have the same minute offsets). GitHub may delay scheduled jobs.
 
 Each run checks for changes. If the playlist is identical, it is not rewritten
@@ -96,4 +97,10 @@ coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
 
-HTTP 403 is treated as access denied, not proof that a stream is offline. These\nsite-published URLs remain in the M3U; `unverified_urls` lists them and\n`live_urls` counts only feeds verified by the runner. Playback is not guaranteed.\nNo Cloudflare challenges or access controls are bypassed.
+HTTP 403 is treated as access denied, not proof that a stream is offline. These
+site-published URLs remain in the M3U; `unverified_urls` lists them and
+`live_urls` counts only feeds verified by the runner. Playback is not guaranteed.
+No Cloudflare challenges or access controls are bypassed.
+
+Only HLS URLs published by the source pages are exported. Embedded player pages
+are not added as video URLs; they require the original website player.

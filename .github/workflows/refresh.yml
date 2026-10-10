@@ -1,7 +1,7 @@
 name: Refresh live playlist
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '2-59/5 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
