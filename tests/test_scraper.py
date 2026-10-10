@@ -73,6 +73,25 @@ class ParserTests(unittest.TestCase):
             self.assertTrue(scraper.write_playlist_if_changed('#EXTM3U\nnew.m3u8\n', path))
             self.assertEqual(path.read_text(), '#EXTM3U\nnew.m3u8\n')
 
+    def test_all_playback_failures_preserve_playlist(self):
+        import tempfile
+        import os
+        from pathlib import Path
+        with tempfile.TemporaryDirectory() as folder:
+            previous = os.getcwd()
+            try:
+                os.chdir(folder)
+                Path('playlist.m3u').write_text('#EXTM3U\nold.m3u8\n')
+                entry = {'name':'Game', 'group':'NFL', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}
+                scan = ({}, {entry['url']:[entry]}, [], [], [])
+                with patch('scraper.select_roxie', return_value=scan), patch('scraper.live_media', side_effect=OSError('Forbidden')):
+                    with self.assertRaisesRegex(RuntimeError, 'All playback checks failed'):
+                        scraper.main()
+                self.assertEqual(Path('playlist.m3u').read_text(), '#EXTM3U\nold.m3u8\n')
+                self.assertIn('Forbidden', Path('status.json').read_text())
+            finally:
+                os.chdir(previous)
+
     def test_m3u_sanitizes_labels(self):
         output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
         self.assertIn(',Game Injected\n', output)
@@ -80,3 +99,4 @@ class ParserTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
