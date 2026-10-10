@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-10-10T18:15:36.439724+00:00",
+  "updated_utc": "2026-10-10T18:23:01.453435+00:00",
   "pages": 80,
-  "candidate_urls": 78,
+  "candidate_urls": 77,
   "live_urls": 0,
-  "published_urls": 78,
+  "published_urls": 77,
   "unverified_urls": [
     "https://admin.formaturamaxi.com.br/fana.m3u8",
     "https://admin.formaturamaxi.com.br/fana5.m3u8",
@@ -33,14 +33,12 @@
     "https://admin2.formaturamaxi.com.br/hub.m3u8",
     "https://admin2.formaturamaxi.com.br/main.m3u8",
     "https://admin2.formaturamaxi.com.br/mlb.m3u8",
-    "https://admin2.formaturamaxi.com.br/mont.m3u8",
     "https://admin2.formaturamaxi.com.br/nas.m3u8",
     "https://admin2.formaturamaxi.com.br/nba5.m3u8",
     "https://admin2.formaturamaxi.com.br/nba6.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa10.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
-    "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa3.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
     "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
@@ -50,6 +48,7 @@
     "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
     "https://admin2.formaturamaxi.com.br/nhl13.m3u8",
     "https://admin2.formaturamaxi.com.br/nhl14.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl2.m3u8",
     "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
     "https://admin2.formaturamaxi.com.br/nhl4.m3u8",
     "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
@@ -78,10 +77,10 @@
     "https://tedesco.formaturamaxi.com.br/nba3.m3u8",
     "https://tedesco.formaturamaxi.com.br/nba7.m3u8",
     "https://tedesco.formaturamaxi.com.br/ncaa11.m3u8",
+    "https://tedesco.formaturamaxi.com.br/ncaa14.m3u8",
     "https://tedesco.formaturamaxi.com.br/ncaa7.m3u8",
     "https://tedesco.formaturamaxi.com.br/nhl.m3u8",
     "https://tedesco.formaturamaxi.com.br/nhl11.m3u8",
-    "https://tedesco.formaturamaxi.com.br/nhl2.m3u8",
     "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
   ],
   "validation_status": "partial-access-denied",
@@ -202,10 +201,6 @@
       "error": "HTTPError: HTTP Error 403"
     },
     {
-      "url": "https://admin2.formaturamaxi.com.br/mont.m3u8",
-      "error": "HTTPError: HTTP Error 403"
-    },
-    {
       "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
       "error": "HTTPError: HTTP Error 403"
     },
@@ -227,10 +222,6 @@
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
-      "error": "HTTPError: HTTP Error 403"
-    },
-    {
-      "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
       "error": "HTTPError: HTTP Error 403"
     },
     {
@@ -267,6 +258,10 @@
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nhl14.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl2.m3u8",
       "error": "HTTPError: HTTP Error 403"
     },
     {
@@ -382,6 +377,10 @@
       "error": "HTTPError: HTTP Error 403"
     },
     {
+      "url": "https://tedesco.formaturamaxi.com.br/ncaa14.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
       "url": "https://tedesco.formaturamaxi.com.br/ncaa7.m3u8",
       "error": "HTTPError: HTTP Error 403"
     },
@@ -391,10 +390,6 @@
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nhl11.m3u8",
-      "error": "HTTPError: HTTP Error 403"
-    },
-    {
-      "url": "https://tedesco.formaturamaxi.com.br/nhl2.m3u8",
       "error": "HTTPError: HTTP Error 403"
     },
     {

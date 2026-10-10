@@ -27,10 +27,10 @@ https://admin2.formaturamaxi.com.br/ncaa12.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e4b1a5be1f9398f0" tvg-name="NCAA14 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA14 — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.4e279ef1f2931f26" tvg-name="NCAA14 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA14 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa14.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
 #EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -179,14 +179,10 @@ https://tedesco.formaturamaxi.com.br/nhl11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c10025fed85014eb" tvg-name="Vancouver Canucks vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vancouver Canucks vs New Jersey Devils — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="Vancouver Canucks vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vancouver Canucks vs New Jersey Devils
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/mont.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d9220dbcbc583b13" tvg-name="Vancouver Canucks vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vancouver Canucks vs New Jersey Devils — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl2.m3u8
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d937ef96b42558f3" tvg-name="F1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | F1 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
