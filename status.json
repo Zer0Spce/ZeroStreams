@@ -1,18 +1,414 @@
 {
-  "updated_utc": "2026-10-10T16:38:01.846845+00:00",
-  "pages": 79,
-  "candidate_urls": 77,
+  "updated_utc": "2026-10-10T18:15:36.439724+00:00",
+  "pages": 80,
+  "candidate_urls": 78,
   "live_urls": 0,
-  "unavailable_urls": 77,
+  "published_urls": 78,
+  "unverified_urls": [
+    "https://admin.formaturamaxi.com.br/fana.m3u8",
+    "https://admin.formaturamaxi.com.br/fana5.m3u8",
+    "https://admin.formaturamaxi.com.br/foxmx.m3u8",
+    "https://admin.formaturamaxi.com.br/nba4.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa10.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa15.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa2.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa3.m3u8",
+    "https://admin.formaturamaxi.com.br/ncaa4.m3u8",
+    "https://admin.formaturamaxi.com.br/tsn.m3u8",
+    "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8",
+    "https://admin2.formaturamaxi.com.br/beines.m3u8",
+    "https://admin2.formaturamaxi.com.br/brighton.m3u8",
+    "https://admin2.formaturamaxi.com.br/cbssn.m3u8",
+    "https://admin2.formaturamaxi.com.br/chelsea.m3u8",
+    "https://admin2.formaturamaxi.com.br/dep.m3u8",
+    "https://admin2.formaturamaxi.com.br/f1.m3u8",
+    "https://admin2.formaturamaxi.com.br/fana.m3u8",
+    "https://admin2.formaturamaxi.com.br/flo.m3u8",
+    "https://admin2.formaturamaxi.com.br/flo2.m3u8",
+    "https://admin2.formaturamaxi.com.br/flo3.m3u8",
+    "https://admin2.formaturamaxi.com.br/flo4.m3u8",
+    "https://admin2.formaturamaxi.com.br/fulham.m3u8",
+    "https://admin2.formaturamaxi.com.br/gill.m3u8",
+    "https://admin2.formaturamaxi.com.br/hub.m3u8",
+    "https://admin2.formaturamaxi.com.br/main.m3u8",
+    "https://admin2.formaturamaxi.com.br/mlb.m3u8",
+    "https://admin2.formaturamaxi.com.br/mont.m3u8",
+    "https://admin2.formaturamaxi.com.br/nas.m3u8",
+    "https://admin2.formaturamaxi.com.br/nba5.m3u8",
+    "https://admin2.formaturamaxi.com.br/nba6.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa10.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa3.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa8.m3u8",
+    "https://admin2.formaturamaxi.com.br/ncaa9.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl13.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl14.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl4.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
+    "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
+    "https://admin2.formaturamaxi.com.br/oldham.m3u8",
+    "https://admin2.formaturamaxi.com.br/one.m3u8",
+    "https://admin2.formaturamaxi.com.br/porto.m3u8",
+    "https://admin2.formaturamaxi.com.br/ppv.m3u8",
+    "https://admin2.formaturamaxi.com.br/ppv2.m3u8",
+    "https://admin2.formaturamaxi.com.br/rma.m3u8",
+    "https://admin2.formaturamaxi.com.br/russia.m3u8",
+    "https://admin2.formaturamaxi.com.br/tnt.m3u8",
+    "https://admin2.formaturamaxi.com.br/tnt2.m3u8",
+    "https://admin2.formaturamaxi.com.br/westham.m3u8",
+    "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+    "https://tedesco.formaturamaxi.com.br/benfica.m3u8",
+    "https://tedesco.formaturamaxi.com.br/cbssn.m3u8",
+    "https://tedesco.formaturamaxi.com.br/f1.m3u8",
+    "https://tedesco.formaturamaxi.com.br/golazo.m3u8",
+    "https://tedesco.formaturamaxi.com.br/mlb.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nba.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nba2.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nba3.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nba7.m3u8",
+    "https://tedesco.formaturamaxi.com.br/ncaa11.m3u8",
+    "https://tedesco.formaturamaxi.com.br/ncaa7.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nhl.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nhl11.m3u8",
+    "https://tedesco.formaturamaxi.com.br/nhl2.m3u8",
+    "https://tedesco.formaturamaxi.com.br/wwe.m3u8"
+  ],
+  "validation_status": "partial-access-denied",
+  "unavailable_urls": 0,
   "unsupported_pages": [],
   "errors": [],
-  "event_groups": 0,
+  "validation_errors": [
+    {
+      "url": "https://admin.formaturamaxi.com.br/fana.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/fana5.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/foxmx.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/nba4.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa10.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa15.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa3.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/ncaa4.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin.formaturamaxi.com.br/tsn.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/beines.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/brighton.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/cbssn.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/chelsea.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/dep.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/fana.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/flo.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/flo2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/flo3.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/flo4.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/fulham.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/gill.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/hub.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/main.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/mlb.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/mont.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nba5.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nba6.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa10.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa12.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa13.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa14.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa3.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa5.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa8.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ncaa9.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl12.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl13.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl14.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl4.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/nhl9.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/oldham.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/one.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/porto.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ppv.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/ppv2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/rma.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/russia.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/tnt.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/tnt2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/westham.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://admin2.formaturamaxi.com.br/wwe.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/benfica.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/f1.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/golazo.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/mlb.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nba.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nba2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nba3.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nba7.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/ncaa11.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/ncaa7.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nhl.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nhl11.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/nhl2.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    },
+    {
+      "url": "https://tedesco.formaturamaxi.com.br/wwe.m3u8",
+      "error": "HTTPError: HTTP Error 403"
+    }
+  ],
+  "event_groups": 71,
   "event_posters": 0,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
       "base": "https://roxiestreams.info/",
-      "pages": 79,
+      "pages": 80,
       "errors": []
     }
   ]
