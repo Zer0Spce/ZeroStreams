@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="zerostreams.89b2fa6b80309892" tvg-name="F1 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",Formula 1 | F1 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3c7a30f9aaa32a5e" tvg-name="TSN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/formula-1.png" group-title="Formula 1",Formula 1 | TSN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -59,10 +63,6 @@ https://admin2.formaturamaxi.com.br/ncaa9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8067fe3d2528bb1f" tvg-name="San Diego State vs Oregon State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | San Diego State vs Oregon State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa15.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a6b214907c7a09ef" tvg-name="Schofield vs Bahdi" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Schofield vs Bahdi
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -179,42 +179,30 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d257cc25c86c5ffb" tvg-name="BEIN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | BEIN — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.8067fe3d2528bb1f" tvg-name="NCAA15 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NCAA15 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/ncaa15.m3u8
+#EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="Arsenal vs Leeds" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Arsenal vs Leeds
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e9bc51d855eee6c3" tvg-name="BEINES — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | BEINES — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/beines.m3u8
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.041b9fea66acbefb" tvg-name="BENFICA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | BENFICA — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/benfica.m3u8
-#EXTINF:-1 tvg-id="zerostreams.70ad55fd94fbf13d" tvg-name="Chelsea vs Bournemouth" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Chelsea vs Bournemouth
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d8296ab5cadfc3c" tvg-name="DEP — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | DEP — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.428cd63832a9c10f" tvg-name="FOXMX — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | FOXMX — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d770af11a15f66f2" tvg-name="Ipswich vs Fulham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Ipswich vs Fulham — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTINF:-1 tvg-id="zerostreams.58b4ebf339e21476" tvg-name="GOLAZO — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | GOLAZO — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.01e16a8677b54e19" tvg-name="Ipswich vs Fulham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Ipswich vs Fulham — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay3en.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7406a41201f0b36b" tvg-name="Ipswich vs Fulham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Ipswich vs Fulham — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sportdigitalhd.m3u8
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="Juárez vs Tijuana" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Juárez vs Tijuana — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -239,10 +227,10 @@ https://admin2.formaturamaxi.com.br/universo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1c43ba3b9a93898" tvg-name="Oldham Athletic vs Accrignton Stanley" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Oldham Athletic vs Accrignton Stanley
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTINF:-1 tvg-id="zerostreams.20d9cc5d3537b3a2" tvg-name="ONE — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | ONE — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/one.m3u8
+https://tedesco.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 tvg-id="zerostreams.367d9bd8a8f87394" tvg-name="River Plate vs Estudiantes Rio Cuarto" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | River Plate vs Estudiantes Rio Cuarto
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -259,14 +247,6 @@ https://admin2.formaturamaxi.com.br/russia.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5cb6649e6e7c1be5" tvg-name="Sunderland vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Sunderland vs Brighton
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1df39fd0bec0df1e" tvg-name="Swansea City vs Norwich" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Swansea City vs Norwich
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay1.m3u8
 #EXTINF:-1 tvg-id="zerostreams.978b25f6b6f39355" tvg-name="UFC Fight Night: Allen vs Duncan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",UFC Fight Night: Allen vs Duncan — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
