@@ -1,7 +1,7 @@
 # ZeroStreams
 
-An automatically maintained M3U playlist of site-published HLS streams,
-refreshed every **5 minutes**. ZeroStreams brings together clean event titles,
+An automatically maintained M3U playlist of validated live HLS streams,
+refreshed every **15 minutes**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
 
@@ -33,12 +33,11 @@ Example title for alternate feeds:
 ## Sources
 
 RoxieStreams internal event links and current HLS domain lists are the only
-stream source for `playlist.m3u`. Reachable live manifests are verified. HTTP 403 feeds remain included but are
-reported as unverified, since access from the runner can differ from a player's connection.
+stream source for `playlist.m3u`. Only live manifests with reachable media segments are included.
 
 ## Schedule
 
-Runs **every 5 minutes**, at minutes **02, 07, 12, …, 57 of every hour** (UTC and
+Runs **every 15 minutes**, at minutes **07, 22, 37, and 52 of every hour** (UTC and
 Philippine time have the same minute offsets). GitHub may delay scheduled jobs.
 
 Each run checks for changes. If the playlist is identical, it is not rewritten
@@ -91,16 +90,8 @@ feeds requiring those headers may fail there. No DRM, authentication, or access
 controls are bypassed. Use streams where you have permission to access them.
 
 An incomplete RoxieStreams discovery fails the run and retains the last
-successful playlist. A scan with no reachable streams fails and retains the existing
-playlist; validation errors are available in the run's diagnostics artifact. Consult the scan report and Actions history for freshness and source
+successful playlist. A complete scan with no reachable streams writes an empty
+playlist. Consult the scan report and Actions history for freshness and source
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
-
-HTTP 403 is treated as access denied, not proof that a stream is offline. These
-site-published URLs remain in the M3U; `unverified_urls` lists them and
-`live_urls` counts only feeds verified by the runner. Playback is not guaranteed.
-No Cloudflare challenges or access controls are bypassed.
-
-Only HLS URLs published by the source pages are exported. Embedded player pages
-are not added as video URLs; they require the original website player.
