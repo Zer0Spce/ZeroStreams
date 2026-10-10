@@ -123,10 +123,6 @@ https://admin2.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f4327762b8cd7bbc" tvg-name="Anaheim Ducks vs Calgary Flames" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Anaheim Ducks vs Calgary Flames
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="zerostreams.013d747a4b788de1" tvg-name="Carolina Hurricanes vs Chicago Blackhawks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Carolina Hurricanes vs Chicago Blackhawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -143,6 +139,10 @@ https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f4327762b8cd7bbc" tvg-name="Los Angeles Kings vs Vegas Golden Knights" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Los Angeles Kings vs Vegas Golden Knights
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl13.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f87bb37c5cdba743" tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Minnesota Wild vs Florida Panthers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
