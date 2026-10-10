@@ -90,8 +90,8 @@ feeds requiring those headers may fail there. No DRM, authentication, or access
 controls are bypassed. Use streams where you have permission to access them.
 
 An incomplete RoxieStreams discovery fails the run and retains the last
-successful playlist. A complete scan with no reachable streams writes an empty
-playlist. Consult the scan report and Actions history for freshness and source
+successful playlist. A scan with no reachable streams fails and retains the existing
+playlist; validation errors are available in the run's diagnostics artifact. Consult the scan report and Actions history for freshness and source
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
