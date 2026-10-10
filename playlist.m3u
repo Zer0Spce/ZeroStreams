@@ -283,11 +283,7 @@ https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/hub.m3u8
-#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="WWE: Money In The Bank" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE: Money In The Bank — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="WWE: Money In The Bank" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE: Money In The Bank
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f0ae8d396889ae29" tvg-name="WWE: Money In The Bank" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE: Money In The Bank — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/wwe.m3u8
