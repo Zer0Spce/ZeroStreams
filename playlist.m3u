@@ -3,50 +3,6 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e2e7c0009ff8cdbc" tvg-name="Arizona vs West Virginia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Arizona vs West Virginia
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="NCAA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e9789c6fe677a0a4" tvg-name="NCAA12 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA12 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8766a8933e635ca7" tvg-name="NCAA13 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA13 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa13.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e279ef1f2931f26" tvg-name="NCAA14 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA14 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
-#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f79a6a9f6b94d023" tvg-name="NCAA3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA3 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.577d4da0eefd68fc" tvg-name="NCAA4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA4 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/ncaa4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c9fdb3912e689ced" tvg-name="NCAA7 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA7 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a4450f3ba45b0a00" tvg-name="NCAA8 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA8 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e070e537eb316f7" tvg-name="NCAA9 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA9 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.41df34b610ddfe04" tvg-name="PPV — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | PPV — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -55,14 +11,6 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d4dbc78baff9cb32" tvg-name="UCLA vs Oregon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | UCLA vs Oregon
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa11.m3u8
-#EXTINF:-1 tvg-id="zerostreams.249a0c417d56aea7" tvg-name="UTAH — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | UTAH — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/utah.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="Los Angeles Dodgers vs Milwaukee Brewers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB | Los Angeles Dodgers vs Milwaukee Brewers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -71,10 +19,18 @@ https://admin2.formaturamaxi.com.br/mlb.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5285be6bf66cb62e" tvg-name="MotoGP - Indonesian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Indonesian Grand Prix
+#EXTINF:-1 tvg-id="zerostreams.5285be6bf66cb62e" tvg-name="MotoGP - Indonesian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Indonesian Grand Prix — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b04edbe7390dbd97" tvg-name="MotoGP - Indonesian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Indonesian Grand Prix — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/motogp.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0154d5830ea98f28" tvg-name="NCAA6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nascar.png" group-title="NASCAR",NASCAR | NCAA6 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="Dallas Mavericks vs Houston Rockets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Dallas Mavericks vs Houston Rockets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -87,6 +43,42 @@ https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.40b9e8205db14a08" tvg-name="Cleveland Browns vs New York Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Cleveland Browns vs New York Jets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a3c187030acf6056" tvg-name="Denver Broncos vs Los Angeles Chargers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Denver Broncos vs Los Angeles Chargers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f2af93d3254039e1" tvg-name="Las Vegas Raiders vs New England Patriots" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Las Vegas Raiders vs New England Patriots
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL RedZone
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/redzone.m3u8
+#EXTINF:-1 tvg-id="zerostreams.896a941d61e5228d" tvg-name="NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL4 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.428db757ea05ebf3" tvg-name="NFL5 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL5 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3cdb8ed3b8729ba6" tvg-name="NFL6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL6 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="Philadelphia Eagles vs Jacksonville Jaguars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Philadelphia Eagles vs Jacksonville Jaguars — Feed 1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="Philadelphia Eagles vs Jacksonville Jaguars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Philadelphia Eagles vs Jacksonville Jaguars — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c54faeee4b6db3c6" tvg-name="Carolina Hurricanes vs Philadelphia Flyers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Carolina Hurricanes vs Philadelphia Flyers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -95,14 +87,6 @@ https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="NCAA10 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NCAA10 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0154d5830ea98f28" tvg-name="NCAA6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NCAA6 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bfca3ca6eccd14c7" tvg-name="TNT — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -131,10 +115,14 @@ https://admin2.formaturamaxi.com.br/brighton.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/oldham.m3u8
-#EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="Flamengo vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Flamengo vs Fluminense
+#EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="Flamengo vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Flamengo vs Fluminense — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="zerostreams.75039370ef3524e2" tvg-name="Flamengo vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Flamengo vs Fluminense — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ncaa10.m3u8
 #EXTINF:-1 tvg-id="zerostreams.0d198167d7b98997" tvg-name="FOXONE — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | FOXONE — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
