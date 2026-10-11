@@ -43,18 +43,42 @@ https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.40b9e8205db14a08" tvg-name="Cleveland Browns vs New York Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Cleveland Browns vs New York Jets
+#EXTINF:-1 tvg-id="zerostreams.428db757ea05ebf3" tvg-name="Baltimore Ravens vs Atlanta Falcons" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Baltimore Ravens vs Atlanta Falcons
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.65923d32f5a9e807" tvg-name="Cincinnati Bengals vs Miami Dolphins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Cincinnati Bengals vs Miami Dolphins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.df781fdafdeb8a56" tvg-name="Cleveland Browns vs New York Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Cleveland Browns vs New York Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl7.m3u8
+https://temp.formaturamaxi.com.br/nfl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a3c187030acf6056" tvg-name="Denver Broncos vs Los Angeles Chargers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Denver Broncos vs Los Angeles Chargers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f2af93d3254039e1" tvg-name="Las Vegas Raiders vs New England Patriots" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Las Vegas Raiders vs New England Patriots
+#EXTINF:-1 tvg-id="zerostreams.896a941d61e5228d" tvg-name="Detroit Lions vs Arizona Cardinals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Detroit Lions vs Arizona Cardinals
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nfl4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.349af90cb89a616a" tvg-name="Houston Texans vs Tennessee Titans" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Houston Texans vs Tennessee Titans
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nfl3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f961819d5bba5c88" tvg-name="Indianapolis Colts vs Pittsburgh Steelers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Indianapolis Colts vs Pittsburgh Steelers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.66216efed8e00329" tvg-name="Las Vegas Raiders vs New England Patriots" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Las Vegas Raiders vs New England Patriots
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl5.m3u8
+https://tedesco.formaturamaxi.com.br/nfl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.76db5ae15928eb35" tvg-name="New York Giants vs Washington Commanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | New York Giants vs Washington Commanders
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nfl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d6a567cee29ec223" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL RedZone
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,14 +87,6 @@ https://admin2.formaturamaxi.com.br/redzone.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.896a941d61e5228d" tvg-name="NFL4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL4 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.428db757ea05ebf3" tvg-name="NFL5 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL5 — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3cdb8ed3b8729ba6" tvg-name="NFL6 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL6 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
