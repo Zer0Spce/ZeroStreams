@@ -31,14 +31,10 @@ https://admin2.formaturamaxi.com.br/ncaa13.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa14.m3u8
-#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.589b236ca69f3898" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f9c8f30f49ab73a2" tvg-name="NCAA2 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA2 — Shared Feed — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.577d4da0eefd68fc" tvg-name="NCAA4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | NCAA4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -59,10 +55,6 @@ https://admin2.formaturamaxi.com.br/ncaa9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.491c68005ea01261" tvg-name="San Diego State vs Oregon State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | San Diego State vs Oregon State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa15.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a6b214907c7a09ef" tvg-name="Schofield vs Bahdi" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | Schofield vs Bahdi
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -107,10 +99,6 @@ https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.78d793ab1c2025a0" tvg-name="Minnesota Timberwolves vs Miami Heat" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Minnesota Timberwolves vs Miami Heat
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="Philadelphia 76ers vs Boston Celtics" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Philadelphia 76ers vs Boston Celtics
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
