@@ -91,10 +91,6 @@ https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.55caa73d9315399d" tvg-name="Levante vs Sevilla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Levante vs Sevilla
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="RB Bragantino vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | RB Bragantino vs Cruzeiro
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
