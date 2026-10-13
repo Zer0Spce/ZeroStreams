@@ -55,6 +55,14 @@ https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.38b7a60a0bd9b2cc" tvg-name="Calgary Flames vs Anaheim Ducks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Calgary Flames vs Anaheim Ducks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl14.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c05a72db25082020" tvg-name="Edmonton Oilers vs Los Angeles Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Edmonton Oilers vs Los Angeles Kings
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl15.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="Florida Panthers vs Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Florida Panthers vs Columbus Blue Jackets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
