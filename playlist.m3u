@@ -143,10 +143,14 @@ https://admin2.formaturamaxi.com.br/foxmx.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b8007b2a2ed3d026" tvg-name="Boca Juniors vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Vasco Gama
+#EXTINF:-1 tvg-id="zerostreams.ed70d6f3209254cd" tvg-name="Boca Juniors vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Vasco Gama — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/flu.m3u8
+https://admin2.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="Boca Juniors vs Vasco Gama" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Vasco Gama — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cb28bd0f81ee6f06" tvg-name="CBSSN — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | CBSSN — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
