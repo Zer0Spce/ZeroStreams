@@ -51,19 +51,15 @@ https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2bd03a7137114637" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/espn2mx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 3
+#EXTINF:-1 tvg-id="zerostreams.fa34ff4af3d6823b" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 4
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="Buffalo Bills vs Los Angeles Rams" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Buffalo Bills vs Los Angeles Rams — Feed 3
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
