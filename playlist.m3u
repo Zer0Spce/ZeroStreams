@@ -19,14 +19,10 @@ https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.3fc8640d17e3b038" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f3340bcf197f0b1f" tvg-name="MLB — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/mlb.png" group-title="MLB",MLB — Shared Feed — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/mlb.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b04edbe7390dbd97" tvg-name="MotoGP - Indonesian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Indonesian Grand Prix
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
