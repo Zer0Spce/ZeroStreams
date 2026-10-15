@@ -119,6 +119,10 @@ https://admin.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.27c908a46190dfb5" tvg-name="Celta Vigo vs Juventus" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Celta Vigo vs Juventus
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/juve.m3u8
 #EXTINF:-1 tvg-id="zerostreams.211ee88c79943f14" tvg-name="Hearts vs Nordsjælland" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Hearts vs Nordsjælland
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -127,6 +131,10 @@ https://admin2.formaturamaxi.com.br/tnt4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c32d7f040e950207" tvg-name="Marseille vs Olympiakos" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Marseille vs Olympiakos
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/mars.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9b4449ad0849b3bd" tvg-name="Salzburg vs Milan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Salzburg vs Milan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
