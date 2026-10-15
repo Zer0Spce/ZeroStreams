@@ -55,10 +55,10 @@ https://admin2.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA4 — Shared Feed
+#EXTINF:-1 tvg-id="zerostreams.872b165b84888df4" tvg-name="NBA4 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA4 — Shared Feed
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba4.m3u8
+https://tedesco.formaturamaxi.com.br/nba4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="Phoenix Suns vs San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Phoenix Suns vs San Antonio Spurs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
