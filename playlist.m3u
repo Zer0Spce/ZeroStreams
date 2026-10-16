@@ -115,7 +115,11 @@ https://admin2.formaturamaxi.com.br/juve.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="Estudiantes vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Estudiantes vs Flamengo — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.d59553801963170a" tvg-name="Estudiantes vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Estudiantes vs Flamengo — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/espnbr.m3u8
+#EXTINF:-1 tvg-id="zerostreams.19fa39b465c463ed" tvg-name="Estudiantes vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Estudiantes vs Flamengo — Feed 3
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/bein.m3u8
