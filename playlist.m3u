@@ -91,10 +91,6 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/afaplay1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.55caa73d9315399d" tvg-name="Deportivo La Coruña vs Levante" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Deportivo La Coruña vs Levante
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1c43ba3b9a93898" tvg-name="Frankfurt vs Köln" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Frankfurt vs Köln
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -103,10 +99,6 @@ https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ecc9e293394f8ed3" tvg-name="Le Mans vs Toulouse" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Le Mans vs Toulouse
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c32d7f040e950207" tvg-name="Los Chankas vs ADT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Los Chankas vs ADT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
