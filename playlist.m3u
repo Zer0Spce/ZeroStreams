@@ -79,10 +79,14 @@ https://admin.formaturamaxi.com.br/ncaa.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/athens.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d0502e525e8137ca" tvg-name="Boca Juniors vs Talleres Cordoba" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Talleres Cordoba
+#EXTINF:-1 tvg-id="zerostreams.70ad55fd94fbf13d" tvg-name="Boca Juniors vs Talleres Cordoba" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Talleres Cordoba — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2.m3u8
+https://admin.formaturamaxi.com.br/afaplay2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.54edb93a7a29c2d5" tvg-name="Boca Juniors vs Talleres Cordoba" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Boca Juniors vs Talleres Cordoba — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/afaplay2en.m3u8
 #EXTINF:-1 tvg-id="zerostreams.142e023ed780a42c" tvg-name="Burnley vs Wolves" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Burnley vs Wolves — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
