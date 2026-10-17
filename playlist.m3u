@@ -35,6 +35,10 @@ https://admin.formaturamaxi.com.br/nba5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="Charlotte Hornets vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Charlotte Hornets vs Memphis Grizzlies
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="Miami Heat vs Orlando Magic" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Orlando Magic
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -111,10 +115,10 @@ https://admin.formaturamaxi.com.br/fanapt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/match3ru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.211ee88c79943f14" tvg-name="Necaxa vs Atlas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Necaxa vs Atlas
+#EXTINF:-1 tvg-id="zerostreams.d175f0295adbe6e5" tvg-name="Necaxa vs Atlas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Necaxa vs Atlas
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
+https://admin2.formaturamaxi.com.br/foxdep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.44b88ab14705006b" tvg-name="Tijuana vs Puebla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tijuana vs Puebla — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
