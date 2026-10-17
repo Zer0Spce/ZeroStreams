@@ -135,14 +135,10 @@ https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foxdep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44b88ab14705006b" tvg-name="Tijuana vs Puebla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tijuana vs Puebla — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.e32a1a4c898d9f3a" tvg-name="Tijuana vs Puebla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tijuana vs Puebla
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ee123a56ab80ed55" tvg-name="Tijuana vs Puebla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Tijuana vs Puebla — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/porto.m3u8
+https://admin2.formaturamaxi.com.br/tijuana.m3u8
 #EXTINF:-1 tvg-id="zerostreams.978b25f6b6f39355" tvg-name="UFC Fight Night: Buckley vs Malott" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",UFC Fight Night: Buckley vs Malott — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
