@@ -1,5 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.e1830fdccffe245a" tvg-name="WEC - 6 Hours of Barcelona" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | WEC - 6 Hours of Barcelona
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/wec.m3u8
