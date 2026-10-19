@@ -47,14 +47,14 @@ https://admin2.formaturamaxi.com.br/nfl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3cefc453fd5835d0" tvg-name="Dallas Cowboys vs Green Bay Packers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Dallas Cowboys vs Green Bay Packers — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/peacock2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9701872cec01047f" tvg-name="Dallas Cowboys vs Green Bay Packers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Dallas Cowboys vs Green Bay Packers — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.9701872cec01047f" tvg-name="Dallas Cowboys vs Green Bay Packers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Dallas Cowboys vs Green Bay Packers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ee54020e7088c7ea" tvg-name="Dallas Cowboys vs Green Bay Packers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Dallas Cowboys vs Green Bay Packers — Feed 2
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.293a78cebb4bc24f" tvg-name="Houston Texans vs Jacksonville Jaguars" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL | Houston Texans vs Jacksonville Jaguars — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,6 +175,10 @@ https://admin2.formaturamaxi.com.br/madrid.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5a432e4dcdac2020" tvg-name="Monterrey vs Pachuca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Monterrey vs Pachuca
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tudnus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.054ddf698da6f858" tvg-name="Nottingham Forest vs Arsenal" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Nottingham Forest vs Arsenal
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
