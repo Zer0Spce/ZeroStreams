@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['scraper.py', 'metadata.py', 'tests/**', 'assets/**', '.github/workflows/refresh.yml']
+    paths: ['scraper.py', 'metadata.py', 'schedule.py', 'artwork.py', 'tests/**', 'assets/**', '.github/workflows/refresh.yml']
 permissions:
   contents: write
 concurrency:

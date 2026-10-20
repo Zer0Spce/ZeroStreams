@@ -13,6 +13,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 from metadata import clean_title, decorate, roxie_group
 from schedule import start_times
+from artwork import enrich
 
 BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
 BACKUPS = tuple(x.rstrip('/')+'/' for x in os.getenv('ROXIE_BACKUP_URLS','https://roxiestreams.biz/,https://roxiestreams.su/').split(',') if x.strip())
@@ -249,7 +250,7 @@ def main():
                 entries.extend(result)
             else:
                 unavailable += 1
-    entries = decorate(entries)
+    entries = enrich(decorate(entries))
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors,

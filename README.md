@@ -101,4 +101,4 @@ behavior are covered by automated tests.
 
 Scheduled start times are read from the source's Pacific-time event rows and displayed in Philippine time (`PHT`, Asia/Manila, UTC+8), including the date. Missing times are omitted. Shared stream URLs list their associated events and remain explicitly labeled Shared Feed. Distinct alternate streams retain numbered feed labels.
 
-Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/logos.json) and [TheSportsDB sports artwork](https://www.thesportsdb.com/docs/api). These are references; this update does not replace the existing placeholder images or change playback validation.
+Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/logos.json) and [TheSportsDB sports artwork](https://www.thesportsdb.com/docs/api). Artwork matching is enabled: exact, unambiguous channel names use IPTV-org; identified NBA, NFL, NHL, MLB, Formula 1 and WNBA groups use TheSportsDB league badges. Existing event artwork takes priority. Unknown matches and lookup failures retain the placeholder. No paid key is required; playback validation is unchanged.
