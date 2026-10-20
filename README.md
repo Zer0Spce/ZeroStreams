@@ -95,10 +95,3 @@ playlist. Consult the scan report and Actions history for freshness and source
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
-
-
-### Published stream listings
-
-The playlist includes all discovered site-published HLS URLs, including event placeholders that may not be broadcasting yet. Entries are labeled `[Unverified]` by default; inclusion does not confirm live playback. Refreshes run every 15 minutes and unchanged playlists are not committed. Discovery failures retain the existing playlist.
-
-Playback checks are optional (`VERIFY_STREAMS=1`). Successful checks remove the unverified label; failed checks retain the published URL and record diagnostics. Access-denied responses are not retried. Embedded web pages without an exposed HLS URL cannot be represented as playable M3U entries.
