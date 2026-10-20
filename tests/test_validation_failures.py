@@ -10,7 +10,7 @@ import scraper
 
 
 class ValidationFailureTests(unittest.TestCase):
-    def test_access_denied_preserves_playlist_and_reports_failure(self):
+    def test_access_denied_publishes_unverified_and_reports_failure(self):
         entry = {'url': 'https://example.test/live.m3u8',
                  'page': 'https://roxiestreams.info/soccer-streams-1',
                  'name': 'Soccer', 'group': 'Soccer'}
@@ -21,14 +21,17 @@ class ValidationFailureTests(unittest.TestCase):
                 os.chdir(directory)
                 original = '#EXTM3U\n# last successful playlist\n'
                 Path('playlist.m3u').write_text(original)
-                with patch.object(scraper, 'select_roxie', return_value=discovery), patch.object(
+                with patch.dict(os.environ, {'VERIFY_STREAMS': '1'}), patch.object(scraper, 'select_roxie', return_value=discovery), patch.object(
                     scraper, 'live_media', side_effect=HTTPError(entry['url'], 403, 'Forbidden', {}, None)
                 ):
-                    with self.assertRaisesRegex(RuntimeError, 'No streams passed'):
-                        scraper.main()
-                self.assertEqual(Path('playlist.m3u').read_text(), original)
+                    scraper.main()
+                playlist = Path('playlist.m3u').read_text()
+                self.assertIn(entry['url'], playlist)
+                self.assertIn('[Unverified]', playlist)
                 report = json.loads(Path('status.json').read_text())
-                self.assertTrue(report['playlist_retained'])
+                self.assertFalse(report['playlist_retained'])
+                self.assertEqual(report['live_urls'], 0)
+                self.assertEqual(report['published_urls'], 1)
                 self.assertEqual(report['validation_errors'][0]['reason'], 'access_denied')
                 self.assertEqual(report['validation_errors'][0]['http_status'], 403)
             finally:

@@ -234,14 +234,16 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         pages, candidates, unsupported, errors, attempts = select_roxie(pool)
         entries, unavailable, validation_errors = [], 0, []
-        print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
+        print(f'Processing {len(candidates)} published HLS URLs from {len(pages)} pages...', flush=True)
         def check(aliases):
+            if os.getenv('VERIFY_STREAMS', '0') != '1':
+                return [dict(alias, playback_status='unverified') for alias in aliases], []
             failures = []
             for entry in aliases:
                 try:
                     if live_media(entry['url'], entry['page']):
                         # Use the verified referrer on the deduplicated playback entry.
-                        return [dict(alias, page=entry['page']) for alias in aliases], []
+                        return [dict(alias, page=entry['page'], playback_status='verified') for alias in aliases], []
                     failures.append({'url': entry['url'], 'page': entry['page'],
                                      'reason': 'not_live_or_invalid_media'})
                 except Exception as exc:
@@ -251,7 +253,7 @@ def main():
                                      'http_status': code, 'error': str(exc)})
                     if code in (401, 403):
                         break
-            return None, failures
+            return [dict(alias, playback_status='unverified') for alias in aliases], failures
         for index, (result, failures) in enumerate(pool.map(check, candidates.values()), 1):
             validation_errors.extend(failures)
             if index % 10 == 0:
@@ -261,11 +263,16 @@ def main():
             else:
                 unavailable += 1
     entries = decorate(entries)
+    verified = sum(e.get('playback_status') == 'verified' for e in entries)
+    for entry in entries:
+        if entry.get('playback_status') != 'verified':
+            entry['display_name'] = entry.get('display_name', entry['name']) + ' [Unverified]'
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
-              'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
+              'candidate_urls': len(candidates), 'live_urls': verified, 'published_urls': len(entries),
+              'unverified_urls': len(entries) - verified, 'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors,
               'validation_errors': validation_errors,
-              'playback_status': 'verified' if entries else 'no_verified_streams',
+              'playback_status': 'verified' if verified == len(entries) and entries else 'unverified_or_mixed',
               'playlist_retained': bool(errors or not entries),
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
