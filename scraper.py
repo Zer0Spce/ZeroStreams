@@ -10,6 +10,7 @@ from pathlib import Path
 import re
 import time
 from urllib.parse import urljoin, urlsplit, urlunsplit
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 from metadata import clean_title, decorate, roxie_group
 
@@ -25,6 +26,12 @@ def fetch(url, referer=BASE):
         try:
             with urlopen(Request(url, headers={'User-Agent': UA, 'Referer': referer}), timeout=TIMEOUT) as response:
                 return response.read(2_000_000).decode('utf-8', errors='replace')
+        except HTTPError as exc:
+            if exc.code in (401, 403):
+                raise
+            if attempt:
+                raise
+            time.sleep(0.5)
         except Exception:
             if attempt:
                 raise
@@ -226,18 +233,27 @@ def main():
     print('Discovering stream pages...', flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         pages, candidates, unsupported, errors, attempts = select_roxie(pool)
-        entries, unavailable = [], 0
+        entries, unavailable, validation_errors = [], 0, []
         print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
         def check(aliases):
+            failures = []
             for entry in aliases:
                 try:
                     if live_media(entry['url'], entry['page']):
                         # Use the verified referrer on the deduplicated playback entry.
-                        return [dict(alias, page=entry['page']) for alias in aliases]
-                except Exception:
-                    pass
-            return None
-        for index, result in enumerate(pool.map(check, candidates.values()), 1):
+                        return [dict(alias, page=entry['page']) for alias in aliases], []
+                    failures.append({'url': entry['url'], 'page': entry['page'],
+                                     'reason': 'not_live_or_invalid_media'})
+                except Exception as exc:
+                    code = getattr(exc, 'code', None)
+                    failures.append({'url': entry['url'], 'page': entry['page'],
+                                     'reason': 'access_denied' if code in (401, 403) else 'request_failed',
+                                     'http_status': code, 'error': str(exc)})
+                    if code in (401, 403):
+                        break
+            return None, failures
+        for index, (result, failures) in enumerate(pool.map(check, candidates.values()), 1):
+            validation_errors.extend(failures)
             if index % 10 == 0:
                 print(f'Checked {index}/{len(candidates)} URLs', flush=True)
             if result:
@@ -248,6 +264,9 @@ def main():
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors,
+              'validation_errors': validation_errors,
+              'playback_status': 'verified' if entries else 'no_verified_streams',
+              'playlist_retained': bool(errors or not entries),
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
               'roxie_source':BASE,'roxie_attempts':attempts}
@@ -256,9 +275,13 @@ def main():
     # Retain the last successful playlist if every mirror fails discovery.
     if errors or not candidates:
         raise RuntimeError('Incomplete discovery; playlist was not updated. See status.json.')
+    if not entries:
+        raise RuntimeError('No streams passed playback validation; previous playlist retained. '
+                           'This does not prove the streams are offline. See validation_errors in status.json.')
     changed = write_playlist_if_changed(render(entries))
     print('Playlist updated.' if changed else 'Playlist unchanged; no update needed.', flush=True)
 
 
 if __name__ == '__main__':
     main()
+
