@@ -95,3 +95,10 @@ playlist. Consult the scan report and Actions history for freshness and source
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, deduplication, title, and image
 behavior are covered by automated tests.
+
+
+### Names, schedules, and artwork
+
+Scheduled start times are read from the source's Pacific-time event rows and displayed in Philippine time (`PHT`, Asia/Manila, UTC+8), including the date. Missing times are omitted. Shared stream URLs list their associated events and remain explicitly labeled Shared Feed. Distinct alternate streams retain numbered feed labels.
+
+Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/logos.json) and [TheSportsDB sports artwork](https://www.thesportsdb.com/docs/api). These are references; this update does not replace the existing placeholder images or change playback validation.

@@ -1,5 +1,6 @@
 """Consistent IPTV titles, category artwork, and feed labels."""
 from collections import defaultdict
+from schedule import pht_time
 import hashlib
 import html
 import re
@@ -25,7 +26,8 @@ def clean_title(value):
     value = re.sub(r'\bLA Clippers\b', 'Los Angeles Clippers', value)
     value = re.sub(r'\bDenamrk\b', 'Denmark', value)
     value = re.sub(r'\s*-\s*(Race|Malaysian Grand Prix)\b', r': \1', value)
-    return value.strip()
+    value = re.sub(r'\broxiestreams\b\s*[-|:]?\s*', '', value, flags=re.I)
+    return value.strip(' -|:')
 
 
 def event_key(name):
@@ -55,7 +57,9 @@ def decorate(entries):
         entry['provider'] = ' + '.join(sorted({e.get('provider','RoxieStreams') for e in aliases}))
         if len(names) > 1:
             channel = urlsplit(url).path.rsplit('/',1)[-1].removesuffix('.m3u8')
-            entry['name'] = channel.upper() + ' — Shared Feed'
+            labels = sorted({clean_title(e['name']) + (' (' + pht_time(e['starts_at']) + ')' if e.get('starts_at') else '') for e in aliases})
+            entry['name'] = channel.upper() + ' — Shared Feed: ' + ' / '.join(labels)
+            entry['starts_at'] = None
             categories = {alias['group'] for alias in aliases}
             entry['group'] = next(iter(categories)) if len(categories) == 1 else 'Shared Channels'
             entry['poster'] = ''
@@ -76,6 +80,8 @@ def decorate(entries):
         feeds = sorted(groups[key], key=lambda e:(e['provider'],e.get('source_tag',''),e['url']))
         for index, entry in enumerate(feeds,1):
             details = [f'Feed {index}'] if len(feeds)>1 else []
+            if entry.get('starts_at'):
+                details.append(pht_time(entry['starts_at']))
             details.extend(provider for provider in entry['provider'].split(' + ') if provider.casefold() != 'roxiestreams')
             if entry.get('source_tag'):
                 details.append(entry['source_tag'])
@@ -85,3 +91,4 @@ def decorate(entries):
             entry['display_name'] = title + (' — ' + ' · '.join(details) if details else '')
             result.append(entry)
     return result
+

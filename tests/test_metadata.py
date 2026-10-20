@@ -23,7 +23,10 @@ class MetadataTests(unittest.TestCase):
 
     def test_repeated_url_for_different_events_is_not_mislabeled(self):
         output=decorate([self.entry('https://example.org/tsn.m3u8'), self.entry('https://example.org/tsn.m3u8','Formula 1')])
-        self.assertEqual(output[0]['name'],'TSN — Shared Feed')
+        self.assertIn('TSN — Shared Feed:', output[0]['name'])
+        self.assertIn('Detroit Lions vs Carolina Panthers', output[0]['name'])
+        self.assertIn('Formula 1', output[0]['name'])
         self.assertEqual(output[0]['group'],'NFL')
 
 if __name__=='__main__': unittest.main()
+

@@ -12,6 +12,7 @@ import time
 from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 from metadata import clean_title, decorate, roxie_group
+from schedule import start_times
 
 BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
 BACKUPS = tuple(x.rstrip('/')+'/' for x in os.getenv('ROXIE_BACKUP_URLS','https://roxiestreams.biz/,https://roxiestreams.su/').split(',') if x.strip())
@@ -181,9 +182,12 @@ def collect_roxie(pages, labels):
     candidates = {}
     unsupported = []
     event_labels = {}
+    scheduled = {}
     # Category schedules override older homepage links and retain reused slots.
     for parent, text in sorted(pages.items()):
         if urlsplit(parent).path.strip('/'):
+            for (target, label), stamp in start_times(text, parent, internal_links).items():
+                scheduled[(target, clean_title(label))] = stamp
             for target, label in internal_links(text, parent):
                 if label:
                     event_labels.setdefault(target, set()).add(clean_title(label))
@@ -194,7 +198,8 @@ def collect_roxie(pages, labels):
                 for name in sorted(event_labels.get(page) or {clean_title(labels.get(page) or urlsplit(page).path.strip('/'))}):
                     candidates.setdefault(url, []).append({'name': name,
                                                 'group': roxie_group(page), 'provider':'RoxieStreams',
-                                                'page': page, 'url': url})
+                                                'page': page, 'url': url,
+                                                'starts_at': scheduled.get((page, name))})
             if not sources and re.search(r'<(?:iframe|video)\b', text):
                 unsupported.append(page)
         except Exception as exc:
@@ -262,3 +267,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
