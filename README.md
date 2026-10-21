@@ -1,7 +1,7 @@
 # ZeroStreams
 
 An automatically maintained M3U playlist of validated live HLS streams,
-refreshed every **15 minutes**. ZeroStreams brings together clean event titles,
+refreshed every **10 minutes**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
 
@@ -37,7 +37,7 @@ stream source for `playlist.m3u`. Only live manifests with reachable media segme
 
 ## Schedule
 
-Runs **every 15 minutes**, at minutes **07, 22, 37, and 52 of every hour** (UTC and
+Runs **every 10 minutes**, at minutes **07, 22, 37, and 52 of every hour** (UTC and
 Philippine time have the same minute offsets). GitHub may delay scheduled jobs.
 
 Each run checks for changes. If the playlist is identical, it is not rewritten
@@ -99,6 +99,9 @@ behavior are covered by automated tests.
 
 ### Names, schedules, and artwork
 
-Scheduled start times are read from the source's Pacific-time event rows and displayed in Philippine time (`PHT`, Asia/Manila, UTC+8), including the date. Missing times are omitted. Shared stream URLs list their associated events and remain explicitly labeled Shared Feed. Distinct alternate streams retain numbered feed labels.
+Scheduled start times are read from the source's Pacific-time event rows and displayed in Philippine time (`PHT`, Asia/Manila, UTC+8), including the date. Missing times are omitted. Event names preserve the website's wording. Each distinct event keeps a separate playlist entry even when it reuses another event's stream URL. Exact duplicate event/URL/time entries are removed. No Shared Feed labels, category prefixes, or feed-number suffixes are added.
 
 Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/logos.json) and [TheSportsDB sports artwork](https://www.thesportsdb.com/docs/api). Artwork matching is enabled: exact, unambiguous channel names use IPTV-org; identified NBA, NFL, NHL, MLB, Formula 1 and WNBA groups use TheSportsDB league badges. Existing event artwork takes priority. Unknown matches and lookup failures retain the placeholder. No paid key is required; playback validation is unchanged.
+
+
+The refresh cron requests a run every 10 minutes (minutes 03, 13, 23, 33, 43, 53 UTC each hour). GitHub Actions may delay or drop scheduled jobs, so this is not a guaranteed ten-minute execution interval. Manual Run workflow remains available. An unchanged playlist is neither rewritten nor committed; its last-modified date is not the last scan time. See Actions logs and the diagnostics artifact for each run.
