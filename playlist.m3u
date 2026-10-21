@@ -63,7 +63,7 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8751096cfc25e761" tvg-name="Boston Bruins vs Dallas Stars" tvg-logo="https://static.ppvservices.st/assets/thumb/3a101d8825d08577f828982c2a5a217a-thumbnail.jpg" group-title="NHL",Boston Bruins vs Dallas Stars — Oct 21, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8751096cfc25e761" tvg-name="Boston Bruins vs Dallas Stars" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Boston Bruins vs Dallas Stars — Oct 21, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
@@ -99,7 +99,7 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8c6f6b929a932738" tvg-name="Winnipeg Jets vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/b6ccccba852ffd09928707c78eb22724-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs St. Louis Blues — Oct 21, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8c6f6b929a932738" tvg-name="Winnipeg Jets vs St. Louis Blues" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Winnipeg Jets vs St. Louis Blues — Oct 21, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
@@ -187,10 +187,10 @@ https://admin2.formaturamaxi.com.br/cbssn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/roma.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4ec7a64d411603de" tvg-name="Tigres vs Leon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Tigres vs Leon — Oct 21, 11:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
+#EXTINF:-1 tvg-id="zerostreams.ff1d9f07cbe00c6f" tvg-name="Tigres vs Leon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Tigres vs Leon — Oct 21, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/oldham.m3u8
+https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
 #EXTINF:-1 tvg-id="zerostreams.eab68ea902d36b9e" tvg-name="UEFA Goals Show" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UEFA Goals Show — Oct 21, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -200,14 +200,14 @@ https://admin2.formaturamaxi.com.br/tnt3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e1bc8a9b5cc0c934" tvg-name="Walsall vs Oldham Athletic" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Walsall vs Oldham Athletic — Oct 21, 02:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/oldham.m3u8
 #EXTINF:-1 tvg-id="zerostreams.be129bb43750710b" tvg-name="Wolves vs Portsmouth" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Wolves vs Portsmouth — Oct 21, 02:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/wolves.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fee2abd5fed4e9f5" tvg-name="WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE",WWE NXT — Oct 21, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.fee2abd5fed4e9f5" tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE NXT — Oct 21, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
