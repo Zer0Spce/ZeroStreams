@@ -47,107 +47,115 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.24b3d621c4a47f34" tvg-name="Philadelphia Flyers vs Buffalo Sabres" tvg-logo="https://static.ppvservices.st/assets/thumb/972bf375a2410441fd4efb8e37243a86-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Buffalo Sabres — Oct 22, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTINF:-1 tvg-id="zerostreams.7901ee22b27ddf4e" tvg-name="Arsenal vs Bayern München" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Arsenal vs Bayern München — Oct 22, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f806dd2a737b851e" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 21, 03:00 AM PHT
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.92d0386f27829d43" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/bein1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.86151ea3d98eac17" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f1cdcfd0e5ba5d00" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7278ff9c8394ab58" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ef52e2cad66bc562" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0257503861e22599" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f010a438b7d8a6b9" tvg-name="Aston Villa vs Viking" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Viking — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/barca.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2ab781d27bddae46" tvg-name="Atlas vs America" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlas vs America — Oct 21, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.2c372102674c59da" tvg-name="Atlas vs America" tvg-logo="https://static.ppvservices.st/assets/thumb/9a17026b80858cedd1608116c1a1e3ee-thumbnail.jpg" group-title="Soccer",Atlas vs America — Oct 22, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/primemx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b6e1498e47aa32a4" tvg-name="Club Brugge vs Lens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Club Brugge vs Lens — Oct 20, 03:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.3084cc19568abb69" tvg-name="Club Brugge vs Lens" tvg-logo="https://static.ppvservices.st/assets/thumb/427cd0ef4b375a3535315dce2171e2ef-thumbnail.jpg" group-title="Soccer",Club Brugge vs Lens — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7c30124b28e49bc9" tvg-name="Club Brugge vs Lens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Club Brugge vs Lens — Oct 20, 03:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.cde4ed346c3a1c4f" tvg-name="Club Brugge vs Lens" tvg-logo="https://static.ppvservices.st/assets/thumb/427cd0ef4b375a3535315dce2171e2ef-thumbnail.jpg" group-title="Soccer",Club Brugge vs Lens — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-id="zerostreams.efe97719af738a60" tvg-name="Como vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Como vs Manchester United — Oct 21, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.22d31e89f60e385f" tvg-name="Como vs Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/18a6a5f7a63fe5540744679f30b6489e-thumbnail.jpg" group-title="Soccer",Como vs Manchester United — Oct 22, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5b7f8ea4ec763ccc" tvg-name="Como vs Manchester United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Como vs Manchester United — Oct 21, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.3bc5613b5c0ad41a" tvg-name="Como vs Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/18a6a5f7a63fe5540744679f30b6489e-thumbnail.jpg" group-title="Soccer",Como vs Manchester United — Oct 22, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.551bdda73ac525df" tvg-name="Inter Milan vs Shakhtar Donetsk" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Milan vs Shakhtar Donetsk — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.74b70de16556dc0f" tvg-name="Como vs Manchester United" tvg-logo="https://static.ppvservices.st/assets/thumb/18a6a5f7a63fe5540744679f30b6489e-thumbnail.jpg" group-title="Soccer",Como vs Manchester United — Oct 22, 12:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/virgin.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4445cfa727469c4d" tvg-name="Inter Milan vs Shakhtar Donetsk" tvg-logo="https://static.ppvservices.st/assets/thumb/d586b43e3c5f3f7d13db4b72658d82e4-thumbnail.jpg" group-title="Soccer",Inter Milan vs Shakhtar Donetsk — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ebdac4cf6a31276d" tvg-name="Inter Milan vs Shakhtar Donetsk" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Milan vs Shakhtar Donetsk — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.cd19b25d92958909" tvg-name="Inter Milan vs Shakhtar Donetsk" tvg-logo="https://static.ppvservices.st/assets/thumb/d586b43e3c5f3f7d13db4b72658d82e4-thumbnail.jpg" group-title="Soccer",Inter Milan vs Shakhtar Donetsk — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e4e89bad3f3f3d5b" tvg-name="Levante vs Athletic Club" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Levante vs Athletic Club — Oct 21, 02:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e090c371bb495cf0" tvg-name="Levante vs Athletic Club" tvg-logo="https://static.ppvservices.st/assets/thumb/f39b0d5a2d229ecc4b3e2797803ee3de-thumbnail.jpg" group-title="Soccer",Levante vs Athletic Club — Oct 22, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.748b9817cc5fe5c0" tvg-name="Lille vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lille vs Galatasaray — Oct 21, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.2b8e426e64919181" tvg-name="Lille vs Galatasaray" tvg-logo="https://static.ppvservices.st/assets/thumb/d6624be67709c1b13609cce5be9a9fe1-thumbnail.jpg" group-title="Soccer",Lille vs Galatasaray — Oct 22, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/fsp.m3u8
-#EXTINF:-1 tvg-id="zerostreams.32d5a852e0e4b177" tvg-name="Pachuca vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Pachuca vs Cruz Azul — Oct 21, 11:00 AM PHT
+https://admin2.formaturamaxi.com.br/tnt4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.62d967f73f6cf4d8" tvg-name="Lille vs Galatasaray" tvg-logo="https://static.ppvservices.st/assets/thumb/d6624be67709c1b13609cce5be9a9fe1-thumbnail.jpg" group-title="Soccer",Lille vs Galatasaray — Oct 22, 12:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.75884cd426de569b" tvg-name="Pachuca vs Cruz Azul" tvg-logo="https://static.ppvservices.st/assets/thumb/2262cc82c3cb8d5bc231a2e5dd768233-thumbnail.jpg" group-title="Soccer",Pachuca vs Cruz Azul — Oct 22, 11:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/espnmx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c4d3271c2609c9e4" tvg-name="Palmeiras vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Palmeiras vs Fluminense — Oct 21, 08:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0c16b12c7b749baa" tvg-name="Palmeiras vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Palmeiras vs Fluminense — Oct 22, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cb7f8755342fe375" tvg-name="Puebla vs Monterrey" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Puebla vs Monterrey — Oct 21, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.4b0040a484a52c10" tvg-name="Puebla vs Monterrey" tvg-logo="https://static.ppvservices.st/assets/thumb/2dd83dee5088427e3ed07fe6b535c3f9-thumbnail.jpg" group-title="Soccer",Puebla vs Monterrey — Oct 22, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="zerostreams.560b945bc5b4c026" tvg-name="Reading vs Leyton Orient" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Reading vs Leyton Orient — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.fc2bf2a4b1950929" tvg-name="Reading vs Leyton Orient" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Reading vs Leyton Orient — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4395ceed488d7ba2" tvg-name="Reading vs Leyton Orient" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Reading vs Leyton Orient — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.5cbe88416da82f12" tvg-name="Reading vs Leyton Orient" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Reading vs Leyton Orient — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bd29ce57fc124edf" tvg-name="Real Betis vs Feyenoord" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Real Betis vs Feyenoord — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.00257c11502a46fc" tvg-name="Real Betis vs Feyenoord" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Real Betis vs Feyenoord — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tnt5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fc4b49b8b147fdb6" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Real Madrid vs RB Leipzig — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ef059df46c6d1a29" tvg-name="Real Madrid vs RB Leipzig" tvg-logo="https://static.ppvservices.st/assets/thumb/1a118eba17dae7af5c7f7bb43f11fa4d-thumbnail.jpg" group-title="Soccer",Real Madrid vs RB Leipzig — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ced3076ac1138ecf" tvg-name="Santos Laguna vs Pumas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Santos Laguna vs Pumas — Oct 21, 11:10 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.217e6436e97cea0e" tvg-name="Santos Laguna vs Pumas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Santos Laguna vs Pumas — Oct 22, 11:10 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/primemx.m3u8
-#EXTINF:-1 tvg-id="zerostreams.08389d76c3574825" tvg-name="Sporting CP vs LASK Linz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sporting CP vs LASK Linz — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f352555e0f55f0ed" tvg-name="Sporting CP vs LASK Linz" tvg-logo="https://static.ppvservices.st/assets/thumb/67ab0f51b6ad6c122585e0f701af4b6b-thumbnail.jpg" group-title="Soccer",Sporting CP vs LASK Linz — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/roma.m3u8
-#EXTINF:-1 tvg-id="zerostreams.10e93534702d1c86" tvg-name="Toluca vs Tijuana" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Toluca vs Tijuana — Oct 21, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.54ba3ecd5daa34ac" tvg-name="Toluca vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/fe68ecf58b84093947e6b4b87b9c778d-thumbnail.jpg" group-title="Soccer",Toluca vs Tijuana — Oct 22, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
-#EXTINF:-1 tvg-id="zerostreams.077f688fc0b28de3" tvg-name="Torque vs Atletico Mineiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Torque vs Atletico Mineiro — Oct 21, 06:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.402ee95f6b975271" tvg-name="Torque vs Atletico Mineiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Torque vs Atletico Mineiro — Oct 22, 06:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.59d8d08c5b28ea49" tvg-name="UEFA Goals Show" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UEFA Goals Show — Oct 21, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.d3cf97dc7ddc6e30" tvg-name="UEFA Goals Show" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UEFA Goals Show — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/wolves.m3u8
@@ -155,7 +163,3 @@ https://tedesco.formaturamaxi.com.br/wolves.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.541008357249b4fb" tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE NXT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/wwe.m3u8
