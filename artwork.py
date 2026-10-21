@@ -1,5 +1,8 @@
 """Best-effort public artwork matching; never infer a channel from a stream slug."""
 from functools import lru_cache
+from datetime import datetime
+from zoneinfo import ZoneInfo
+import unicodedata
 import json
 import os
 import re
@@ -8,6 +11,45 @@ from urllib.request import Request, urlopen
 
 LEAGUES = {'NBA': '4387', 'NFL': '4391', 'NHL': '4380', 'MLB': '4424',
            'Formula 1': '4370', 'WNBA': '4516'}
+PPV_CATEGORIES = {'NBA': 'Basketball', 'WNBA': 'Basketball', 'NFL': 'American Football',
+                  'NHL': 'Ice Hockey', 'Soccer': 'Football', 'MLB': 'Baseball',
+                  'WWE': 'Wrestling', 'UFC': 'Combat Sports', 'Boxing': 'Combat Sports'}
+
+
+def event_name(value):
+    value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore').decode().casefold()
+    value = re.sub(r'\s+(?:vs\.?|v\.?|at|@)\s+', ' vs ', value)
+    return key(value)
+
+
+def event_day(stamp):
+    try:
+        return datetime.fromtimestamp(float(stamp), ZoneInfo('Asia/Manila')).date() if stamp and float(stamp) > 0 else None
+    except (ValueError, TypeError, OverflowError, OSError):
+        return None
+
+
+@lru_cache(maxsize=1)
+def ppv_posters():
+    data = get_json('https://api.ppv.st/api/streams') or {}
+    if data.get('success') is not True:
+        return []
+    result = []
+    for category in data.get('streams') or []:
+        for stream in category.get('streams') or []:
+            poster = image_url(stream.get('poster'))
+            if poster and stream.get('name'):
+                result.append((event_name(stream['name']), event_day(stream.get('starts_at')),
+                               stream.get('category_name') or category.get('category'), poster))
+    return result
+
+
+def ppv_poster(entry, posters):
+    name, day = event_name(entry['name']), event_day(entry.get('starts_at'))
+    category = PPV_CATEGORIES.get(entry['group'])
+    matches = {poster for candidate, date, sport, poster in posters
+               if candidate == name and date == day and (not category or category == sport)}
+    return next(iter(matches)) if len(matches) == 1 else ''
 
 
 def key(value):
@@ -63,7 +105,13 @@ def enrich(entries):
     if not entries:
         return entries
     channels = channel_logos()
+    posters = ppv_posters()
     for entry in entries:
+        event_poster = ppv_poster(entry, posters)
+        if event_poster:
+            entry['poster'] = event_poster
+            entry['artwork_source'] = 'ppv'
+            continue
         poster = entry.get('poster', '')
         if poster and 'assets/logos/' not in poster:
             continue
@@ -73,3 +121,4 @@ def enrich(entries):
             entry['poster'] = logo
             entry['artwork_source'] = 'iptv-org' if channel else 'thesportsdb'
     return entries
+

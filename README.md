@@ -105,3 +105,8 @@ Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/lo
 
 
 The refresh cron requests a run every 10 minutes (minutes 03, 13, 23, 33, 43, 53 UTC each hour). GitHub Actions may delay or drop scheduled jobs, so this is not a guaranteed ten-minute execution interval. Manual Run workflow remains available. An unchanged playlist is neither rewritten nor committed; its last-modified date is not the last scan time. See Actions logs and the diagnostics artifact for each run.
+
+
+### PPV event artwork
+
+PPV's public streams API is used only to read event `poster` URLs. Posters take priority when normalized event names and Philippine calendar dates match, with sport-category checks where identified. Ambiguous or missing matches retain existing artwork/logo fallbacks. No PPV stream URLs or separate PPV playlist/workflow are added. The source catalogue is fetched once per nonempty refresh run; API failures do not prevent playlist generation.

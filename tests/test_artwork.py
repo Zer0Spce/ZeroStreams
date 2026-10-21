@@ -3,6 +3,11 @@ from unittest.mock import patch
 import artwork
 
 class ArtworkTests(unittest.TestCase):
+    def setUp(self):
+        patcher = patch.object(artwork, "ppv_posters", return_value=[])
+        patcher.start()
+        self.addCleanup(patcher.stop)
+
     def test_exact_channel_then_league_then_existing_fallback(self):
         entries = [dict(name='ESPN', group='Live', poster='assets/logos/live.png'),
                    dict(name='Team A vs Team B', group='NBA', poster='assets/logos/nba.png'),
@@ -26,3 +31,4 @@ class ArtworkTests(unittest.TestCase):
         with patch.object(artwork, 'channel_logos') as lookup:
             self.assertEqual(artwork.enrich([]), [])
         lookup.assert_not_called()
+
