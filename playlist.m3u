@@ -143,7 +143,7 @@ https://tedesco.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.14d303b7017137f2" tvg-name="Pachuca vs Cruz Azul" tvg-logo="https://static.ppvservices.st/assets/thumb/2262cc82c3cb8d5bc231a2e5dd768233-thumbnail.jpg" group-title="Soccer",Pachuca vs Cruz Azul — Oct 22, 11:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.14d303b7017137f2" tvg-name="Pachuca vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Pachuca vs Cruz Azul — Oct 22, 11:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/vix5.m3u8
