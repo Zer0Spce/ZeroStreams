@@ -23,7 +23,7 @@ https://admin2.formaturamaxi.com.br/wec.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.40709306bde49f70" tvg-name="Atlanta Hawks vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/8b2b07533a467425db9121211f8bfe64-thumbnail.jpg" group-title="NBA",Atlanta Hawks vs Orlando Magic — Oct 22, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.40709306bde49f70" tvg-name="Atlanta Hawks vs Orlando Magic" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Atlanta Hawks vs Orlando Magic — Oct 22, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
@@ -43,15 +43,15 @@ https://admin2.formaturamaxi.com.br/nba8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e6ced030a780b763" tvg-name="Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/597ca4ae9aa57cafe63040c1967d6714-thumbnail.jpg" group-title="NBA",Golden State Warriors vs Los Angeles Lakers — Oct 22, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTINF:-1 tvg-id="zerostreams.961a5b8d48a5dac9" tvg-name="Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/597ca4ae9aa57cafe63040c1967d6714-thumbnail.jpg" group-title="NBA",Golden State Warriors vs Los Angeles Lakers — Oct 22, 10:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
+https://admin2.formaturamaxi.com.br/nba9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4391a040726a8dfe" tvg-name="Indiana Pacers vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/1ad5fb8e106d9c5fa99249cfc218f0a8-thumbnail.jpg" group-title="NBA",Indiana Pacers vs New Orleans Pelicans — Oct 22, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.66bb565cad3a8d06" tvg-name="Milwaukee Bucks vs Washington Wizards" tvg-logo="https://static.ppvservices.st/assets/thumb/5749942790c20b82639fc89cc2b7eef1-thumbnail.jpg" group-title="NBA",Milwaukee Bucks vs Washington Wizards — Oct 22, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.66bb565cad3a8d06" tvg-name="Milwaukee Bucks vs Washington Wizards" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Milwaukee Bucks vs Washington Wizards — Oct 22, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba2.m3u8
@@ -59,10 +59,10 @@ https://tedesco.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d80f75123d8a463c" tvg-name="Minnesota Timberwolves vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/b4f54d56425064c99d88b92c3890261f-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Miami Heat — Oct 22, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.10d0476bb048033c" tvg-name="Minnesota Timberwolves vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/b4f54d56425064c99d88b92c3890261f-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Miami Heat — Oct 22, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
+https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e5ce34d385622c45" tvg-name="Phoenix Suns vs Portland Trail Blazers" tvg-logo="https://static.ppvservices.st/assets/thumb/c56803a4356b61ce6f3d2b3acbcb18af-thumbnail.jpg" group-title="NBA",Phoenix Suns vs Portland Trail Blazers — Oct 22, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -151,6 +151,10 @@ https://admin2.formaturamaxi.com.br/espnmx.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e026a4d5c2b7f2ef" tvg-name="Palmeiras vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Palmeiras vs Fluminense — Oct 22, 08:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d999e51727ec935d" tvg-name="Puebla vs Monterrey" tvg-logo="https://static.ppvservices.st/assets/thumb/2dd83dee5088427e3ed07fe6b535c3f9-thumbnail.jpg" group-title="Soccer",Puebla vs Monterrey — Oct 22, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -195,6 +199,10 @@ https://admin2.formaturamaxi.com.br/aztecadeportes.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3b62d61a2620b320" tvg-name="Torque vs Atletico Mineiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Torque vs Atletico Mineiro — Oct 22, 06:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/beines.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c283eb06f557b240" tvg-name="UEFA Goals Show" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UEFA Goals Show — Oct 22, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
