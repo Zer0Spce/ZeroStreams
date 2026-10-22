@@ -108,17 +108,17 @@ https://admin.formaturamaxi.com.br/bein1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/tudn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.22c8c3220fd8d3f0" tvg-name="Bournemouth vs Milan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bournemouth vs Milan — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4f4706c22b34f8b9" tvg-name="Celtic vs Celta Vigo" tvg-logo="https://static.ppvservices.st/assets/thumb/40587b25f33e6cec8df90df3853d58d3-thumbnail.jpg" group-title="Soccer",Celtic vs Celta Vigo — Oct 23, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/lens.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f8bf48278f315e88" tvg-name="Crvena Zvezda vs Kobenhavn" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Crvena Zvezda vs Kobenhavn — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.10cf65fb16b3d729" tvg-name="Crvena Zvezda vs Kobenhavn" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Crvena Zvezda vs Kobenhavn — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
+https://admin2.formaturamaxi.com.br/cope.m3u8
 #EXTINF:-1 tvg-id="zerostreams.34037638e8620cfe" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -128,37 +128,29 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/inter.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1342858f3e256ea0" tvg-name="Hoffenheim vs Lyon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Hoffenheim vs Lyon — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b7580d8a470426ab" tvg-name="Jablonec vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Jablonec vs Brighton — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.46a9da720d0e0262" tvg-name="Jablonec vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Jablonec vs Brighton — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fe63fbcc044518ad" tvg-name="Juventus vs Rennes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juventus vs Rennes — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="zerostreams.54a96eb60d0ba219" tvg-name="Juventus vs Rennes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juventus vs Rennes — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.762313276b564886" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7c4099d5e60646f7" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
+https://admin2.formaturamaxi.com.br/prem2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f755e336c172a3db" tvg-name="Jablonec vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Jablonec vs Brighton — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.743c690b72e81db1" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.abc3f50474825cf6" tvg-name="Juventus vs Rennes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juventus vs Rennes — Oct 23, 12:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8d92aee2be002194" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a5ed7a532e944936" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
+https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.22a5e853ca8db182" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/virgin.m3u8
+https://tedesco.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c1b3a90dd5d09fc1" tvg-name="Monaco vs Freiburg" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monaco vs Freiburg — Oct 23, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -167,22 +159,10 @@ https://admin2.formaturamaxi.com.br/feye.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sporting.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d44abefa1b3d6836" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.9cf2c14ce02353a0" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/bein2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0b17e76cdcf0c773" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/espn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2c697c24bedba287" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/rma.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d0017a3eff33592f" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt4.m3u8
+https://admin2.formaturamaxi.com.br/marseille.m3u8
 #EXTINF:-1 tvg-id="zerostreams.51584b3727424b70" tvg-name="Trabzonspor vs Hearts" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Trabzonspor vs Hearts — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
