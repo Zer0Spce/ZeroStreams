@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.f76369747e03ba86" tvg-name="East Carolina vs Memphis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",East Carolina vs Memphis
+#EXTINF:-1 tvg-id="zerostreams.e65a9c93abb350bb" tvg-name="East Carolina vs Memphis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",East Carolina vs Memphis
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
+https://admin2.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b06f06f9d1c4b808" tvg-name="James Madison vs App State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",James Madison vs App State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -59,10 +59,10 @@ https://admin.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.051d63e98c3291bc" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
+#EXTINF:-1 tvg-id="zerostreams.145172da97713d8b" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
+https://admin2.formaturamaxi.com.br/primenfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d0fcd2a6a14a259" tvg-name="Anaheim Ducks vs New Jersey Devils" tvg-logo="https://static.ppvservices.st/assets/thumb/c72feb536aba1925195935f190d09bb5-thumbnail.jpg" group-title="NHL",Anaheim Ducks vs New Jersey Devils — Oct 23, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
