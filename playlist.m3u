@@ -135,14 +135,22 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8d92aee2be002194" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8d92aee2be002194" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.22a5e853ca8db182" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.22a5e853ca8db182" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="zerostreams.93530a7089bde8f6" tvg-name="Monaco vs Freiburg" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monaco vs Freiburg — Oct 23, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/monaco.m3u8
+#EXTINF:-1 tvg-id="zerostreams.96aa6224b1291b6b" tvg-name="Omonia Nicosia vs Benfica" tvg-logo="https://static.ppvservices.st/assets/thumb/46698818d61790b16c376142e8d01298-thumbnail.jpg" group-title="Soccer",Omonia Nicosia vs Benfica — Oct 23, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/benfica.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9cf2c14ce02353a0" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
