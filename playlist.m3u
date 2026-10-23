@@ -207,6 +207,10 @@ https://admin2.formaturamaxi.com.br/prem2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f2220d3f5a07ccfb" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://static.ppvservices.st/assets/thumb/410a7c5e8f198a864065858574a87c15-thumbnail.jpg" group-title="Soccer",Ipswich Town vs Nottingham Forest — Oct 24, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/usane.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f9701a6d7c2eb9be" tvg-name="Necaxa vs Juarez" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Necaxa vs Juarez — Oct 24, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
