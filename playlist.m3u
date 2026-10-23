@@ -48,7 +48,7 @@ https://admin.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c8d1f605f964a3a7" tvg-name="Chicago Bulls vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/105caa0166df003fb73b29a693107174-thumbnail.jpg" group-title="NBA",Chicago Bulls vs Milwaukee Bucks — Oct 24, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.af6a6a11deb4291a" tvg-name="Chicago Bulls vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/105caa0166df003fb73b29a693107174-thumbnail.jpg" group-title="NBA",Chicago Bulls vs Milwaukee Bucks — Oct 24, 04:00 AM PHT
@@ -59,6 +59,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ccb42a229fe192a9" tvg-name="Detroit Pistons vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/d40b16a4e56c41522c030a384db4b17f-thumbnail.jpg" group-title="NBA",Detroit Pistons vs Miami Heat — Oct 24, 08:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cf4b7b4041c197de" tvg-name="Houston Rockets vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/80578bcb5b4b5bc3c72c807292b9799d-thumbnail.jpg" group-title="NBA",Houston Rockets vs San Antonio Spurs — Oct 24, 09:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -71,6 +75,10 @@ https://admin2.formaturamaxi.com.br/nba11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f118ae515573c89f" tvg-name="Minnesota Timberwolves vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/c74bec08fd65411310f2f945f9194c59-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Orlando Magic — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b7bd54c7eabc5a88" tvg-name="New Orleans Pelicans vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/c0b0106860ba71b42b1236f395a263e6-thumbnail.jpg" group-title="NBA",New Orleans Pelicans vs Utah Jazz — Oct 24, 09:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -80,7 +88,7 @@ https://admin.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.2f0dbd3f5d3742de" tvg-name="New York Knicks vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/87676a5a70fe2be583e0c0438346e880-thumbnail.jpg" group-title="NBA",New York Knicks vs Boston Celtics — Oct 24, 07:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.54d7f2e0c54e15d8" tvg-name="New York Knicks vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/87676a5a70fe2be583e0c0438346e880-thumbnail.jpg" group-title="NBA",New York Knicks vs Boston Celtics — Oct 24, 07:00 AM PHT
@@ -88,7 +96,7 @@ https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b64e1fdace76bad3" tvg-name="Portland Trail Blazers vs Sacramento Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Sacramento Kings — Oct 24, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.0820e84314f31ada" tvg-name="Toronto Raptors vs Washington Wizards" tvg-logo="https://static.ppvservices.st/assets/thumb/43896509fb8da0199ac9b558f69f334b-thumbnail.jpg" group-title="NBA",Toronto Raptors vs Washington Wizards — Oct 24, 07:00 AM PHT
@@ -119,6 +127,10 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a18b78a29e4352b0" tvg-name="Los Angeles Kings vs New York Islanders" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Los Angeles Kings vs New York Islanders — Oct 23, 07:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9af3636f8f4d42d0" tvg-name="Minnesota Wild vs Calgary Flames" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Minnesota Wild vs Calgary Flames — Oct 23, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -131,6 +143,10 @@ https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e218dd55116ad10a" tvg-name="San Jose Sharks vs Ottawa Senators" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",San Jose Sharks vs Ottawa Senators — Oct 23, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4b7d0e9e7b0b5cb0" tvg-name="Utah Mammoth vs Seattle Kraken" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Utah Mammoth vs Seattle Kraken — Oct 23, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
