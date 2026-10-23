@@ -23,11 +23,11 @@ https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d050a606bf8255ca" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 24, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.d050a606bf8255ca" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://static.ppvservices.st/assets/thumb/ab44a1441e9fb36ae32449c367a4d99f-thumbnail.jpg" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 24, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.98cf0c22ac80a10f" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 24, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.98cf0c22ac80a10f" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://static.ppvservices.st/assets/thumb/ab44a1441e9fb36ae32449c367a4d99f-thumbnail.jpg" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 24, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
@@ -67,7 +67,7 @@ https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.71d4908684f04f4c" tvg-name="Carolina Hurricanes vs Edmonton Oilers" tvg-logo="https://static.ppvservices.st/assets/thumb/ad7ed25e908bf876df7ee619f7a559e1-thumbnail.jpg" group-title="NHL",Carolina Hurricanes vs Edmonton Oilers — Oct 23, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.71d4908684f04f4c" tvg-name="Carolina Hurricanes vs Edmonton Oilers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Carolina Hurricanes vs Edmonton Oilers — Oct 23, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
@@ -83,7 +83,7 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9af3636f8f4d42d0" tvg-name="Minnesota Wild vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/1b8da8a2cd6a13c0e19dfdd9456c2490-thumbnail.jpg" group-title="NHL",Minnesota Wild vs Calgary Flames — Oct 23, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.9af3636f8f4d42d0" tvg-name="Minnesota Wild vs Calgary Flames" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Minnesota Wild vs Calgary Flames — Oct 23, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl9.m3u8
