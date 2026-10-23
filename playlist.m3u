@@ -1,25 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.e65a9c93abb350bb" tvg-name="East Carolina vs Memphis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",East Carolina vs Memphis
+#EXTINF:-1 tvg-id="zerostreams.f626a6968af2ee6f" tvg-name="Army vs Tulsa" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Army vs Tulsa
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b06f06f9d1c4b808" tvg-name="James Madison vs App State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",James Madison vs App State
+#EXTINF:-1 tvg-id="zerostreams.16375dd40a0db5b6" tvg-name="Duke vs Virginia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Duke vs Virginia
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2e5f19588fca1014" tvg-name="Liberty vs Kennesaw State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Liberty vs Kennesaw State
+#EXTINF:-1 tvg-id="zerostreams.8a2b8aa7ae40b7ba" tvg-name="Massachusetts vs UConn" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Massachusetts vs UConn
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.77dcd86049f2c2fb" tvg-name="NC State vs Stanford" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",NC State vs Stanford
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6cfda6d77ccccffe" tvg-name="RAF 14: Tsarukyan vs. Danis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",RAF 14: Tsarukyan vs. Danis — Oct 24, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d49c296b339a10b0" tvg-name="STSS - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",STSS - Race — Oct 23, 06:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7369ac22db0cf683" tvg-name="TNA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",TNA — Oct 23, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
@@ -31,7 +27,11 @@ https://admin.formaturamaxi.com.br/mlb.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ec852d1150143aa4" tvg-name="MotoGP - Coverage" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Coverage — Oct 23, 07:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.fe3542e2fe4d5a3a" tvg-name="MotoGP - Coverage" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Coverage — Oct 24, 07:10 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.84948d2d3e9c0584" tvg-name="WoO Sprint Cars - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",WoO Sprint Cars - Race — Oct 24, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
@@ -39,27 +39,75 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9741a0ad3eb260ef" tvg-name="Cleveland Cavaliers vs Philadelphia 76ers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Cleveland Cavaliers vs Philadelphia 76ers — Oct 23, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ee7485aa97a22c74" tvg-name="Atlanta Hawks vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/629451523d3ed6d67d3edfc4c839553b-thumbnail.jpg" group-title="NBA",Atlanta Hawks vs Charlotte Hornets — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.5e6a52ab00ea41be" tvg-name="Atlanta Hawks vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/629451523d3ed6d67d3edfc4c839553b-thumbnail.jpg" group-title="NBA",Atlanta Hawks vs Charlotte Hornets — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c8d1f605f964a3a7" tvg-name="Chicago Bulls vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/105caa0166df003fb73b29a693107174-thumbnail.jpg" group-title="NBA",Chicago Bulls vs Milwaukee Bucks — Oct 24, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9ceb601f8c2b6803" tvg-name="Cleveland Cavaliers vs Philadelphia 76ers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Cleveland Cavaliers vs Philadelphia 76ers — Oct 23, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.af6a6a11deb4291a" tvg-name="Chicago Bulls vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/105caa0166df003fb73b29a693107174-thumbnail.jpg" group-title="NBA",Chicago Bulls vs Milwaukee Bucks — Oct 24, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a54d3da1f5c324a8" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Denver Nuggets vs Oklahoma City Thunder — Oct 23, 09:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.eac0b80f44bc8eb9" tvg-name="Dallas Mavericks vs Indiana Pacers" tvg-logo="https://static.ppvservices.st/assets/thumb/d0874069d2ee4bbc46c24494dec967d7-thumbnail.jpg" group-title="NBA",Dallas Mavericks vs Indiana Pacers — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ccb42a229fe192a9" tvg-name="Detroit Pistons vs Miami Heat" tvg-logo="https://static.ppvservices.st/assets/thumb/d40b16a4e56c41522c030a384db4b17f-thumbnail.jpg" group-title="NBA",Detroit Pistons vs Miami Heat — Oct 24, 08:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.cf4b7b4041c197de" tvg-name="Houston Rockets vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/80578bcb5b4b5bc3c72c807292b9799d-thumbnail.jpg" group-title="NBA",Houston Rockets vs San Antonio Spurs — Oct 24, 09:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.317c4415798f914d" tvg-name="Los Angeles Clippers vs Los Angeles Lakers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Los Angeles Clippers vs Los Angeles Lakers — Oct 24, 10:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba11.m3u8
+#EXTINF:-1 tvg-id="zerostreams.29e4a14345b15472" tvg-name="Memphis Grizzlies vs Golden State Warriors" tvg-logo="https://static.ppvservices.st/assets/thumb/c187468fc68292ea0d90502ac5e39d61-thumbnail.jpg" group-title="NBA",Memphis Grizzlies vs Golden State Warriors — Oct 24, 10:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f118ae515573c89f" tvg-name="Minnesota Timberwolves vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/c74bec08fd65411310f2f945f9194c59-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Orlando Magic — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.b7bd54c7eabc5a88" tvg-name="New Orleans Pelicans vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/c0b0106860ba71b42b1236f395a263e6-thumbnail.jpg" group-title="NBA",New Orleans Pelicans vs Utah Jazz — Oct 24, 09:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.01667f3f1fdd206c" tvg-name="New Orleans Pelicans vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/c0b0106860ba71b42b1236f395a263e6-thumbnail.jpg" group-title="NBA",New Orleans Pelicans vs Utah Jazz — Oct 24, 09:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba9.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2f0dbd3f5d3742de" tvg-name="New York Knicks vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/87676a5a70fe2be583e0c0438346e880-thumbnail.jpg" group-title="NBA",New York Knicks vs Boston Celtics — Oct 24, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6266c68084939ca2" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Denver Nuggets vs Oklahoma City Thunder — Oct 23, 09:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.54d7f2e0c54e15d8" tvg-name="New York Knicks vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/87676a5a70fe2be583e0c0438346e880-thumbnail.jpg" group-title="NBA",New York Knicks vs Boston Celtics — Oct 24, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1cf74b68f690a8d8" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
+#EXTINF:-1 tvg-id="zerostreams.b64e1fdace76bad3" tvg-name="Portland Trail Blazers vs Sacramento Kings" tvg-logo="https://static.ppvservices.st/assets/thumb/162ca7fd2fd41414f724b59f19cff85f-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Sacramento Kings — Oct 24, 10:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0820e84314f31ada" tvg-name="Toronto Raptors vs Washington Wizards" tvg-logo="https://static.ppvservices.st/assets/thumb/43896509fb8da0199ac9b558f69f334b-thumbnail.jpg" group-title="NBA",Toronto Raptors vs Washington Wizards — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.45550c80a6e3fa52" tvg-name="NFL (TNA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",NFL (TNA)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.22f9aa43c62ded3a" tvg-name="New England Patriots vs Chicago Bears" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",New England Patriots vs Chicago Bears
+#EXTINF:-1 tvg-id="zerostreams.6c27d35d0b155b9a" tvg-name="NFL (TNA)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",NFL (TNA)
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
@@ -111,70 +159,70 @@ https://admin.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d7fc442ea95131eb" tvg-name="Beşiktaş vs Crystal Palace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Beşiktaş vs Crystal Palace — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.713aa8f4f7f83768" tvg-name="Bournemouth vs Milan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bournemouth vs Milan — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/prem2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.22c8c3220fd8d3f0" tvg-name="Bournemouth vs Milan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bournemouth vs Milan — Oct 23, 03:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.20e7ea664d334e1a" tvg-name="Al Ittihad vs Diriyah" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Ittihad vs Diriyah — Oct 23, 11:30 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5d64fc889adbc816" tvg-name="Celtic vs Celta Vigo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Celtic vs Celta Vigo — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.10cf65fb16b3d729" tvg-name="Crvena Zvezda vs Kobenhavn" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Crvena Zvezda vs Kobenhavn — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.a4e2697bd0dace22" tvg-name="Al Nassr vs Al Faisaly" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Nassr vs Al Faisaly — Oct 23, 09:30 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/cope.m3u8
-#EXTINF:-1 tvg-id="zerostreams.31e0e82635175b76" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/espnbr.m3u8
-#EXTINF:-1 tvg-id="zerostreams.05a49f55c5704b2b" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="zerostreams.07954b1aaba37115" tvg-name="Flamengo vs Estudiantes" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Flamengo vs Estudiantes — Oct 23, 08:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8e52e25ae9fcbe16" tvg-name="Hoffenheim vs Lyon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Hoffenheim vs Lyon — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/lyon.m3u8
-#EXTINF:-1 tvg-id="zerostreams.46a9da720d0e0262" tvg-name="Jablonec vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Jablonec vs Brighton — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.5b63afcc8a9c03c2" tvg-name="Al Quadisiya vs Al Hilal" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Quadisiya vs Al Hilal — Oct 24, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f755e336c172a3db" tvg-name="Jablonec vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Jablonec vs Brighton — Oct 23, 12:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0a33e7843af5c687" tvg-name="Al Quadisiya vs Al Hilal" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Quadisiya vs Al Hilal — Oct 24, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8d92aee2be002194" tvg-name="Lech Poznań vs Sunderland" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lech Poznań vs Sunderland — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTINF:-1 tvg-id="zerostreams.16b25829088f40e8" tvg-name="Atlante vs Atlético San Luis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlante vs Atlético San Luis — Oct 24, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.93530a7089bde8f6" tvg-name="Monaco vs Freiburg" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monaco vs Freiburg — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+https://admin2.formaturamaxi.com.br/espnbr.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ae2a3493994039ec" tvg-name="Atlante vs Atlético San Luis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlante vs Atlético San Luis — Oct 24, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/monaco.m3u8
-#EXTINF:-1 tvg-id="zerostreams.96aa6224b1291b6b" tvg-name="Omonia Nicosia vs Benfica" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Omonia Nicosia vs Benfica — Oct 23, 03:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ac49a6e65ee681a9" tvg-name="Atlante vs Atlético San Luis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlante vs Atlético San Luis — Oct 24, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/benfica.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9cf2c14ce02353a0" tvg-name="Sturm Graz vs Marseille" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sturm Graz vs Marseille — Oct 23, 12:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+https://tedesco.formaturamaxi.com.br/beines.m3u8
+#EXTINF:-1 tvg-id="zerostreams.eda40f0dec7ca165" tvg-name="Bolton Wanderers vs Middlesbrough" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bolton Wanderers vs Middlesbrough — Oct 24, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/marseille.m3u8
-#EXTINF:-1 tvg-id="zerostreams.51584b3727424b70" tvg-name="Trabzonspor vs Hearts" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Trabzonspor vs Hearts — Oct 23, 12:45 AM PHT
+https://admin2.formaturamaxi.com.br/lyon.m3u8
+#EXTINF:-1 tvg-id="zerostreams.2cbdad19b06845cc" tvg-name="Brest vs Nice" tvg-logo="https://static.ppvservices.st/assets/thumb/0403800ec44ce19e02b9b5dddd7c96a5-thumbnail.jpg" group-title="Soccer",Brest vs Nice — Oct 24, 02:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.af1da1c552610caf" tvg-name="Cruzeiro vs Remo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Cruzeiro vs Remo — Oct 24, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/monaco.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9595812ec61b983d" tvg-name="Deportivo Alavés vs Malaga" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Deportivo Alavés vs Malaga — Oct 24, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0b73c38b8f1bd775" tvg-name="Ipswich Town vs Nottingham Forest" tvg-logo="https://static.ppvservices.st/assets/thumb/410a7c5e8f198a864065858574a87c15-thumbnail.jpg" group-title="Soccer",Ipswich Town vs Nottingham Forest — Oct 24, 03:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.23409c38e521cfd1" tvg-name="Necaxa vs Juarez" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Necaxa vs Juarez — Oct 24, 09:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/benfica.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8f2fabc598069b20" tvg-name="Stuttgart vs Borussia M'gladbach" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Stuttgart vs Borussia M'gladbach — Oct 24, 02:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/marseille.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1321d4c5e76cfde9" tvg-name="Torino vs Monza" tvg-logo="https://static.ppvservices.st/assets/thumb/08289fcb28ddcb75c90ef44e7e113520-thumbnail.jpg" group-title="Soccer",Torino vs Monza — Oct 24, 02:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/prem2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8a5feb03b4be71b6" tvg-name="Torino vs Monza" tvg-logo="https://static.ppvservices.st/assets/thumb/08289fcb28ddcb75c90ef44e7e113520-thumbnail.jpg" group-title="Soccer",Torino vs Monza — Oct 24, 02:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.59b112d93efa7f1a" tvg-name="WWE Smackdown" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE Smackdown — Oct 24, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
