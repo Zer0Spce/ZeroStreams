@@ -7,10 +7,6 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8162b5f41f7eadec" tvg-name="Formula 1 - Free Practice 3" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Free Practice 3 — Oct 25, 01:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="zerostreams.55e4e4c2a456e3a0" tvg-name="Formula 1 - Qualifying" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Qualifying — Oct 25, 05:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -19,10 +15,6 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.50ee1ae478660690" tvg-name="Formula 1 - Qualifying" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Qualifying — Oct 25, 05:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/f1.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6508f10090b87e5b" tvg-name="BYU vs UCF" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",BYU vs UCF
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -259,7 +251,7 @@ https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2da5fd3538c174d7" tvg-name="Los Angeles Kings vs New Jersey Devils" tvg-logo="https://static.ppvservices.st/assets/thumb/03f08a3a669967df321df6372480b020-thumbnail.jpg" group-title="NHL",Los Angeles Kings vs New Jersey Devils — Oct 25, 03:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.2da5fd3538c174d7" tvg-name="Los Angeles Kings vs New Jersey Devils" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Los Angeles Kings vs New Jersey Devils — Oct 25, 03:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
@@ -267,10 +259,10 @@ https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a51ab4ce2b5850ec" tvg-name="New York Rangers vs Ottawa Senators" tvg-logo="https://static.ppvservices.st/assets/thumb/3addf98e22b76aebd76c8971a7333371-thumbnail.jpg" group-title="NHL",New York Rangers vs Ottawa Senators — Oct 25, 07:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
+#EXTINF:-1 tvg-id="zerostreams.b7f840bcdc1a546b" tvg-name="New York Rangers vs Ottawa Senators" tvg-logo="https://static.ppvservices.st/assets/thumb/3addf98e22b76aebd76c8971a7333371-thumbnail.jpg" group-title="NHL",New York Rangers vs Ottawa Senators — Oct 25, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl4.m3u8
+https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6849a77d0c4d7f1d" tvg-name="San Jose Sharks vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f65596f34764e51ed83990c1b3c91091-thumbnail.jpg" group-title="NHL",San Jose Sharks vs Boston Bruins — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -315,10 +307,10 @@ https://admin2.formaturamaxi.com.br/oldham.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.30b3aed59f78adcd" tvg-name="Chapecoense vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Chapecoense vs Fluminense — Oct 25, 06:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0915cdf9baace725" tvg-name="Chapecoense vs Fluminense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Chapecoense vs Fluminense — Oct 25, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/canal5mx.m3u8
+https://admin.formaturamaxi.com.br/fana6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1cec2b23e4bf2364" tvg-name="Charlton Athletic vs Norwich City" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Charlton Athletic vs Norwich City — Oct 24, 07:30 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
