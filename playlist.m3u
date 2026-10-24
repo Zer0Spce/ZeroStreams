@@ -171,10 +171,14 @@ https://admin2.formaturamaxi.com.br/ncaa7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7bb90156fe7a334b" tvg-name="WoO Sprint Cars - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",WoO Sprint Cars - Race — Oct 25, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.15bcc79061edc541" tvg-name="WoO Late Models - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",WoO Late Models - Race — Oct 25, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/flo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.06d5b2d120c38adb" tvg-name="WoO Sprint Cars - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",WoO Sprint Cars - Race — Oct 25, 05:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/flo2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6d337a15b7fd42a1" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 25, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -195,14 +199,10 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cedb501bec9a75f5" tvg-name="Brooklyn Nets vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/26c9e121d666db6dd4bde1debbccd3ce-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Cleveland Cavaliers — Oct 25, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.fd443d81907059de" tvg-name="Brooklyn Nets vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/26c9e121d666db6dd4bde1debbccd3ce-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Cleveland Cavaliers — Oct 25, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/celticsalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3074720e73f2818b" tvg-name="Brooklyn Nets vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/26c9e121d666db6dd4bde1debbccd3ce-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Cleveland Cavaliers — Oct 25, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba2.m3u8
+https://tedesco.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a822baad54b6cee6" tvg-name="Golden State Warriors vs Phoenix Suns" tvg-logo="https://static.ppvservices.st/assets/thumb/dfc64f7d53acd09851dc99a6dea3bcae-thumbnail.jpg" group-title="NBA",Golden State Warriors vs Phoenix Suns — Oct 25, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -255,6 +255,10 @@ https://tedesco.formaturamaxi.com.br/nhl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.270484420c63f43b" tvg-name="Minnesota Wild vs Seattle Kraken" tvg-logo="https://static.ppvservices.st/assets/thumb/5e116330228d4efb4fd29a5ceab4873e-thumbnail.jpg" group-title="NHL",Minnesota Wild vs Seattle Kraken — Oct 25, 10:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nhl12.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ab04f7ac0aca5b66" tvg-name="Nashville Predators vs Pittsburgh Penguins" tvg-logo="https://static.ppvservices.st/assets/thumb/815e5dc6c671f82f739f5d2c29693e91-thumbnail.jpg" group-title="NHL",Nashville Predators vs Pittsburgh Penguins — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -351,10 +355,10 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.74d40f784798c385" tvg-name="León vs Toluca" tvg-logo="https://static.ppvservices.st/assets/thumb/263191a9720087070fd072025d46d946-thumbnail.jpg" group-title="Soccer",León vs Toluca — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0aab213cb11be6d4" tvg-name="León vs Toluca" tvg-logo="https://static.ppvservices.st/assets/thumb/263191a9720087070fd072025d46d946-thumbnail.jpg" group-title="Soccer",León vs Toluca — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxonemx.m3u8
+https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.5f78cf3a0996e714" tvg-name="Mirassol vs Sao Paulo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Mirassol vs Sao Paulo — Oct 25, 03:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
