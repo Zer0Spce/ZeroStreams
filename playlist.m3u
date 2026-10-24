@@ -95,6 +95,10 @@ https://admin.formaturamaxi.com.br/ncaa4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.556a027c6cdf1b60" tvg-name="Navarrete vs. Foster" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Navarrete vs. Foster — Oct 25, 06:15 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/ppv3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ef872467c1d8a24e" tvg-name="North Dakota State vs New Mexico" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",North Dakota State vs New Mexico
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -435,11 +439,11 @@ https://admin.formaturamaxi.com.br/fana3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7262943811f195fc" tvg-name="UFC 333: Volkanovski vs. Evloev" tvg-logo="https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg" group-title="UFC",UFC 333: Volkanovski vs. Evloev — Oct 24, 10:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.7262943811f195fc" tvg-name="UFC 333: Volkanovski vs. Evloev" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",UFC 333: Volkanovski vs. Evloev — Oct 24, 10:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ufc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9bbffcc28418f962" tvg-name="UFC 333: Volkanovski vs. Evloev" tvg-logo="https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg" group-title="UFC",UFC 333: Volkanovski vs. Evloev — Oct 24, 10:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.9bbffcc28418f962" tvg-name="UFC 333: Volkanovski vs. Evloev" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/ufc.png" group-title="UFC",UFC 333: Volkanovski vs. Evloev — Oct 24, 10:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
