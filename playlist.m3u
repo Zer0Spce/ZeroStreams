@@ -183,10 +183,10 @@ https://admin2.formaturamaxi.com.br/flo2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f80688f29c396f9b" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 25, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.339df5b679a45180" tvg-name="Tampa Bay Rays vs Milwaukee Brewers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Tampa Bay Rays vs Milwaukee Brewers — Oct 25, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/mlb.m3u8
+https://admin2.formaturamaxi.com.br/mlbalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d183ec6b6dac02fc" tvg-name="MotoGP - Australian Grand Prix" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/motogp.png" group-title="MotoGP",MotoGP - Australian Grand Prix — Oct 25, 11:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -363,7 +363,7 @@ https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bad9aa2607d9504c" tvg-name="Monterrey vs Chivas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monterrey vs Chivas — Oct 25, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.c483a1b4ece8f6c4" tvg-name="Monterrey vs Chivas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monterrey vs Chivas — Oct 25, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tudn.m3u8
