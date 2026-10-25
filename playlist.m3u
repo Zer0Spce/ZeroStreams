@@ -55,10 +55,6 @@ https://admin.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.585da0ee8f0215c1" tvg-name="Cincinnati Bengals vs Baltimore Ravens" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Cincinnati Bengals vs Baltimore Ravens
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b1f4dd65483d95b1" tvg-name="Cleveland Browns vs Tennessee Titans" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Cleveland Browns vs Tennessee Titans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -103,10 +99,6 @@ https://admin2.formaturamaxi.com.br/nfl11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl2alt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ed9b928b555b072d" tvg-name="Miami Dolphins vs New York Jets" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Miami Dolphins vs New York Jets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl5.m3u8
 #EXTINF:-1 tvg-id="zerostreams.80c990b3b9a4f981" tvg-name="NFL RedZone" tvg-logo="https://i.imgur.com/5lPqQj5.png" group-title="NFL",NFL RedZone
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/redzone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,10 +167,10 @@ https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/espn3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6d23f9881c66f98c" tvg-name="Atlas vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/fb969ba77c62c3fc083234c6891c0943-thumbnail.jpg" group-title="Soccer",Atlas vs Puebla — Oct 26, 07:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
+#EXTINF:-1 tvg-id="zerostreams.8b2e680cf94554bc" tvg-name="Atlas vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/fb969ba77c62c3fc083234c6891c0943-thumbnail.jpg" group-title="Soccer",Atlas vs Puebla — Oct 26, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/canal5mx.m3u8
+https://admin2.formaturamaxi.com.br/tudnus.m3u8
 #EXTINF:-1 tvg-id="zerostreams.75565b1e3ffabfe9" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Barcelona vs Real Madrid — Oct 26, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
