@@ -219,10 +219,6 @@ https://tedesco.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.512e16c9e200dccf" tvg-name="Golden State Warriors vs Phoenix Suns" tvg-logo="https://static.ppvservices.st/assets/thumb/dfc64f7d53acd09851dc99a6dea3bcae-thumbnail.jpg" group-title="NBA",Golden State Warriors vs Phoenix Suns — Oct 25, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/rockets.m3u8
 #EXTINF:-1 tvg-id="zerostreams.44c66edc699c29a7" tvg-name="Houston Rockets vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/3578d0c39f1a1c0a57f2714c8bf07c38-thumbnail.jpg" group-title="NBA",Houston Rockets vs Atlanta Hawks — Oct 25, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -251,11 +247,11 @@ https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d015fbb42c3b46cb" tvg-name="Buffalo Sabres vs Washington Capitals" tvg-logo="https://static.ppvservices.st/assets/thumb/2516f76cff8fd5a0162f075a851c68cc-thumbnail.jpg" group-title="NHL",Buffalo Sabres vs Washington Capitals — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.d015fbb42c3b46cb" tvg-name="Buffalo Sabres vs Washington Capitals" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Buffalo Sabres vs Washington Capitals — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8081b59e0be1a2b5" tvg-name="Carolina Hurricanes vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/3fe216ebe2e9c2a69fd5f092ad37216a-thumbnail.jpg" group-title="NHL",Carolina Hurricanes vs St. Louis Blues — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8081b59e0be1a2b5" tvg-name="Carolina Hurricanes vs St. Louis Blues" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Carolina Hurricanes vs St. Louis Blues — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
@@ -271,15 +267,15 @@ https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ab04f7ac0aca5b66" tvg-name="Nashville Predators vs Pittsburgh Penguins" tvg-logo="https://static.ppvservices.st/assets/thumb/815e5dc6c671f82f739f5d2c29693e91-thumbnail.jpg" group-title="NHL",Nashville Predators vs Pittsburgh Penguins — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ab04f7ac0aca5b66" tvg-name="Nashville Predators vs Pittsburgh Penguins" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Nashville Predators vs Pittsburgh Penguins — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b7f840bcdc1a546b" tvg-name="New York Rangers vs Ottawa Senators" tvg-logo="https://static.ppvservices.st/assets/thumb/3addf98e22b76aebd76c8971a7333371-thumbnail.jpg" group-title="NHL",New York Rangers vs Ottawa Senators — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.b7f840bcdc1a546b" tvg-name="New York Rangers vs Ottawa Senators" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",New York Rangers vs Ottawa Senators — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6849a77d0c4d7f1d" tvg-name="San Jose Sharks vs Boston Bruins" tvg-logo="https://static.ppvservices.st/assets/thumb/f65596f34764e51ed83990c1b3c91091-thumbnail.jpg" group-title="NHL",San Jose Sharks vs Boston Bruins — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.6849a77d0c4d7f1d" tvg-name="San Jose Sharks vs Boston Bruins" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",San Jose Sharks vs Boston Bruins — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
@@ -287,11 +283,11 @@ https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.20638554b1f4dd14" tvg-name="Toronto Maple Leafs vs Edmonton Oilers" tvg-logo="https://static.ppvservices.st/assets/thumb/177631701f4e58967fa1a1b6f126595d-thumbnail.jpg" group-title="NHL",Toronto Maple Leafs vs Edmonton Oilers — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.20638554b1f4dd14" tvg-name="Toronto Maple Leafs vs Edmonton Oilers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Toronto Maple Leafs vs Edmonton Oilers — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cf8aaf12be25f84e" tvg-name="Vegas Golden Knights vs Columbus Blue Jackets" tvg-logo="https://static.ppvservices.st/assets/thumb/3a3e56172b927290f29ccddb3ad4c64c-thumbnail.jpg" group-title="NHL",Vegas Golden Knights vs Columbus Blue Jackets — Oct 25, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.cf8aaf12be25f84e" tvg-name="Vegas Golden Knights vs Columbus Blue Jackets" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Vegas Golden Knights vs Columbus Blue Jackets — Oct 25, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
