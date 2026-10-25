@@ -219,7 +219,7 @@ https://tedesco.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44c66edc699c29a7" tvg-name="Houston Rockets vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/3578d0c39f1a1c0a57f2714c8bf07c38-thumbnail.jpg" group-title="NBA",Houston Rockets vs Atlanta Hawks — Oct 25, 08:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.44c66edc699c29a7" tvg-name="Houston Rockets vs Atlanta Hawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Houston Rockets vs Atlanta Hawks — Oct 25, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
@@ -331,7 +331,7 @@ https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b0985ae0d393583" tvg-name="Colorado Rapids vs Vancouver Whitecaps" tvg-logo="https://static.ppvservices.st/assets/thumb/a8d2d67fa2b5e4ee8e6a46c55fb10629-thumbnail.jpg" group-title="Soccer",Colorado Rapids vs Vancouver Whitecaps — Oct 25, 09:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8b0985ae0d393583" tvg-name="Colorado Rapids vs Vancouver Whitecaps" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Colorado Rapids vs Vancouver Whitecaps — Oct 25, 09:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/tsn.m3u8
