@@ -215,7 +215,7 @@ https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9026285ef1b01d02" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://static.ppvservices.st/assets/thumb/9c48e467798186231de7863d33f5807b-thumbnail.jpg" group-title="Soccer",Inter Milan vs Fiorentina — Oct 25, 07:30 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.9026285ef1b01d02" tvg-name="Inter Milan vs Fiorentina" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Milan vs Fiorentina — Oct 25, 07:30 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
