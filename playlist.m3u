@@ -7,10 +7,6 @@ https://admin2.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44251693f9e06962" tvg-name="Browne vs. Burden: The Grand Finale" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Browne vs. Burden: The Grand Finale — Oct 26, 02:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.5cdced2de42319f1" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 27, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,10 +59,10 @@ https://tedesco.formaturamaxi.com.br/nfl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nfl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.19f4e3b6d641e639" tvg-name="Denver Broncos vs Arizona Cardinals" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Denver Broncos vs Arizona Cardinals
+#EXTINF:-1 tvg-id="zerostreams.cfe8892ca3e0a635" tvg-name="Denver Broncos vs Arizona Cardinals" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Denver Broncos vs Arizona Cardinals
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl9.m3u8
+https://admin.formaturamaxi.com.br/nfl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.059e2dc502618ec9" tvg-name="Green Bay Packers vs Detroit Lions" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Green Bay Packers vs Detroit Lions
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -251,7 +247,7 @@ https://admin2.formaturamaxi.com.br/peacock3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4b8ba771f93145e8" tvg-name="Lecce vs Juventus" tvg-logo="https://static.ppvservices.st/assets/thumb/285e0fe23326f7a9b840453399fc66dc-thumbnail.jpg" group-title="Soccer",Lecce vs Juventus — Oct 26, 01:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.4b8ba771f93145e8" tvg-name="Lecce vs Juventus" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lecce vs Juventus — Oct 26, 01:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/golazo.m3u8
