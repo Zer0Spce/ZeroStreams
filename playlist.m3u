@@ -163,7 +163,7 @@ https://admin2.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9abea0b413dceb4c" tvg-name="América vs Pachuca" tvg-logo="https://static.ppvservices.st/assets/thumb/b5a149c2be0e0b44aada20db9ba4d28f-thumbnail.jpg" group-title="Soccer",América vs Pachuca — Oct 26, 09:05 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.9abea0b413dceb4c" tvg-name="América vs Pachuca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",América vs Pachuca — Oct 26, 09:05 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/canal5mx.m3u8
@@ -279,7 +279,7 @@ https://admin2.formaturamaxi.com.br/beines.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/olympiacos.m3u8
-#EXTINF:-1 tvg-id="zerostreams.50fe16f3ce2b7ead" tvg-name="Querétaro vs Cruz Azul" tvg-logo="https://static.ppvservices.st/assets/thumb/2d09128c55ddc895e610bdc6b4623174-thumbnail.jpg" group-title="Soccer",Querétaro vs Cruz Azul — Oct 26, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.50fe16f3ce2b7ead" tvg-name="Querétaro vs Cruz Azul" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Querétaro vs Cruz Azul — Oct 26, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foxone3mx.m3u8
