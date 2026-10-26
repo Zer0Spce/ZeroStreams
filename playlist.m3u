@@ -43,11 +43,11 @@ https://admin.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e0c9a9ce02fadbe7" tvg-name="Orlando Magic vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/9ffc5e2e3669623ea995acf68d020ff7-thumbnail.jpg" group-title="NBA",Orlando Magic vs New York Knicks — Oct 26, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e0c9a9ce02fadbe7" tvg-name="Orlando Magic vs New York Knicks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Orlando Magic vs New York Knicks — Oct 26, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.20e87eaa5c4f4481" tvg-name="Toronto Raptors vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/dc9adf8651dd74491a60d95e41531902-thumbnail.jpg" group-title="NBA",Toronto Raptors vs Minnesota Timberwolves — Oct 26, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.20e87eaa5c4f4481" tvg-name="Toronto Raptors vs Minnesota Timberwolves" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Toronto Raptors vs Minnesota Timberwolves — Oct 26, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
@@ -151,7 +151,7 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0b711bd24618df04" tvg-name="Montreal Canadiens vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/71f987f0c99c305088d6c42bc216001e-thumbnail.jpg" group-title="NHL",Montreal Canadiens vs Winnipeg Jets — Oct 26, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0b711bd24618df04" tvg-name="Montreal Canadiens vs Winnipeg Jets" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Montreal Canadiens vs Winnipeg Jets — Oct 26, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
@@ -167,7 +167,7 @@ https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/espn3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b2e680cf94554bc" tvg-name="Atlas vs Puebla" tvg-logo="https://static.ppvservices.st/assets/thumb/fb969ba77c62c3fc083234c6891c0943-thumbnail.jpg" group-title="Soccer",Atlas vs Puebla — Oct 26, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8b2e680cf94554bc" tvg-name="Atlas vs Puebla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlas vs Puebla — Oct 26, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tudnus.m3u8
@@ -235,6 +235,10 @@ https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem.m3u8
+#EXTINF:-1 tvg-id="zerostreams.068d41a87c3ee186" tvg-name="Los Angeles FC vs LA Galaxy" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Los Angeles FC vs LA Galaxy — Oct 26, 09:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b932fdb1a43e7639" tvg-name="Manchester United vs Bournemouth" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Manchester United vs Bournemouth — Oct 25, 10:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
