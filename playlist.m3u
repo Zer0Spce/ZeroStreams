@@ -39,7 +39,7 @@ https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bcdaf92ec50204ab" tvg-name="Los Angeles Lakers vs Utah Jazz" tvg-logo="https://static.ppvservices.st/assets/thumb/72f8f56d0368d79265cccc8e02b94773-thumbnail.jpg" group-title="NBA",Los Angeles Lakers vs Utah Jazz — Oct 26, 05:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.bcdaf92ec50204ab" tvg-name="Los Angeles Lakers vs Utah Jazz" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Los Angeles Lakers vs Utah Jazz — Oct 26, 05:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
@@ -79,10 +79,14 @@ https://tedesco.formaturamaxi.com.br/nfl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nfl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e493abb66cf5a5aa" tvg-name="Kansas City Chiefs vs Seattle Seahawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Kansas City Chiefs vs Seattle Seahawks
+#EXTINF:-1 tvg-id="zerostreams.5c5a4f8f800d2c6b" tvg-name="Kansas City Chiefs vs Seattle Seahawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Kansas City Chiefs vs Seattle Seahawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nfl6.m3u8
+https://admin2.formaturamaxi.com.br/nfl12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.cb4e1dbd79ada745" tvg-name="Kansas City Chiefs vs Seattle Seahawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Kansas City Chiefs vs Seattle Seahawks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.082ccd61b46e57bd" tvg-name="Kansas City Chiefs vs Seattle Seahawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",Kansas City Chiefs vs Seattle Seahawks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
