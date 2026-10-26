@@ -3,6 +3,10 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4616a96a93a11ffa" tvg-name="Formula 1 - United States Grand Prix" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - United States Grand Prix — Oct 26, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="zerostreams.44251693f9e06962" tvg-name="Browne vs. Burden: The Grand Finale" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Browne vs. Burden: The Grand Finale — Oct 26, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -139,7 +143,7 @@ https://admin2.formaturamaxi.com.br/nfl2alt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b219d2c59caa845e" tvg-name="Colorado Avalanche vs Nashville Predators" tvg-logo="https://static.ppvservices.st/assets/thumb/21665b5ce16972f431558ffd88aada30-thumbnail.jpg" group-title="NHL",Colorado Avalanche vs Nashville Predators — Oct 26, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.b219d2c59caa845e" tvg-name="Colorado Avalanche vs Nashville Predators" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Colorado Avalanche vs Nashville Predators — Oct 26, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
@@ -175,6 +179,18 @@ https://admin2.formaturamaxi.com.br/tudnus.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0583a63520219936" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Barcelona vs Real Madrid — Oct 26, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/abc.m3u8
+#EXTINF:-1 tvg-id="zerostreams.516d8aa528fa5f8c" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Barcelona vs Real Madrid — Oct 26, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/arab.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0dd23681aa28af63" tvg-name="Barcelona vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Barcelona vs Real Madrid — Oct 26, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.95f692fae52decc4" tvg-name="Celta de Vigo vs Real Betis" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Celta de Vigo vs Real Betis — Oct 25, 11:15 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -287,10 +303,10 @@ https://admin.formaturamaxi.com.br/afaplay2en.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1685a40dec7027b0" tvg-name="Tijuana vs Santos Laguna" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Tijuana vs Santos Laguna — Oct 26, 11:10 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.3f6ec5f80c694090" tvg-name="Tijuana vs Santos Laguna" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Tijuana vs Santos Laguna — Oct 26, 11:10 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
+https://admin2.formaturamaxi.com.br/foxone4mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6dc2d58c440b6189" tvg-name="Udinese vs Milan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Udinese vs Milan — Oct 26, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
