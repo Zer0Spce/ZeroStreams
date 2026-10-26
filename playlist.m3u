@@ -91,6 +91,14 @@ https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/foot.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c27caf1777e1b58c" tvg-name="Beşiktaş vs İstanbul Başakşehir" tvg-logo="https://static.ppvservices.st/assets/thumb/21452a32cfcb2946b5b8e6930ffe26af-thumbnail.jpg" group-title="Soccer",Beşiktaş vs İstanbul Başakşehir — Oct 27, 12:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/bein4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c3dae4a16d810a66" tvg-name="Beşiktaş vs İstanbul Başakşehir" tvg-logo="https://static.ppvservices.st/assets/thumb/21452a32cfcb2946b5b8e6930ffe26af-thumbnail.jpg" group-title="Soccer",Beşiktaş vs İstanbul Başakşehir — Oct 27, 12:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="zerostreams.bf802b4aa59d1e1f" tvg-name="Coritiba vs Grêmio" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Coritiba vs Grêmio — Oct 27, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -111,6 +119,18 @@ https://admin2.formaturamaxi.com.br/peacock2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sky3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f3a3770c5d9f2130" tvg-name="Galatasaray vs Fenerbahçe" tvg-logo="https://static.ppvservices.st/assets/thumb/62077b8142a6d9c44f6f28bf3719b956-thumbnail.jpg" group-title="Soccer",Galatasaray vs Fenerbahçe — Oct 27, 02:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="zerostreams.28201d956b2a5b0d" tvg-name="Galatasaray vs Fenerbahçe" tvg-logo="https://static.ppvservices.st/assets/thumb/62077b8142a6d9c44f6f28bf3719b956-thumbnail.jpg" group-title="Soccer",Galatasaray vs Fenerbahçe — Oct 27, 02:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/peacock4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f55e3088817726b2" tvg-name="Rizespor vs Trabzonspor" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Rizespor vs Trabzonspor — Oct 27, 12:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/bein3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e048137f6c57e185" tvg-name="Sevilla vs Osasuna" tvg-logo="https://static.ppvservices.st/assets/thumb/eda95bd04a4247801cf7ac2e91c6cad3-thumbnail.jpg" group-title="Soccer",Sevilla vs Osasuna — Oct 27, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
