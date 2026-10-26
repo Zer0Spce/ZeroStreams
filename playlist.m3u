@@ -11,11 +11,11 @@ https://temp.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ppv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5cdced2de42319f1" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 27, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.5cdced2de42319f1" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://static.ppvservices.st/assets/thumb/3222f84fc40d2517cdd102587b9ad16f-thumbnail.jpg" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 27, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e7c6a2a0ef83faf6" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 27, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e7c6a2a0ef83faf6" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://static.ppvservices.st/assets/thumb/3222f84fc40d2517cdd102587b9ad16f-thumbnail.jpg" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 27, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/mlbalt.m3u8
@@ -151,7 +151,7 @@ https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1491fec366415e91" tvg-name="Minnesota Wild vs Vancouver Canucks" tvg-logo="https://static.ppvservices.st/assets/thumb/4eadf4804301c7b1a9f932e3100ec19a-thumbnail.jpg" group-title="NHL",Minnesota Wild vs Vancouver Canucks — Oct 26, 10:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.1491fec366415e91" tvg-name="Minnesota Wild vs Vancouver Canucks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Minnesota Wild vs Vancouver Canucks — Oct 26, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
