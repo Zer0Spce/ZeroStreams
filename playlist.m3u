@@ -39,10 +39,10 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.585421d5b405aa97" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0d391666a8f1eac1" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba.m3u8
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d56c87bd5c76ea07" tvg-name="Detroit Pistons vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="NBA",Detroit Pistons vs New York Knicks — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -111,10 +111,6 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/prem1.m3u8
-#EXTINF:-1 tvg-id="zerostreams.675a66b4254fc3b5" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://static.ppvservices.st/assets/thumb/af3072d07b0a2a9130b2432a252b04ca-thumbnail.jpg" group-title="Soccer",Bradford City vs Peterborough United — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3711360e274ca6b5" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -123,7 +119,7 @@ https://tedesco.formaturamaxi.com.br/now.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/now.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c1f79daea6deabf2" tvg-name="Torino vs Como" tvg-logo="https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg" group-title="Soccer",Torino vs Como — Oct 28, 03:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.c1f79daea6deabf2" tvg-name="Torino vs Como" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Torino vs Como — Oct 28, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
