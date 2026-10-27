@@ -3,10 +3,6 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4616a96a93a11ffa" tvg-name="Formula 1 - United States Grand Prix" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - United States Grand Prix — Oct 26, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/main.m3u8
 #EXTINF:-1 tvg-id="zerostreams.44376fbdfa8a3e07" tvg-name="AEW" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",AEW — Oct 29, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
