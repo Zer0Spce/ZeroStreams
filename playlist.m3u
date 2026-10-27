@@ -95,50 +95,30 @@ https://tedesco.formaturamaxi.com.br/nhl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl10.m3u8
+#EXTINF:-1 tvg-id="zerostreams.665979e536839f2a" tvg-name="Arsenal vs Fleetwood" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Arsenal vs Fleetwood — Oct 28, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTINF:-1 tvg-id="zerostreams.1c20008b9bcb15fb" tvg-name="Arsenal vs Fleetwood" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Arsenal vs Fleetwood — Oct 28, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4d04597bf1dc2597" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bradford City vs Peterborough United — Oct 28, 03:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.675a66b4254fc3b5" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bradford City vs Peterborough United — Oct 28, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ee9edbd4a8cc95cd" tvg-name="Bradford City vs Peterborough United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bradford City vs Peterborough United — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ab6dd8f681b81fb2" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ballonalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7881ca88becde2f3" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/balon.m3u8
-#EXTINF:-1 tvg-id="zerostreams.448d8f5866ca3082" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dazn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.81a90ba41c95a0fb" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/equipe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b41e84a8e1fe6789" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/set.m3u8
-#EXTINF:-1 tvg-id="zerostreams.84cea021b8f404dd" tvg-name="Sassuolo vs Lazio" tvg-logo="https://static.ppvservices.st/assets/thumb/cc4b22f816bf7ed771b845fdb37a87d5-thumbnail.jpg" group-title="Soccer",Sassuolo vs Lazio — Oct 28, 01:30 AM PHT
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3711360e274ca6b5" tvg-name="Roma vs Cagliari" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Roma vs Cagliari — Oct 28, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sportdigital.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ed040e6be27ba878" tvg-name="Sassuolo vs Lazio" tvg-logo="https://static.ppvservices.st/assets/thumb/cc4b22f816bf7ed771b845fdb37a87d5-thumbnail.jpg" group-title="Soccer",Sassuolo vs Lazio — Oct 28, 01:30 AM PHT
+https://tedesco.formaturamaxi.com.br/now.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0ce6175eeed63bf6" tvg-name="Sassuolo vs Lazio" tvg-logo="https://static.ppvservices.st/assets/thumb/cc4b22f816bf7ed771b845fdb37a87d5-thumbnail.jpg" group-title="Soccer",Sassuolo vs Lazio — Oct 28, 01:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d80c888233e5fb7c" tvg-name="Torino vs Como" tvg-logo="https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg" group-title="Soccer",Torino vs Como — Oct 28, 03:45 AM PHT
+https://tedesco.formaturamaxi.com.br/now.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c1f79daea6deabf2" tvg-name="Torino vs Como" tvg-logo="https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg" group-title="Soccer",Torino vs Como — Oct 28, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c411f2e26b93f122" tvg-name="WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE",WWE NXT — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
