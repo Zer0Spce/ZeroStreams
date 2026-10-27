@@ -39,6 +39,10 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6a6327b3b6cbeb0e" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/celtics.m3u8
 #EXTINF:-1 tvg-id="zerostreams.0d391666a8f1eac1" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -59,16 +63,16 @@ https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.87d1b48c2672c3a0" tvg-name="Buffalo Sabres vs San Jose Sharks" tvg-logo="https://static.ppvservices.st/assets/thumb/fc3e6147bc4dd77bc03798a32d19c9b3-thumbnail.jpg" group-title="NHL",Buffalo Sabres vs San Jose Sharks — Oct 28, 10:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
+#EXTINF:-1 tvg-id="zerostreams.766e1a536a602094" tvg-name="Buffalo Sabres vs San Jose Sharks" tvg-logo="https://static.ppvservices.st/assets/thumb/fc3e6147bc4dd77bc03798a32d19c9b3-thumbnail.jpg" group-title="NHL",Buffalo Sabres vs San Jose Sharks — Oct 28, 10:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl7.m3u8
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cff0176aefcbf878" tvg-name="Columbus Blue Jackets vs Philadelphia Flyers" tvg-logo="https://static.ppvservices.st/assets/thumb/8985a8f8954481f67977af3a31763c82-thumbnail.jpg" group-title="NHL",Columbus Blue Jackets vs Philadelphia Flyers — Oct 28, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7dbf122b228d1995" tvg-name="Florida Panthers vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/b2acfe9149d4ac20aa13f61050de294b-thumbnail.jpg" group-title="NHL",Florida Panthers vs Winnipeg Jets — Oct 28, 08:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.540aaa852794a647" tvg-name="Los Angeles Kings vs Chicago Blackhawks" tvg-logo="https://static.ppvservices.st/assets/thumb/4593ed3c21d15e7b166ead24a7f6ba09-thumbnail.jpg" group-title="NHL",Los Angeles Kings vs Chicago Blackhawks — Oct 28, 08:00 AM PHT
@@ -123,10 +127,6 @@ https://tedesco.formaturamaxi.com.br/now.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c411f2e26b93f122" tvg-name="WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE",WWE NXT — Oct 28, 08:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/wwe.m3u8
 #EXTINF:-1 tvg-id="zerostreams.31467a663361ef52" tvg-name="WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE",WWE NXT — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
