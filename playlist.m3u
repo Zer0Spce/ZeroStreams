@@ -139,18 +139,14 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/itv.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b01602e0f2a3e74c" tvg-name="Fluminense vs Internacional" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Fluminense vs Internacional — Oct 29, 06:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.249773d0420b0292" tvg-name="Fluminense vs Internacional" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Fluminense vs Internacional — Oct 29, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8b819c1ff8ff6677" tvg-name="Fulham vs Crystal Palace" tvg-logo="https://static.ppvservices.st/assets/thumb/64a9f17228f33ec380e69d7cacc596d8-thumbnail.jpg" group-title="Soccer",Fulham vs Crystal Palace — Oct 29, 03:45 AM PHT
+https://admin.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8b819c1ff8ff6677" tvg-name="Fulham vs Crystal Palace" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Fulham vs Crystal Palace — Oct 29, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/fulham.m3u8
-#EXTINF:-1 tvg-id="zerostreams.345df4b6ec166c5a" tvg-name="Genoa vs Juventus" tvg-logo="https://static.ppvservices.st/assets/thumb/afcaa14010b2800cbe44b3cd81c12469-thumbnail.jpg" group-title="Soccer",Genoa vs Juventus — Oct 29, 03:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/now.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9a8f1bcfe69646cc" tvg-name="Hearts vs Rangers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Hearts vs Rangers — Oct 29, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -159,10 +155,6 @@ https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6c260e12b45ad88e" tvg-name="Inter Milan vs Venezia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Milan vs Venezia — Oct 29, 01:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/now.m3u8
 #EXTINF:-1 tvg-id="zerostreams.47adad2b1f928c2c" tvg-name="Manchester City vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Manchester City vs Brighton — Oct 29, 03:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -175,14 +167,14 @@ https://admin2.formaturamaxi.com.br/plus.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8fd2fc8c6f536b60" tvg-name="Monza vs Napoli" tvg-logo="https://static.ppvservices.st/assets/thumb/42b3e7af4e577bc3dddace22d5e38d2d-thumbnail.jpg" group-title="Soccer",Monza vs Napoli — Oct 29, 03:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8fd2fc8c6f536b60" tvg-name="Monza vs Napoli" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Monza vs Napoli — Oct 29, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2f8984a3f2cb6db9" tvg-name="RB Bragantino vs Chapecoense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",RB Bragantino vs Chapecoense — Oct 29, 06:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.356417113c23fd02" tvg-name="RB Bragantino vs Chapecoense" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",RB Bragantino vs Chapecoense — Oct 29, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://admin.formaturamaxi.com.br/fana.m3u8
 #EXTINF:-1 tvg-id="zerostreams.825db266c833c92a" tvg-name="Remo vs Botafogo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Remo vs Botafogo — Oct 29, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -191,19 +183,19 @@ https://admin.formaturamaxi.com.br/afaplay.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/afaplayen.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fbf715598fa8f482" tvg-name="Santos vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Santos vs Palmeiras — Oct 29, 06:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTINF:-1 tvg-id="zerostreams.9f031ba9ebc58f57" tvg-name="Santos vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Santos vs Palmeiras — Oct 29, 06:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e801d8390fffa983" tvg-name="Sunderland vs Brentford" tvg-logo="https://static.ppvservices.st/assets/thumb/41fbe7489b7796add2b5092785da47f1-thumbnail.jpg" group-title="Soccer",Sunderland vs Brentford — Oct 29, 03:45 AM PHT
+https://admin.formaturamaxi.com.br/fana3.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e801d8390fffa983" tvg-name="Sunderland vs Brentford" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sunderland vs Brentford — Oct 29, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sunder.m3u8
 #EXTINF:-1 tvg-id="zerostreams.855086a1a061a89f" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.111b1e24f72226c7" tvg-name="Vancouver Whitecaps vs San Diego" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vancouver Whitecaps vs San Diego — Oct 29, 10:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
