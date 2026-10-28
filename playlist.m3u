@@ -43,6 +43,10 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/celtics.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fa08b5562cca88a7" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/lp.m3u8
 #EXTINF:-1 tvg-id="zerostreams.3c8dbd65e69d431d" tvg-name="Detroit Pistons vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="NBA",Detroit Pistons vs New York Knicks — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
