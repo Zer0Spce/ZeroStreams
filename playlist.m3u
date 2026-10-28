@@ -43,18 +43,22 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/celtics.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0d391666a8f1eac1" tvg-name="Brooklyn Nets vs Boston Celtics" tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="NBA",Brooklyn Nets vs Boston Celtics — Oct 28, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d56c87bd5c76ea07" tvg-name="Detroit Pistons vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="NBA",Detroit Pistons vs New York Knicks — Oct 28, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.3c8dbd65e69d431d" tvg-name="Detroit Pistons vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="NBA",Detroit Pistons vs New York Knicks — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cfc6f701068539ac" tvg-name="Portland Trail Blazers vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Los Angeles Lakers — Oct 28, 11:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.65abe726f6127687" tvg-name="Detroit Pistons vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="NBA",Detroit Pistons vs New York Knicks — Oct 28, 08:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba4.m3u8
+https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6f0a814bd402994b" tvg-name="Portland Trail Blazers vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Los Angeles Lakers — Oct 28, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.6bc69d28552695d3" tvg-name="Portland Trail Blazers vs Los Angeles Lakers" tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Los Angeles Lakers — Oct 28, 11:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d7637b3774151f53" tvg-name="Sacramento Kings vs San Antonio Spurs" tvg-logo="https://static.ppvservices.st/assets/thumb/def05f077736825623aea15b8282658e-thumbnail.jpg" group-title="NBA",Sacramento Kings vs San Antonio Spurs — Oct 28, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -95,10 +99,10 @@ https://admin2.formaturamaxi.com.br/nhl6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4662d020ae4c697a" tvg-name="Ottawa Senators vs Vegas Golden Knights" tvg-logo="https://static.ppvservices.st/assets/thumb/7deb13a2ce1cf756b9e080eae53c6dc1-thumbnail.jpg" group-title="NHL",Ottawa Senators vs Vegas Golden Knights — Oct 28, 10:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8e8b6b4402b1da30" tvg-name="Ottawa Senators vs Vegas Golden Knights" tvg-logo="https://static.ppvservices.st/assets/thumb/7deb13a2ce1cf756b9e080eae53c6dc1-thumbnail.jpg" group-title="NHL",Ottawa Senators vs Vegas Golden Knights — Oct 28, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl9.m3u8
+https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTINF:-1 tvg-id="zerostreams.489df84e1d457c4d" tvg-name="Vancouver Canucks vs Anaheim Ducks" tvg-logo="https://static.ppvservices.st/assets/thumb/dd4bea5d9b6cb289bc7be439d21765f8-thumbnail.jpg" group-title="NHL",Vancouver Canucks vs Anaheim Ducks — Oct 28, 10:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
