@@ -55,6 +55,10 @@ https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.3dd7fc0a522843be" tvg-name="Miami Heat vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/f070ecc291fff4f69d8ba70e81c3b02f-thumbnail.jpg" group-title="NBA",Miami Heat vs Atlanta Hawks — Oct 29, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/heat.m3u8
 #EXTINF:-1 tvg-id="zerostreams.b24ba388395b9796" tvg-name="Miami Heat vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/f070ecc291fff4f69d8ba70e81c3b02f-thumbnail.jpg" group-title="NBA",Miami Heat vs Atlanta Hawks — Oct 29, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -99,10 +103,10 @@ https://admin2.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d9a3dc03d80292c1" tvg-name="New Jersey Devils vs Colorado Avalanche" tvg-logo="https://static.ppvservices.st/assets/thumb/4a1f938021a316d5b678ef0b277905a4-thumbnail.jpg" group-title="NHL",New Jersey Devils vs Colorado Avalanche — Oct 29, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f7e3969043751a34" tvg-name="New Jersey Devils vs Colorado Avalanche" tvg-logo="https://static.ppvservices.st/assets/thumb/4a1f938021a316d5b678ef0b277905a4-thumbnail.jpg" group-title="NHL",New Jersey Devils vs Colorado Avalanche — Oct 29, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl3.m3u8
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e05effddc4b8dbe1" tvg-name="Philadelphia Flyers vs Washington Capitals" tvg-logo="https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Washington Capitals — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -123,6 +127,10 @@ https://admin.formaturamaxi.com.br/afaplay2en.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/para.m3u8
+#EXTINF:-1 tvg-id="zerostreams.af066136d694d16f" tvg-name="Bahia vs Sao Paulo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bahia vs Sao Paulo — Oct 29, 08:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.fc30c0af8dc8c575" tvg-name="Bayern München vs Magdeburg" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Bayern München vs Magdeburg — Oct 29, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -143,10 +151,10 @@ https://tedesco.formaturamaxi.com.br/fulham.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1b06531b08901a7" tvg-name="Inter Miami vs Cincinnati" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Miami vs Cincinnati — Oct 29, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e2390cdaf1241384" tvg-name="Inter Miami vs Cincinnati" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Inter Miami vs Cincinnati — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/golazo.m3u8
+https://admin2.formaturamaxi.com.br/mls.m3u8
 #EXTINF:-1 tvg-id="zerostreams.47adad2b1f928c2c" tvg-name="Manchester City vs Brighton" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Manchester City vs Brighton — Oct 29, 03:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -167,14 +175,10 @@ https://admin2.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.825db266c833c92a" tvg-name="Remo vs Botafogo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Remo vs Botafogo — Oct 29, 08:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.b64d5deb559a0a7b" tvg-name="Remo vs Botafogo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Remo vs Botafogo — Oct 29, 08:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c9c283394db4539c" tvg-name="Remo vs Botafogo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Remo vs Botafogo — Oct 29, 08:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplayen.m3u8
+https://admin.formaturamaxi.com.br/fana6.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9f031ba9ebc58f57" tvg-name="Santos vs Palmeiras" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Santos vs Palmeiras — Oct 29, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -195,11 +199,11 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sunder.m3u8
-#EXTINF:-1 tvg-id="zerostreams.855086a1a061a89f" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTINF:-1 tvg-id="zerostreams.a97e64aaf39b7b96" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.111b1e24f72226c7" tvg-name="Vancouver Whitecaps vs San Diego" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vancouver Whitecaps vs San Diego — Oct 29, 10:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+https://admin2.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 tvg-id="zerostreams.fbfe16eb95121197" tvg-name="Vancouver Whitecaps vs San Diego" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vancouver Whitecaps vs San Diego — Oct 29, 10:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://admin2.formaturamaxi.com.br/tsn.m3u8
