@@ -115,10 +115,18 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.96ed898553f336aa" tvg-name="Atlético Mineiro vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético Mineiro vs Cruzeiro — Oct 30, 06:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.78cfaa784d84b0f4" tvg-name="Atlético Mineiro vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético Mineiro vs Cruzeiro — Oct 30, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana.m3u8
+https://admin.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 tvg-id="zerostreams.7127aba15acfa9ec" tvg-name="Atlético Mineiro vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético Mineiro vs Cruzeiro — Oct 30, 06:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fanapt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.cb2ae078e1da1996" tvg-name="Atlético Mineiro vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético Mineiro vs Cruzeiro — Oct 30, 06:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTINF:-1 tvg-id="zerostreams.8c73bec9cb63343b" tvg-name="Everton vs Newcastle" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Everton vs Newcastle — Oct 30, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -127,7 +135,7 @@ https://admin2.formaturamaxi.com.br/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.46b92d522eb165c8" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://static.ppvservices.st/assets/thumb/8d4f7863f1a43d74c56bf93cd1f37810-thumbnail.jpg" group-title="Soccer",Fiorentina vs Atalanta — Oct 30, 03:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.46b92d522eb165c8" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Fiorentina vs Atalanta — Oct 30, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/now.m3u8
