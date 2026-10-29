@@ -147,10 +147,22 @@ https://tedesco.formaturamaxi.com.br/now.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.da1226d41b03cd8a" tvg-name="Vasco Gama vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vasco Gama vs Flamengo — Oct 30, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0a207a95371fc787" tvg-name="Vasco Gama vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vasco Gama vs Flamengo — Oct 30, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2.m3u8
+https://admin.formaturamaxi.com.br/fana2en.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4b4a76b76b441e30" tvg-name="Vasco Gama vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vasco Gama vs Flamengo — Oct 30, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana2es.m3u8
+#EXTINF:-1 tvg-id="zerostreams.4da6f4274cac5fe3" tvg-name="Vasco Gama vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vasco Gama vs Flamengo — Oct 30, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/fana2pt.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1e79c58bc04b7833" tvg-name="Vasco Gama vs Flamengo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Vasco Gama vs Flamengo — Oct 30, 07:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1bbd9efa7b62eeb" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/47llb31573154455.png" group-title="WNBA",Golden State Valkyries vs Atlanta Dream — Oct 30, 12:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
