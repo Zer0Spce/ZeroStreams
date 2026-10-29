@@ -31,10 +31,6 @@ https://admin2.formaturamaxi.com.br/mlbalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/motogp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0bff184a0ad401d4" tvg-name="NASCAR Truck Series - Race" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nascar.png" group-title="NASCAR",NASCAR Truck Series - Race — Oct 31, 06:20 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTINF:-1 tvg-id="zerostreams.5d55a505c0445ed0" tvg-name="Cleveland Cavaliers vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/07e44f857d4cb8ad2c740cf9cab995cc-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Atlanta Hawks — Oct 30, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -67,14 +63,6 @@ https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5291ab4edb6c9710" tvg-name="Buffalo Sabres vs Anaheim Ducks" tvg-logo="https://static.ppvservices.st/assets/thumb/14b9ee3e5a1cd535bb7c64ad5abc19ac-thumbnail.jpg" group-title="NHL",Buffalo Sabres vs Anaheim Ducks — Oct 30, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cc354a06e60b0a9a" tvg-name="Chicago Blackhawks vs Detroit Red Wings" tvg-logo="https://static.ppvservices.st/assets/thumb/dab2189f65d8846b39b0ce2d04b704ff-thumbnail.jpg" group-title="NHL",Chicago Blackhawks vs Detroit Red Wings — Oct 30, 07:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7187eb375d46902a" tvg-name="Columbus Blue Jackets vs Carolina Hurricanes" tvg-logo="https://static.ppvservices.st/assets/thumb/043b620ece9653cec66050fa960445b5-thumbnail.jpg" group-title="NHL",Columbus Blue Jackets vs Carolina Hurricanes — Oct 30, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -103,14 +91,6 @@ https://admin2.formaturamaxi.com.br/nhl7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3fcc287ffb9533c6" tvg-name="Winnipeg Jets vs Tampa Bay Lightning" tvg-logo="https://static.ppvservices.st/assets/thumb/722e75c652562d9e47a82f38253cff1c-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs Tampa Bay Lightning — Oct 30, 07:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.42f391b45a45fc3e" tvg-name="Al Nassr vs Al Kholood" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Nassr vs Al Kholood — Oct 30, 02:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/fsp.m3u8
 #EXTINF:-1 tvg-id="zerostreams.83dda26a3fce4875" tvg-name="Al Riyadh vs Al Quadisiya" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Al Riyadh vs Al Quadisiya — Oct 30, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -119,14 +99,18 @@ https://admin2.formaturamaxi.com.br/sportdigital2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/para.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0985bac0860976e3" tvg-name="Everton vs Newcastle" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Everton vs Newcastle — Oct 30, 03:45 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.5d63661ce3e342ab" tvg-name="Atlético Mineiro vs Cruzeiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético Mineiro vs Cruzeiro — Oct 30, 06:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cae229f07fb8d526" tvg-name="Everton vs Newcastle" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Everton vs Newcastle — Oct 30, 03:45 AM PHT
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.8c73bec9cb63343b" tvg-name="Everton vs Newcastle" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Everton vs Newcastle — Oct 30, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/plus.m3u8
+https://admin2.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.79bd9c197e0aad12" tvg-name="Everton vs Newcastle" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Everton vs Newcastle — Oct 30, 03:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.46b92d522eb165c8" tvg-name="Fiorentina vs Atalanta" tvg-logo="https://static.ppvservices.st/assets/thumb/8d4f7863f1a43d74c56bf93cd1f37810-thumbnail.jpg" group-title="Soccer",Fiorentina vs Atalanta — Oct 30, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -143,11 +127,11 @@ https://tedesco.formaturamaxi.com.br/fulham.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bayern.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1bbd9efa7b62eeb" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="WNBA",Golden State Valkyries vs Atlanta Dream — Oct 30, 12:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f1bbd9efa7b62eeb" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/47llb31573154455.png" group-title="WNBA",Golden State Valkyries vs Atlanta Dream — Oct 30, 12:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wnba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.edb0239ce703b59d" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="WNBA",Golden State Valkyries vs Atlanta Dream — Oct 30, 12:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.edb0239ce703b59d" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/47llb31573154455.png" group-title="WNBA",Golden State Valkyries vs Atlanta Dream — Oct 30, 12:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/wnba.m3u8
