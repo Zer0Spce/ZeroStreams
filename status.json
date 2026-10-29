@@ -1,18 +1,18 @@
 {
-  "updated_utc": "2026-10-29T06:49:11.443059+00:00",
-  "pages": 38,
-  "candidate_urls": 33,
-  "live_urls": 34,
+  "updated_utc": "2026-10-29T07:45:05.279346+00:00",
+  "pages": 39,
+  "candidate_urls": 36,
+  "live_urls": 37,
   "unavailable_urls": 3,
   "unsupported_pages": [],
   "errors": [],
-  "event_groups": 31,
-  "event_posters": 22,
+  "event_groups": 32,
+  "event_posters": 25,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
       "base": "https://roxiestreams.info/",
-      "pages": 38,
+      "pages": 39,
       "errors": []
     }
   ]
