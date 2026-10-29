@@ -75,7 +75,7 @@ https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.8736624802af281b" tvg-name="Orlando Magic vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/882a65157a03a48491c4df0b3e81309a-thumbnail.jpg" group-title="NBA",Orlando Magic vs Toronto Raptors — Oct 29, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.8736624802af281b" tvg-name="Orlando Magic vs Toronto Raptors" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Orlando Magic vs Toronto Raptors — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
@@ -103,7 +103,7 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c195fbce3503aa4f" tvg-name="Philadelphia Flyers vs Washington Capitals" tvg-logo="https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg" group-title="NHL",Philadelphia Flyers vs Washington Capitals — Oct 29, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.c195fbce3503aa4f" tvg-name="Philadelphia Flyers vs Washington Capitals" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Philadelphia Flyers vs Washington Capitals — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
@@ -111,14 +111,10 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ac5679ad242395f5" tvg-name="América vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/aa153f691be8f727c3e493b08d0ae89d-thumbnail.jpg" group-title="Soccer",América vs Tijuana — Oct 29, 11:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ef284ded2a08b40d" tvg-name="América vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/aa153f691be8f727c3e493b08d0ae89d-thumbnail.jpg" group-title="Soccer",América vs Tijuana — Oct 29, 11:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4ee81315858751f7" tvg-name="América vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/aa153f691be8f727c3e493b08d0ae89d-thumbnail.jpg" group-title="Soccer",América vs Tijuana — Oct 29, 11:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/afaplay2en.m3u8
+https://admin2.formaturamaxi.com.br/tudnmx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.cbcdcf2330a317b6" tvg-name="Aston Villa vs Bournemouth" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Bournemouth — Oct 29, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -195,7 +191,7 @@ https://admin2.formaturamaxi.com.br/sportdigital.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sunder.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a97e64aaf39b7b96" tvg-name="Toronto FC vs DC United" tvg-logo="https://static.ppvservices.st/assets/thumb/e301cd85b7451376a16a264a2790fc37-thumbnail.jpg" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.a97e64aaf39b7b96" tvg-name="Toronto FC vs DC United" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Toronto FC vs DC United — Oct 29, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
