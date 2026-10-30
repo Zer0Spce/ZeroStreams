@@ -3,10 +3,18 @@
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.dea78a3e7ac8ffa8" tvg-name="Formula 1 - Free Practice" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Free Practice — Oct 31, 02:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/f1tv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.87cc7b897a47c752" tvg-name="Formula 1 - Free Practice 2" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Free Practice 2 — Oct 31, 06:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/f1.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f85ea0531b813794" tvg-name="Formula 1 - Free Practice 2" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png" group-title="Formula 1",Formula 1 - Free Practice 2 — Oct 31, 06:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/f1tv.m3u8
 #EXTINF:-1 tvg-id="zerostreams.121179d5bd1156df" tvg-name="Baylor vs UCF" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Baylor vs UCF
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
