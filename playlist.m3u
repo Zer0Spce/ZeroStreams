@@ -19,10 +19,10 @@ https://tedesco.formaturamaxi.com.br/ncaa.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.89bcf7045e60928c" tvg-name="World Short Track Championship" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",World Short Track Championship — Oct 31, 05:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTINF:-1 tvg-id="zerostreams.4e4093f61b5cf771" tvg-name="World Short Track Championship" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",World Short Track Championship — Oct 31, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ppv.m3u8
+https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.08b61c1160f9df65" tvg-name="Milwaukee Brewers vs Tampa Bay Rays" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/c5r83j1521893739.png" group-title="MLB",Milwaukee Brewers vs Tampa Bay Rays — Oct 29, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/mlb-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -39,18 +39,6 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.55cb8ea647627a99" tvg-name="NFL (TNF)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",NFL (TNF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.883e5ec5bc829b3e" tvg-name="NFL (TNF)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",NFL (TNF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bb1efda434b69a70" tvg-name="NFL (TNF)" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png" group-title="NFL",NFL (TNF)
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4fc2fb47efb2ed93" tvg-name="New Jersey Devils vs Vegas Golden Knights" tvg-logo="https://static.ppvservices.st/assets/thumb/32a549c07c3660bfe1a72e0b64c0da45-thumbnail.jpg" group-title="NHL",New Jersey Devils vs Vegas Golden Knights — Oct 31, 06:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -71,24 +59,16 @@ https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/sportdigital2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a57153bdfdbf4116" tvg-name="Elversberg vs Mainz 05" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Elversberg vs Mainz 05 — Oct 31, 03:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.f670e591f80d70fa" tvg-name="Elversberg vs Mainz 05" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Elversberg vs Mainz 05 — Oct 31, 03:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fanaes.m3u8
-#EXTINF:-1 tvg-id="zerostreams.63e084d67310248f" tvg-name="Elversberg vs Mainz 05" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Elversberg vs Mainz 05 — Oct 31, 03:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fanapt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e21893ac42d28acc" tvg-name="Elversberg vs Mainz 05" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Elversberg vs Mainz 05 — Oct 31, 03:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/sportdigital.m3u8
+https://admin2.formaturamaxi.com.br/one.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4026e65f4c542b1e" tvg-name="Juárez vs Querétaro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juárez vs Querétaro — Oct 31, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/bein4.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f950c3147fc8dab4" tvg-name="Juárez vs Querétaro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juárez vs Querétaro — Oct 31, 09:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-id="zerostreams.772a386f3d85bbc8" tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Konyaspor vs Galatasaray — Oct 31, 01:00 AM PHT
@@ -119,26 +99,14 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
-#EXTINF:-1 tvg-id="zerostreams.615bf35ada8a2669" tvg-name="Sheffield United vs Wrexham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sheffield United vs Wrexham — Oct 31, 04:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.0058d0439e27eeca" tvg-name="Sheffield United vs Wrexham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sheffield United vs Wrexham — Oct 31, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2en.m3u8
-#EXTINF:-1 tvg-id="zerostreams.23fd9fe52385ebd3" tvg-name="Sheffield United vs Wrexham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sheffield United vs Wrexham — Oct 31, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2es.m3u8
-#EXTINF:-1 tvg-id="zerostreams.477904bebc5aa149" tvg-name="Sheffield United vs Wrexham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sheffield United vs Wrexham — Oct 31, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana2pt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.00372552da3a0182" tvg-name="Sheffield United vs Wrexham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sheffield United vs Wrexham — Oct 31, 04:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/match3ru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5dcf2b7140f86452" tvg-name="Villarreal vs Espanyol" tvg-logo="https://static.ppvservices.st/assets/thumb/4053a800176ed6f5db5145aff5a88aee-thumbnail.jpg" group-title="Soccer",Villarreal vs Espanyol — Oct 31, 04:00 AM PHT
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.c888b8864d3e30bd" tvg-name="Villarreal vs Espanyol" tvg-logo="https://static.ppvservices.st/assets/thumb/4053a800176ed6f5db5145aff5a88aee-thumbnail.jpg" group-title="Soccer",Villarreal vs Espanyol — Oct 31, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/fana3pt.m3u8
+https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTINF:-1 tvg-id="zerostreams.0d1a4447aa5b5725" tvg-name="Atlanta Dream vs Golden State Valkyries" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/47llb31573154455.png" group-title="WNBA",Atlanta Dream vs Golden State Valkyries — Nov 01, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wnba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
