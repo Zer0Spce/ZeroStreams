@@ -39,7 +39,7 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.255ce56e283fc188" tvg-name="Cleveland Cavaliers vs Atlanta Hawks" tvg-logo="https://static.ppvservices.st/assets/thumb/07e44f857d4cb8ad2c740cf9cab995cc-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Atlanta Hawks — Oct 30, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.255ce56e283fc188" tvg-name="Cleveland Cavaliers vs Atlanta Hawks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Cleveland Cavaliers vs Atlanta Hawks — Oct 30, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
@@ -47,7 +47,7 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5f9425e4304217b0" tvg-name="Sacramento Kings vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/03c15d942cbf8dcfbe732b4a93df3a45-thumbnail.jpg" group-title="NBA",Sacramento Kings vs New Orleans Pelicans — Oct 30, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.5f9425e4304217b0" tvg-name="Sacramento Kings vs New Orleans Pelicans" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Sacramento Kings vs New Orleans Pelicans — Oct 30, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba2.m3u8
@@ -63,7 +63,7 @@ https://admin2.formaturamaxi.com.br/nflalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bfeadf95eb060747" tvg-name="Boston Bruins vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/bb21b16ba736601e8c67c5fe7989c35c-thumbnail.jpg" group-title="NHL",Boston Bruins vs St. Louis Blues — Oct 30, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.bfeadf95eb060747" tvg-name="Boston Bruins vs St. Louis Blues" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Boston Bruins vs St. Louis Blues — Oct 30, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
@@ -71,7 +71,7 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.cc354a06e60b0a9a" tvg-name="Chicago Blackhawks vs Detroit Red Wings" tvg-logo="https://static.ppvservices.st/assets/thumb/dab2189f65d8846b39b0ce2d04b704ff-thumbnail.jpg" group-title="NHL",Chicago Blackhawks vs Detroit Red Wings — Oct 30, 07:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.cc354a06e60b0a9a" tvg-name="Chicago Blackhawks vs Detroit Red Wings" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Chicago Blackhawks vs Detroit Red Wings — Oct 30, 07:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
@@ -79,11 +79,11 @@ https://admin2.formaturamaxi.com.br/nhl4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e771f1e7d6fa2fa3" tvg-name="Montreal Canadiens vs Dallas Stars" tvg-logo="https://static.ppvservices.st/assets/thumb/e9f49909393a245812b1b1615159fb07-thumbnail.jpg" group-title="NHL",Montreal Canadiens vs Dallas Stars — Oct 30, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e771f1e7d6fa2fa3" tvg-name="Montreal Canadiens vs Dallas Stars" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Montreal Canadiens vs Dallas Stars — Oct 30, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fa4add9eff6a2ace" tvg-name="New York Islanders vs Minnesota Wild" tvg-logo="https://static.ppvservices.st/assets/thumb/75204cf4647ec4d0cc605f867f6a6637-thumbnail.jpg" group-title="NHL",New York Islanders vs Minnesota Wild — Oct 30, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.fa4add9eff6a2ace" tvg-name="New York Islanders vs Minnesota Wild" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",New York Islanders vs Minnesota Wild — Oct 30, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
@@ -99,7 +99,7 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ee58504a82b6c85e" tvg-name="Washington Capitals vs Nashville Predators" tvg-logo="https://static.ppvservices.st/assets/thumb/d1f54ddf0905234ad7387079d8aecb4f-thumbnail.jpg" group-title="NHL",Washington Capitals vs Nashville Predators — Oct 30, 08:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.ee58504a82b6c85e" tvg-name="Washington Capitals vs Nashville Predators" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Washington Capitals vs Nashville Predators — Oct 30, 08:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
