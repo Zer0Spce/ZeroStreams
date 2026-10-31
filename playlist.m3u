@@ -99,7 +99,7 @@ https://admin2.formaturamaxi.com.br/nba4.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4fc2fb47efb2ed93" tvg-name="New Jersey Devils vs Vegas Golden Knights" tvg-logo="https://static.ppvservices.st/assets/thumb/32a549c07c3660bfe1a72e0b64c0da45-thumbnail.jpg" group-title="NHL",New Jersey Devils vs Vegas Golden Knights — Oct 31, 06:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.4fc2fb47efb2ed93" tvg-name="New Jersey Devils vs Vegas Golden Knights" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",New Jersey Devils vs Vegas Golden Knights — Oct 31, 06:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
@@ -111,10 +111,10 @@ https://tedesco.formaturamaxi.com.br/nhl3.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.abaa42a85ba07f1f" tvg-name="Atlético San Luis vs Atlas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético San Luis vs Atlas — Oct 31, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.79e2eba5f2deabf9" tvg-name="Atlético San Luis vs Atlas" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atlético San Luis vs Atlas — Oct 31, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foot.m3u8
+https://admin2.formaturamaxi.com.br/vixmx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.37f9716be36c84bb" tvg-name="Corinthians vs Mirassol" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Corinthians vs Mirassol — Oct 31, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -131,14 +131,10 @@ https://admin2.formaturamaxi.com.br/match3ru.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4026e65f4c542b1e" tvg-name="Juárez vs Querétaro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juárez vs Querétaro — Oct 31, 09:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e4f937222e9cfcdf" tvg-name="Juárez vs Querétaro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juárez vs Querétaro — Oct 31, 09:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/bein4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f950c3147fc8dab4" tvg-name="Juárez vs Querétaro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Juárez vs Querétaro — Oct 31, 09:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/match3ru.m3u8
+https://admin2.formaturamaxi.com.br/foxone7mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.291a8eaa2d810214" tvg-name="Le Havre vs PSG" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Le Havre vs PSG — Oct 31, 02:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
