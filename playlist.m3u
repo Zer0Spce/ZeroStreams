@@ -47,7 +47,7 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.aeb4cb628d15c0ba" tvg-name="Charlotte Hornets vs Washington Wizards" tvg-logo="https://static.ppvservices.st/assets/thumb/fc565c883acd32a9fa159bf9ce3226f9-thumbnail.jpg" group-title="NBA",Charlotte Hornets vs Washington Wizards — Oct 31, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.aeb4cb628d15c0ba" tvg-name="Charlotte Hornets vs Washington Wizards" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Charlotte Hornets vs Washington Wizards — Oct 31, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba.m3u8
@@ -107,7 +107,7 @@ https://admin2.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e8f76f330980a772" tvg-name="Winnipeg Jets vs Florida Panthers" tvg-logo="https://static.ppvservices.st/assets/thumb/215f401c144a7061d34fdad3d4d59ffe-thumbnail.jpg" group-title="NHL",Winnipeg Jets vs Florida Panthers — Oct 31, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.e8f76f330980a772" tvg-name="Winnipeg Jets vs Florida Panthers" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Winnipeg Jets vs Florida Panthers — Oct 31, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl2.m3u8
