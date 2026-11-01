@@ -139,6 +139,10 @@ https://admin2.formaturamaxi.com.br/ncaa11.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.03075820d44322e5" tvg-name="Super DIRTcar Series" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Super DIRTcar Series — Nov 01, 05:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.c03ef99e03ae5a84" tvg-name="Texas State vs Boise State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Texas State vs Boise State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -191,7 +195,7 @@ https://admin2.formaturamaxi.com.br/ncaa6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.20ee4bd8cc1f8849" tvg-name="Atlanta Hawks vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/86b3c710bccce1c08ad816c33cd31404-thumbnail.jpg" group-title="NBA",Atlanta Hawks vs New Orleans Pelicans — Nov 01, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.20ee4bd8cc1f8849" tvg-name="Atlanta Hawks vs New Orleans Pelicans" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Atlanta Hawks vs New Orleans Pelicans — Nov 01, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba3.m3u8
@@ -207,7 +211,7 @@ https://admin2.formaturamaxi.com.br/nba6.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.adf30731c4f84036" tvg-name="Philadelphia 76ers vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/be4944ec3ff6abe18207fc167d5e2be2-thumbnail.jpg" group-title="NBA",Philadelphia 76ers vs Charlotte Hornets — Nov 01, 06:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.adf30731c4f84036" tvg-name="Philadelphia 76ers vs Charlotte Hornets" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/frdjqy1536585083.png" group-title="NBA",Philadelphia 76ers vs Charlotte Hornets — Nov 01, 06:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin.formaturamaxi.com.br/nba2.m3u8
@@ -235,7 +239,7 @@ https://admin2.formaturamaxi.com.br/nhl9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.91dd345cd7fe7e65" tvg-name="Pittsburgh Penguins vs Montreal Canadiens" tvg-logo="https://static.ppvservices.st/assets/thumb/8be6e5ee75c748410c058246d4945b02-thumbnail.jpg" group-title="NHL",Pittsburgh Penguins vs Montreal Canadiens — Nov 01, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.91dd345cd7fe7e65" tvg-name="Pittsburgh Penguins vs Montreal Canadiens" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Pittsburgh Penguins vs Montreal Canadiens — Nov 01, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
@@ -247,14 +251,14 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9cfd4629a63a783b" tvg-name="Toronto Maple Leafs vs Vancouver Canucks" tvg-logo="https://static.ppvservices.st/assets/thumb/67fcd5271df1cd352f3e2d33eaed8dd7-thumbnail.jpg" group-title="NHL",Toronto Maple Leafs vs Vancouver Canucks — Nov 01, 07:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.9cfd4629a63a783b" tvg-name="Toronto Maple Leafs vs Vancouver Canucks" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/4cem2k1619616539.png" group-title="NHL",Toronto Maple Leafs vs Vancouver Canucks — Nov 01, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.644575cd9d288b97" tvg-name="América vs Toluca" tvg-logo="https://static.ppvservices.st/assets/thumb/9068d8183b2d1f97ab2dfb04515ecb8c-thumbnail.jpg" group-title="Soccer",América vs Toluca — Nov 01, 11:10 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.a54fb5013104da1c" tvg-name="América vs Toluca" tvg-logo="https://static.ppvservices.st/assets/thumb/9068d8183b2d1f97ab2dfb04515ecb8c-thumbnail.jpg" group-title="Soccer",América vs Toluca — Nov 01, 11:10 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/claro.m3u8
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4f2400c9fdf02db0" tvg-name="Aston Villa vs Fulham" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Aston Villa vs Fulham — Nov 01, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -287,10 +291,10 @@ https://admin2.formaturamaxi.com.br/ncaa12.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2f6f6ef42ee79b09" tvg-name="Chivas vs Atlante" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Chivas vs Atlante — Nov 01, 09:07 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.b06d6ba04246ac44" tvg-name="Chivas vs Atlante" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Chivas vs Atlante — Nov 01, 09:07 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/olympiacos.m3u8
+https://admin2.formaturamaxi.com.br/primemx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.25d5eeb30ea94eff" tvg-name="Coritiba vs Vitória" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Coritiba vs Vitória — Nov 01, 03:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -319,10 +323,10 @@ https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.ee6dc72c8c95884f" tvg-name="Monterrey vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/457c5aa9c1282223fccb914e169cea38-thumbnail.jpg" group-title="Soccer",Monterrey vs Tijuana — Nov 01, 09:05 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.df025a397208be50" tvg-name="Monterrey vs Tijuana" tvg-logo="https://static.ppvservices.st/assets/thumb/457c5aa9c1282223fccb914e169cea38-thumbnail.jpg" group-title="Soccer",Monterrey vs Tijuana — Nov 01, 09:05 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/claro.m3u8
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.eb3d0450f39b662f" tvg-name="Pachuca vs Tigres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Pachuca vs Tigres — Nov 01, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -351,10 +355,10 @@ https://admin2.formaturamaxi.com.br/main.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/ncaa16.m3u8
-#EXTINF:-1 tvg-id="zerostreams.252c3129343d1d88" tvg-name="UOlympiacos vs Kifisia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UOlympiacos vs Kifisia — Nov 01, 01:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.2efccdc0f133b165" tvg-name="UOlympiacos vs Kifisia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",UOlympiacos vs Kifisia — Nov 01, 01:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/claro.m3u8
+https://admin2.formaturamaxi.com.br/canal5mx.m3u8
 #EXTINF:-1 tvg-id="zerostreams.7430e04b0715493e" tvg-name="Wolves vs Cardiff City" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Wolves vs Cardiff City — Oct 31, 11:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
