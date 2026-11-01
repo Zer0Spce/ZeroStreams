@@ -147,14 +147,18 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d26e158d6dd0c593" tvg-name="Como vs Venezia" tvg-logo="https://static.ppvservices.st/assets/thumb/6ccba0176488349f3ac0e949827db9b1-thumbnail.jpg" group-title="Soccer",Como vs Venezia — Nov 01, 07:30 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.d26e158d6dd0c593" tvg-name="Como vs Venezia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Como vs Venezia — Nov 01, 07:30 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/bein.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e669cd39863aff61" tvg-name="Cruz Azul vs León" tvg-logo="https://static.ppvservices.st/assets/thumb/cad6acfddf2c31c8ae36423b03ef2cd2-thumbnail.jpg" group-title="Soccer",Cruz Azul vs León — Nov 02, 09:10 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
+#EXTINF:-1 tvg-id="zerostreams.837d6cd7cec66ffd" tvg-name="Cruz Azul vs León" tvg-logo="https://static.ppvservices.st/assets/thumb/cad6acfddf2c31c8ae36423b03ef2cd2-thumbnail.jpg" group-title="Soccer",Cruz Azul vs León — Nov 02, 09:10 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/gill.m3u8
+https://admin2.formaturamaxi.com.br/ncaa12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.507e5a723389811b" tvg-name="Cruz Azul vs León" tvg-logo="https://static.ppvservices.st/assets/thumb/cad6acfddf2c31c8ae36423b03ef2cd2-thumbnail.jpg" group-title="Soccer",Cruz Azul vs León — Nov 02, 09:10 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d2c3056ccc462baa" tvg-name="Elche vs Valencia" tvg-logo="https://static.ppvservices.st/assets/thumb/c427566042b4d25760245dc2c2b8e48b-thumbnail.jpg" group-title="Soccer",Elche vs Valencia — Nov 02, 01:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -163,7 +167,7 @@ https://admin2.formaturamaxi.com.br/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e80f8508f6d64e3b" tvg-name="Falkirk vs Celtic" tvg-logo="https://static.ppvservices.st/assets/thumb/e6cc97b9941aaf4f3ce125c70da22e35-thumbnail.jpg" group-title="Soccer",Falkirk vs Celtic — Nov 01, 09:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.e80f8508f6d64e3b" tvg-name="Falkirk vs Celtic" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Falkirk vs Celtic — Nov 01, 09:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/foot.m3u8
@@ -171,11 +175,11 @@ https://admin2.formaturamaxi.com.br/foot.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/one.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c5645c0239a5ff41" tvg-name="Getafe vs Sevilla" tvg-logo="https://static.ppvservices.st/assets/thumb/a8ca54722ac845140c6f976c8fb178e7-thumbnail.jpg" group-title="Soccer",Getafe vs Sevilla — Nov 01, 09:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.c5645c0239a5ff41" tvg-name="Getafe vs Sevilla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Getafe vs Sevilla — Nov 01, 09:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/dep.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f4e3d76383404204" tvg-name="Getafe vs Sevilla" tvg-logo="https://static.ppvservices.st/assets/thumb/a8ca54722ac845140c6f976c8fb178e7-thumbnail.jpg" group-title="Soccer",Getafe vs Sevilla — Nov 01, 09:00 PM PHT
+#EXTINF:-1 tvg-id="zerostreams.f4e3d76383404204" tvg-name="Getafe vs Sevilla" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Getafe vs Sevilla — Nov 01, 09:00 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/dep.m3u8
@@ -195,14 +199,18 @@ https://tedesco.formaturamaxi.com.br/bein.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/golazo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1ea2e3b4fe695cf1" tvg-name="Liverpool vs Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/14dd21c6eef9b24e47405b2835f03d76-thumbnail.jpg" group-title="Soccer",Liverpool vs Arsenal — Nov 02, 12:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.062dc01b8f6a9ae6" tvg-name="Liverpool vs Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/14dd21c6eef9b24e47405b2835f03d76-thumbnail.jpg" group-title="Soccer",Liverpool vs Arsenal — Nov 02, 01:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/fubo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4298d78134817abe" tvg-name="Liverpool vs Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/14dd21c6eef9b24e47405b2835f03d76-thumbnail.jpg" group-title="Soccer",Liverpool vs Arsenal — Nov 02, 12:30 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.85c0db74184ca19a" tvg-name="Liverpool vs Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/14dd21c6eef9b24e47405b2835f03d76-thumbnail.jpg" group-title="Soccer",Liverpool vs Arsenal — Nov 02, 01:30 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="zerostreams.90ae44adff1cb49f" tvg-name="Liverpool vs Arsenal" tvg-logo="https://static.ppvservices.st/assets/thumb/14dd21c6eef9b24e47405b2835f03d76-thumbnail.jpg" group-title="Soccer",Liverpool vs Arsenal — Nov 02, 01:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/peacock.m3u8
 #EXTINF:-1 tvg-id="zerostreams.60d5b0520793cee4" tvg-name="Lyon vs Angers SCO" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lyon vs Angers SCO — Nov 02, 12:15 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -223,14 +231,10 @@ https://admin2.formaturamaxi.com.br/ncaa16.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/peacock4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f90e3d761f85587e" tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Portland Timbers vs Houston Dynamo — Nov 02, 10:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTINF:-1 tvg-id="zerostreams.2a03d74220a84696" tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Portland Timbers vs Houston Dynamo — Nov 02, 10:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa12.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c9b437e4d6470925" tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Portland Timbers vs Houston Dynamo — Nov 02, 10:45 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/peacock.m3u8
+https://admin2.formaturamaxi.com.br/prem.m3u8
 #EXTINF:-1 tvg-id="zerostreams.80f10e828d464565" tvg-name="Racing Santander vs Real Madrid" tvg-logo="https://static.ppvservices.st/assets/thumb/55be4c792d49a4e69b3dabc6272a74f3-thumbnail.jpg" group-title="Soccer",Racing Santander vs Real Madrid — Nov 01, 11:15 PM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
