@@ -95,26 +95,42 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.ab359dad30773600" tvg-name="Atalanta vs Parma" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Atalanta vs Parma — Nov 03, 03:45 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a10a238966eee490" tvg-name="Benfica vs Alverca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Benfica vs Alverca — Nov 03, 04:15 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/bein.m3u8
 #EXTINF:-1 tvg-id="zerostreams.a7fe6f886c426820" tvg-name="Benfica vs Alverca" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Benfica vs Alverca — Nov 03, 04:15 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/beines.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a1deae912aa3527d" tvg-name="Deportivo La Coruña vs Osasuna" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Deportivo La Coruña vs Osasuna — Nov 03, 04:00 AM PHT
+#EXTINF:-1 tvg-id="zerostreams.9649eff8a300f161" tvg-name="Deportivo La Coruña vs Osasuna" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Deportivo La Coruña vs Osasuna — Nov 03, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/foot.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9c1449acbd05f2fb" tvg-name="Lorient vs Brest" tvg-logo="https://static.ppvservices.st/assets/thumb/19d83ad643c7745a6053a9e42ad59bc2-thumbnail.jpg" group-title="Soccer",Lorient vs Brest — Nov 03, 03:45 AM PHT
+https://tedesco.formaturamaxi.com.br/dep.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9c709b377336e5c4" tvg-name="Lorient vs Brest" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Lorient vs Brest — Nov 03, 03:45 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/dep.m3u8
+https://tedesco.formaturamaxi.com.br/xtraes.m3u8
 #EXTINF:-1 tvg-id="zerostreams.092ec5bf9002f62b" tvg-name="Newcastle United vs Everton" tvg-logo="https://static.ppvservices.st/assets/thumb/fb78f98c5f62d88402ede30853ba1d9e-thumbnail.jpg" group-title="Soccer",Newcastle United vs Everton — Nov 03, 04:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/main.m3u8
+#EXTINF:-1 tvg-id="zerostreams.70a2e96aa321a879" tvg-name="Newcastle United vs Everton" tvg-logo="https://static.ppvservices.st/assets/thumb/fb78f98c5f62d88402ede30853ba1d9e-thumbnail.jpg" group-title="Soccer",Newcastle United vs Everton — Nov 03, 04:00 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/usa.m3u8
 #EXTINF:-1 tvg-id="zerostreams.20932806bafb4dbd" tvg-name="RB Bragantino vs Santos" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",RB Bragantino vs Santos — Nov 03, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/one.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9a984857ca60d7b6" tvg-name="Sassuolo vs Fiorentina" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Sassuolo vs Fiorentina — Nov 03, 01:30 AM PHT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/golazo.m3u8
 #EXTINF:-1 tvg-id="zerostreams.6c3bc4d698170ffa" tvg-name="WWE RAW" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE RAW — Nov 03, 07:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
