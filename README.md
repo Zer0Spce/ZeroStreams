@@ -1,7 +1,7 @@
 # ZeroStreams
 
 An automatically maintained M3U playlist of validated live HLS streams,
-refreshed every **10 minutes**. ZeroStreams brings together clean event titles,
+targeting a refresh **about every 10 minutes**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
 
@@ -37,26 +37,66 @@ stream source for `playlist.m3u`. Only live manifests with reachable media segme
 
 ## Schedule
 
-Runs **every 10 minutes**, at minutes **07, 22, 37, and 52 of every hour** (UTC and
-Philippine time have the same minute offsets). GitHub may delay scheduled jobs.
+GitHub Actions **attempts a run every 5 minutes** (UTC minute 04, 09, 14,
+19, 24, 29, 34, 39, 44, 49, 54, and 59). A successful refresh uploads a
+small `playlist-refresh-heartbeat` artifact. Scheduled attempts **skip the
+scraper when a successful scan finished less than 8 minutes earlier**.
+This provides a backup trigger if GitHub skips an expected slot and normally
+results in a scan about every 10 minutes, without touching the playlist when
+its content has not changed. Heartbeat artifacts expire after 2 days.
 
-Each run checks for changes. If the playlist is identical, it is not rewritten
-and no refresh commit is created. New or removed feeds, changed playback URLs,
-and changes to event titles or artwork trigger an update. Fresh check reports
-remain available in each run's diagnostics artifact; the committed scan report
-records the last published playlist update.
+**Important:** GitHub's built-in cron is best effort. It may delay or drop
+scheduled events for hours. The staggered attempts help, but do not guarantee
+ten-minute intervals. For better timing, configure an independent scheduler
+as described below; `workflow_dispatch` is already supported.
 
-To refresh whenever you want:
+A refresh generates `playlist.m3u` only when necessary. If unchanged, the
+playlist is neither rewritten nor committed; the playlist file's last-modified
+time is therefore **not** the last scan time. Each successful scan has a
+heartbeat artifact, and scan reports are available in the run's diagnostics
+artifact (the committed `status.json` records the last playlist update).
+
+To force a refresh whenever you want:
 
 1. Open **[Actions](https://github.com/Zer0Spce/ZeroStreams/actions/workflows/refresh.yml)**.
 2. Select **Refresh live playlist** in the sidebar.
-3. Click **Run workflow**, leave the branch as **main**, then click the green
-   **Run workflow** button.
-4. Wait for the run to show a green check, then reload the playlist in your player.
+3. Click **Run workflow**, leave `main` selected and the **Respect refresh interval** checkbox unchecked.
+4. Click the green **Run workflow** button; this bypasses the automatic cadence check.
 
-Manual and scheduled refreshes share one concurrency group, so they run one at
-a time. A manual refresh does not alter the automatic schedule.
+Manual and scheduled refreshes share one concurrency group, so they run one
+at a time. A manual refresh does not alter the automatic schedule.
 
+### Recommended: independent external scheduler
+
+For steadier ten-minute refreshes, configure a scheduler you control (for
+example, cron-job.org or a scheduled cloud worker) to make an HTTPS POST
+every ten minutes to:
+
+```text
+https://api.github.com/repos/Zer0Spce/ZeroStreams/actions/workflows/refresh.yml/dispatches
+```
+
+With these headers:
+
+```text
+Authorization: Bearer YOUR_FINE_GRAINED_GITHUB_TOKEN
+Accept: application/vnd.github+json
+Content-Type: application/json
+```
+
+And this JSON body:
+
+```json
+{"ref":"main","inputs":{"scheduled":"true"}}
+```
+
+Create a **fine-grained** GitHub token limited to this repository and
+**Actions: Read and write**. Store it as a secret in your scheduler;
+**never commit it to the repository**. The `scheduled` input makes the
+external call respect the same recent-scan check as GitHub's fallback cron.
+Leaving the input unchecked during manual GitHub dispatch always forces a
+fresh scan. External scheduling must be configured separately; editing this
+repository alone does not create an external job.
 ## Local usage
 
 Python 3.12; no third-party runtime dependencies.
@@ -104,7 +144,7 @@ Scheduled start times are read from the source's Pacific-time event rows and dis
 Free artwork sources: [IPTV-org channel logos](https://iptv-org.github.io/api/logos.json) and [TheSportsDB sports artwork](https://www.thesportsdb.com/docs/api). Artwork matching is enabled: exact, unambiguous channel names use IPTV-org; identified NBA, NFL, NHL, MLB, Formula 1 and WNBA groups use TheSportsDB league badges. Existing event artwork takes priority. Unknown matches and lookup failures retain the placeholder. No paid key is required; playback validation is unchanged.
 
 
-The refresh cron requests a run every 10 minutes (minutes 03, 13, 23, 33, 43, 53 UTC each hour). GitHub Actions may delay or drop scheduled jobs, so this is not a guaranteed ten-minute execution interval. Manual Run workflow remains available. An unchanged playlist is neither rewritten nor committed; its last-modified date is not the last scan time. See Actions logs and the diagnostics artifact for each run.
+The automatic refresh cadence, heartbeat deduplication and optional external dispatcher are documented in the **Schedule** section above.
 
 
 ### PPV event artwork
