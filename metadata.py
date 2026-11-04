@@ -1,5 +1,6 @@
 """Public PPV catalogue metadata and consistent IPTV presentation."""
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 import hashlib
 import html
 import json
@@ -10,8 +11,10 @@ import unicodedata
 from urllib.parse import quote, urlsplit
 
 PPV_BASES = ('https://api.ppv.st/api', 'https://api.ppv.cx/api')
-LOGO_BASE = 'https://raw.githubusercontent.com/' + os.getenv('GITHUB_REPOSITORY', 'Zer0Spce/ZeroStreamsBAK') + '/main/assets/logos/'
+LOGO_BASE = 'https://raw.githubusercontent.com/' + os.getenv('GITHUB_REPOSITORY', 'Zer0Spce/ZeroStreams') + '/main/assets/logos/'
+PHT = timezone(timedelta(hours=8), 'PHT')
 GROUPS = {'nfl':'NFL', 'redzone':'NFL', 'nba':'NBA', 'wnba':'WNBA', 'nhl':'NHL',
+          'ncaa':'NCAA', 'college':'College Sports',
           'mlb':'MLB', 'soccer':'Soccer', 'f1':'Formula 1', 'nascar':'NASCAR',
           'motogp':'MotoGP', 'mxgp':'MXGP', 'wwe':'WWE', 'ufc':'UFC',
           'boxing':'Boxing', 'fighting':'Combat Sports', 'motorsports':'Motorsports'}
