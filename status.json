@@ -1,16 +1,15 @@
 {
-  "updated_utc": "2026-11-04T20:16:16.809148+00:00",
+  "updated_utc": "2026-11-04T22:23:07.924238+00:00",
   "pages": 51,
-  "candidate_urls": 42,
-  "live_urls": 11,
-  "unavailable_urls": 31,
+  "candidate_urls": 39,
+  "live_urls": 12,
+  "unavailable_urls": 27,
   "unsupported_pages": [
     "https://roxiestreams.info/soccer-streams-11",
     "https://roxiestreams.info/soccer-streams-12",
     "https://roxiestreams.info/soccer-streams-13",
     "https://roxiestreams.info/soccer-streams-4",
     "https://roxiestreams.info/soccer-streams-5",
-    "https://roxiestreams.info/soccer-streams-6",
     "https://roxiestreams.info/soccer-streams-7",
     "https://roxiestreams.info/soccer-streams-8",
     "https://roxiestreams.info/soccer-streams-9"
@@ -18,12 +17,12 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 29,
+    "active_events": 25,
     "direct_candidates": 0,
-    "embed_only_events": 29,
+    "embed_only_events": 25,
     "errors": []
   },
-  "event_groups": 9,
+  "event_groups": 10,
   "event_posters": 0,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [

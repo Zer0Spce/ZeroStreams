@@ -44,28 +44,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AEK Athens vs Real Madrid",
-    "poster": "https://static.ppvservices.st/assets/thumb/fd75bc0d87efacb05e298586f295a9e4-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-04/aek-rma",
-    "starts_at": 1793814300,
-    "ends_at": 1793823300,
-    "starts_at_pht": "Nov 5, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/ucl/2026-11-04/aek-rma"
-  },
-  {
-    "name": "Fenerbahce vs Liverpool",
-    "poster": "https://static.ppvservices.st/assets/thumb/251c7b39f1ab6df29cf93ee2661627ed-thumbnail.jpg",
-    "tag": "Champions League",
-    "category": "Football",
-    "uri": "ucl/2026-11-04/fen-liv",
-    "starts_at": 1793814300,
-    "ends_at": 1793823300,
-    "starts_at_pht": "Nov 5, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/ucl/2026-11-04/fen-liv"
-  },
-  {
     "name": "The Golazo Show",
     "poster": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
     "tag": "Champions League",
@@ -75,28 +53,6 @@
     "ends_at": 1793833200,
     "starts_at_pht": "Nov 5, 2026, 3:00 AM PHT",
     "page": "https://ppv.st/live/the-golazo-show-31755"
-  },
-  {
-    "name": "Cardiff City vs West Ham United",
-    "poster": "https://static.ppvservices.st/assets/thumb/53e44b4dc28dcb123cb2d9b1d142de09-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-04/car-whu",
-    "starts_at": 1793821500,
-    "ends_at": 1793830500,
-    "starts_at_pht": "Nov 5, 2026, 3:45 AM PHT",
-    "page": "https://ppv.st/live/efl-championship/2026-11-04/car-whu"
-  },
-  {
-    "name": "Wrexham vs Middlesbrough",
-    "poster": "https://static.ppvservices.st/assets/thumb/a80ae260453fbcc50ed70caf7e474b66-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-04/wxm-mid",
-    "starts_at": 1793821500,
-    "ends_at": 1793830500,
-    "starts_at_pht": "Nov 5, 2026, 3:45 AM PHT",
-    "page": "https://ppv.st/live/efl-championship/2026-11-04/wxm-mid"
   },
   {
     "name": "Borussia Dortmund vs Real Betis",
