@@ -22,17 +22,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Brisbane Bullets vs Perth Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/059ea778d6761cc2238ba343da8a263b-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-04/bri-per",
-    "starts_at": 1793782800,
-    "ends_at": 1793793600,
-    "starts_at_pht": "Nov 4, 2026, 5:00 PM PHT",
-    "page": "https://ppv.st/live/nbl/2026-11-04/bri-per"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -53,6 +42,149 @@
     "ends_at": 10800,
     "starts_at_pht": "",
     "page": "https://ppv.st/live/247-fox-cricket"
+  },
+  {
+    "name": "AEK Athens vs Real Madrid",
+    "poster": "https://static.ppvservices.st/assets/thumb/fd75bc0d87efacb05e298586f295a9e4-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/aek-rma",
+    "starts_at": 1793814300,
+    "ends_at": 1793823300,
+    "starts_at_pht": "Nov 5, 2026, 1:45 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/aek-rma"
+  },
+  {
+    "name": "Fenerbahce vs Liverpool",
+    "poster": "https://static.ppvservices.st/assets/thumb/251c7b39f1ab6df29cf93ee2661627ed-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/fen-liv",
+    "starts_at": 1793814300,
+    "ends_at": 1793823300,
+    "starts_at_pht": "Nov 5, 2026, 1:45 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/fen-liv"
+  },
+  {
+    "name": "The Golazo Show",
+    "poster": "https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "the-golazo-show-31755",
+    "starts_at": 1793818800,
+    "ends_at": 1793833200,
+    "starts_at_pht": "Nov 5, 2026, 3:00 AM PHT",
+    "page": "https://ppv.st/live/the-golazo-show-31755"
+  },
+  {
+    "name": "Cardiff City vs West Ham United",
+    "poster": "https://static.ppvservices.st/assets/thumb/53e44b4dc28dcb123cb2d9b1d142de09-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-04/car-whu",
+    "starts_at": 1793821500,
+    "ends_at": 1793830500,
+    "starts_at_pht": "Nov 5, 2026, 3:45 AM PHT",
+    "page": "https://ppv.st/live/efl-championship/2026-11-04/car-whu"
+  },
+  {
+    "name": "Wrexham vs Middlesbrough",
+    "poster": "https://static.ppvservices.st/assets/thumb/a80ae260453fbcc50ed70caf7e474b66-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-04/wxm-mid",
+    "starts_at": 1793821500,
+    "ends_at": 1793830500,
+    "starts_at_pht": "Nov 5, 2026, 3:45 AM PHT",
+    "page": "https://ppv.st/live/efl-championship/2026-11-04/wxm-mid"
+  },
+  {
+    "name": "Borussia Dortmund vs Real Betis",
+    "poster": "https://static.ppvservices.st/assets/thumb/91a09870aa47256375218c1ba14ff3ee-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/dor-bet",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/dor-bet"
+  },
+  {
+    "name": "FC Porto vs Napoli",
+    "poster": "https://static.ppvservices.st/assets/thumb/bdbc2b8f0a7eb44f7ed997b64578cffc-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/fcp-nap",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/fcp-nap"
+  },
+  {
+    "name": "Lens vs Como",
+    "poster": "https://static.ppvservices.st/assets/thumb/8ef39f384bedf5f450328d457ff2653d-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/rcl-como",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/rcl-como"
+  },
+  {
+    "name": "PSV Eindhoven vs Club Brugge",
+    "poster": "https://static.ppvservices.st/assets/thumb/18a3cf90f81a87d62c5d1be7e3ad7392-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/psv-bru",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/psv-bru"
+  },
+  {
+    "name": "RB Leipzig vs Manchester City",
+    "poster": "https://static.ppvservices.st/assets/thumb/fcd337d5e58e5c0b902bf45e95a899dc-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/rbl-mci",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/rbl-mci"
+  },
+  {
+    "name": "Slavia Prague vs Arsenal",
+    "poster": "https://static.ppvservices.st/assets/thumb/b6596d57b44ca674092c4877476b3f23-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/slp-ars",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/slp-ars"
+  },
+  {
+    "name": "Viking FK vs Sabah FK",
+    "poster": "https://static.ppvservices.st/assets/thumb/6960f379a1eedf81dece1cb7ebebbc37-thumbnail.jpg",
+    "tag": "Champions League",
+    "category": "Football",
+    "uri": "ucl/2026-11-04/vfk-sab",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/ucl/2026-11-04/vfk-sab"
+  },
+  {
+    "name": "Bristol City vs Wolverhampton Wanderers",
+    "poster": "https://static.ppvservices.st/assets/thumb/b676ea1392d5d7e7606f4101c5efda7b-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-04/brc-wol",
+    "starts_at": 1793822400,
+    "ends_at": 1793831400,
+    "starts_at_pht": "Nov 5, 2026, 4:00 AM PHT",
+    "page": "https://ppv.st/live/efl-championship/2026-11-04/brc-wol"
   },
   {
     "name": "Sky Sports Golf",
