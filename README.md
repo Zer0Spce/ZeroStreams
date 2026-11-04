@@ -60,8 +60,9 @@ RoxieStreams playlist from refreshing; category artwork remains available.
 
 ## Schedule
 
-The primary project refreshes every 30 minutes. Automatic refresh is disabled
-in this standby copy. Manual refresh is available using the steps below.
+The primary project refreshes 10 times each day in Philippine Time (PHT, UTC+8):
+12:00 AM, 4:00 AM, 6:00 AM, 7:00 AM, 8:00 AM, 10:00 AM,
+12:00 PM, 3:00 PM, 6:00 PM, and 9:00 PM. Manual refresh is also available.
 
 To refresh whenever you want:
 
