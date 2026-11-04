@@ -7,12 +7,6 @@ on:
   # Allow a separately registered GitHub-native schedule to reuse this job.
   workflow_call:
   workflow_dispatch:
-    inputs:
-      scheduled:
-        description: 'Respect refresh interval (for external schedulers)'
-        required: false
-        type: boolean
-        default: false
   push:
     branches: [main]
     paths: ['scraper.py', 'metadata.py', 'schedule.py', 'artwork.py', 'tests/**', 'assets/**', '.github/workflows/refresh.yml']
@@ -37,7 +31,6 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GH_REPOSITORY: ${{ github.repository }}
           GH_EVENT_NAME: ${{ github.event_name }}
-          GH_DISPATCH_SCHEDULED: ${{ github.event.inputs.scheduled || 'false' }}
         run: |
           python - <<'PY'
           import datetime as dt
@@ -45,10 +38,7 @@ jobs:
           import os
           import urllib.request
 
-          scheduled_request = (
-              os.getenv('GH_EVENT_NAME') == 'schedule'
-              or os.getenv('GH_DISPATCH_SCHEDULED', '').lower() == 'true'
-          )
+          scheduled_request = os.getenv('GH_EVENT_NAME') == 'schedule'
           should_run = True
           if scheduled_request:
               repository = os.environ['GH_REPOSITORY']
