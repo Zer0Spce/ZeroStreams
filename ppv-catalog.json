@@ -20,6 +20,16 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Brisbane Bullets vs Perth Wildcats",
+    "poster": "https://static.ppvservices.st/assets/thumb/059ea778d6761cc2238ba343da8a263b-thumbnail.jpg",
+    "tag": "NBL",
+    "category": "Basketball",
+    "uri": "nbl/2026-11-04/bri-per",
+    "starts_at": 1793782800,
+    "ends_at": 1793793600,
+    "page": "https://ppv.st/live/nbl/2026-11-04/bri-per"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
