@@ -43,6 +43,24 @@ class ParserTests(unittest.TestCase):
             self.assertTrue(scraper.live_media('https://example.org/master.m3u8', scraper.BASE))
             self.assertEqual(request.call_args.args[0].full_url, 'https://example.org/segment.ts')
 
+    def test_poster_validation_rejects_missing_and_html(self):
+        from io import BytesIO
+        class FakeResponse(BytesIO):
+            headers = {'Content-Type': 'text/html'}
+        scraper.poster_available.cache_clear()
+        with patch('scraper.urlopen', return_value=FakeResponse(b'<html>Not found</html>')):
+            self.assertFalse(scraper.poster_available('https://example.org/missing.jpg'))
+        scraper.poster_available.cache_clear()
+
+    def test_poster_validation_accepts_jpeg(self):
+        from io import BytesIO
+        class FakeResponse(BytesIO):
+            headers = {'Content-Type': 'image/jpeg'}
+        scraper.poster_available.cache_clear()
+        with patch('scraper.urlopen', return_value=FakeResponse(b'\xff\xd8\xff' + bytes(40))):
+            self.assertTrue(scraper.poster_available('https://example.org/photo.jpg'))
+        scraper.poster_available.cache_clear()
+
     def test_m3u_sanitizes_labels(self):
         output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
         self.assertIn(',Game Injected\n', output)

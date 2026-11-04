@@ -123,6 +123,28 @@ def live_media(url, referer, depth=0):
         return bool(response.read(1024))
 
 
+@lru_cache(maxsize=256)
+def poster_available(url):
+    """Check that a PPV poster is a reachable image, not a 404/HTML page."""
+    if urlsplit(url).scheme not in ('https', 'http'):
+        return False
+    try:
+        request = Request(url, headers={'User-Agent': UA, 'Accept': 'image/*', 'Range': 'bytes=0-63'})
+        with urlopen(request, timeout=7) as response:
+            data = response.read(16)
+            content_type = response.headers.get('Content-Type', '').split(';', 1)[0].lower().strip()
+        return (
+            content_type.startswith('image/')
+            and (data.startswith(b'\xff\xd8\xff')
+                 or data.startswith(b'\x89PNG\r\n\x1a\n')
+                 or data.startswith(b'GIF87a')
+                 or data.startswith(b'GIF89a')
+                 or (data.startswith(b'RIFF') and data[8:12] == b'WEBP'))
+        )
+    except Exception:
+        return False
+
+
 def safe(value):
     return ' '.join(value.replace('"', "'").split())
 
@@ -130,7 +152,7 @@ def safe(value):
 def render(entries):
     lines = ['#EXTM3U']
     for entry in entries:
-        lines += [f'#EXTINF:-1 tvg-id="{safe(entry.get("tvg_id", ""))}" tvg-name="{safe(entry["name"])}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{safe(entry.get("display_name", entry["name"]))}',
+        lines += [f'#EXTINF:-1 tvg-id="{safe(entry.get("tvg_id", ""))}" tvg-name="{safe(entry.get("display_name", entry["name"]))}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{safe(entry.get("display_name", entry["name"]))}',
                   f'#EXTVLCOPT:http-referrer={entry["page"]}',
                   f'#EXTVLCOPT:http-user-agent={UA}', entry['url']]
     return '\n'.join(lines) + '\n'
@@ -230,7 +252,7 @@ def main():
                 entries.extend(result)
             else:
                 unavailable += 1
-    entries = decorate(entries, catalog)
+    entries = decorate(entries, catalog, poster_validator=poster_available)
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
               'unsupported_pages': unsupported, 'errors': errors, 'ppv':ppv_status,

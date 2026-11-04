@@ -1,22 +1,15 @@
-# ZeroStreams — Standby Backup
-
-> Private standby copy of [ZeroStreams](https://github.com/Zer0Spce/ZeroStreams).
-> Automatic refresh is disabled here to avoid idle Actions-minute usage.
-> The copied playlist and scan report are snapshots from the primary project.
-> Use **Run workflow** for an authenticated manual refresh; private-repository runs consume Actions minutes.
-> Raw playlist and thumbnail URLs require access while this repository is private.
-> This copy has its own source files and assets and does not depend on the primary repository.
+# ZeroStreams
 
 An automatically maintained M3U playlist of validated live HLS streams,
-refreshed every **30 minutes**. ZeroStreams brings together clean event titles,
+refreshed **10 times daily (Philippine Time, UTC+8)**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
 
 Compatible with VLC and IPTV players that support M3U playlists. Stream
 availability changes between refreshes.
 
-**[Open the M3U playlist](https://raw.githubusercontent.com/Zer0Spce/ZeroStreamsBAK/main/playlist.m3u)** ·
-**[Refresh status](https://github.com/Zer0Spce/ZeroStreamsBAK/actions)** ·
+**[Open the M3U playlist](https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/playlist.m3u)** ·
+**[Refresh status](https://github.com/Zer0Spce/ZeroStreams/actions)** ·
 **[Latest scan report](status.json)**
 
 Paste the M3U link into VLC or an IPTV player. Artwork appears in players that
@@ -24,14 +17,16 @@ support `tvg-logo`; VLC may show the playlist without artwork.
 
 ## Titles and artwork
 
-- Consistent league/category names and normalized matchup titles.
+- Consistent league/category names, normalized matchup titles, and NCAA event grouping.
+- Known PPV event start times display in Philippine Standard Time (PHT, UTC+8), including the date.
 - Alternate URLs for an event labeled **Feed 1**, **Feed 2**, etc., with the
   broadcaster and language labels when available.
 - Exact duplicate URLs removed. Different working mirror URLs are retained.
 - URLs shared across unrelated events labeled as shared channels rather than
   arbitrarily assigned to one match.
-- Real PPV event posters used for exact matching current events. Other entries
-  receive the included ZeroStreams category thumbnails.
+- Public PPV event posters used only for matching events; unreachable/broken posters
+  automatically fall back to built-in ZeroStreams category thumbnails. No guessed event art.
+- Events with no authoritative start timestamp do not show a fabricated time.
 - Stable `tvg-id`, `tvg-name`, `tvg-logo`, and `group-title` M3U attributes.
   Feed numbers can change as feeds become unavailable; IDs do not depend on them.
 
@@ -60,20 +55,20 @@ RoxieStreams playlist from refreshing; category artwork remains available.
 
 ## Schedule
 
-The primary project refreshes every 30 minutes. Automatic refresh is disabled
-in this standby copy. Manual refresh is available using the steps below.
+The primary project refreshes 10 times each day in Philippine Time (PHT, UTC+8):
+12:00 AM, 4:00 AM, 6:00 AM, 7:00 AM, 8:00 AM, 10:00 AM,
+12:00 PM, 3:00 PM, 6:00 PM, and 9:00 PM. Manual refresh is also available.
 
 To refresh whenever you want:
 
-1. Open **[Actions](https://github.com/Zer0Spce/ZeroStreamsBAK/actions/workflows/refresh.yml)**.
+1. Open **[Actions](https://github.com/Zer0Spce/ZeroStreams/actions/workflows/refresh.yml)**.
 2. Select **Refresh live playlist** in the sidebar.
 3. Click **Run workflow**, leave the branch as **main**, then click the green
    **Run workflow** button.
 4. Wait for the run to show a green check, then reload the playlist in your player.
 
-Manual refreshes run one at a time. The primary project's automatic schedule
-is unchanged. Future code changes to the primary project are not automatically
-synchronized into this snapshot.
+Manual refreshes run one at a time. Scheduled runs can be delayed by GitHub Actions. The published playlist retains
+its previous successful contents when discovery fails.
 
 ## Local usage
 
