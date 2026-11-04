@@ -1,17 +1,7 @@
 name: Refresh live playlist
 on:
-  schedule:
-    # First native schedule (the independent watchdog has its own schedule).
-    # Both schedules share the same concurrency group and refresh heartbeat.
-    - cron: '4-59/5 * * * *'
-  # Allow a separately registered GitHub-native schedule to reuse this job.
-  workflow_call:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['scraper.py', 'metadata.py', 'schedule.py', 'artwork.py', 'tests/**', 'assets/**', '.github/workflows/refresh.yml']
 permissions:
-  actions: read
   contents: write
 concurrency:
   group: playlist-refresh
@@ -25,92 +15,25 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Check whether a playlist scan is due
-        id: due
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPOSITORY: ${{ github.repository }}
-          GH_EVENT_NAME: ${{ github.event_name }}
-        run: |
-          python - <<'PY'
-          import datetime as dt
-          import json
-          import os
-          import urllib.request
-
-          scheduled_request = os.getenv('GH_EVENT_NAME') == 'schedule'
-          should_run = True
-          if scheduled_request:
-              repository = os.environ['GH_REPOSITORY']
-              url = (
-                  f'https://api.github.com/repos/{repository}/actions/artifacts'
-                  '?name=playlist-refresh-heartbeat&per_page=5'
-              )
-              request = urllib.request.Request(
-                  url,
-                  headers={
-                      'Accept': 'application/vnd.github+json',
-                      'Authorization': f'Bearer {os.environ["GH_TOKEN"]}',
-                      'X-GitHub-Api-Version': '2022-11-28',
-                      'User-Agent': 'ZeroStreams-refresh-scheduler',
-                  },
-              )
-              try:
-                  with urllib.request.urlopen(request, timeout=15) as response:
-                      artifacts = json.load(response).get('artifacts', [])
-                  latest = next((a for a in artifacts if not a.get('expired')), None)
-                  if latest:
-                      created = dt.datetime.fromisoformat(
-                          latest['created_at'].replace('Z', '+00:00')
-                      )
-                      age = (dt.datetime.now(dt.timezone.utc) - created).total_seconds()
-                      if 0 <= age < 8 * 60:
-                          should_run = False
-                          print(f'Successful refresh {age / 60:.1f} minutes ago; skipping duplicate.')
-              except (OSError, ValueError, KeyError) as error:
-                  # Fail open: an API outage must not prevent a playlist refresh.
-                  print(f'Could not read previous heartbeat ({error}); refreshing.')
-          else:
-              print('Manual or push event: forcing a full refresh.')
-          with open(os.environ['GITHUB_OUTPUT'], 'a', encoding='utf-8') as output:
-              output.write(f'refresh={str(should_run).lower()}\n')
-          PY
       - name: Test parser
-        if: steps.due.outputs.refresh == 'true'
         run: python -m unittest discover -s tests -v
       - name: Generate playlist
-        if: steps.due.outputs.refresh == 'true'
         run: python scraper.py
       - name: Upload diagnostics
-        if: ${{ always() && steps.due.outputs.refresh == 'true' }}
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: playlist-diagnostics
           path: |
             status.json
+            ppv-catalog.json
           retention-days: 7
       - name: Commit playlist
-        if: steps.due.outputs.refresh == 'true'
         run: |
-          if git diff --quiet -- playlist.m3u; then
-            echo 'Playlist unchanged; skipping repository update.'
-            exit 0
-          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add playlist.m3u status.json
+          git add playlist.m3u status.json ppv-catalog.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh live playlist'
             git push
           fi
-
-      - name: Record successful refresh
-        if: steps.due.outputs.refresh == 'true'
-        run: date -u +'%Y-%m-%dT%H:%M:%SZ' > refresh-heartbeat.txt
-      - name: Upload successful refresh heartbeat
-        if: steps.due.outputs.refresh == 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: playlist-refresh-heartbeat
-          path: refresh-heartbeat.txt
-          retention-days: 2

@@ -11,9 +11,7 @@ import re
 import time
 from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
-from metadata import clean_title, decorate, roxie_group
-from schedule import start_times
-from artwork import enrich
+from metadata import clean_title, decorate, ppv_catalog, roxie_group
 
 BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
 BACKUPS = tuple(x.rstrip('/')+'/' for x in os.getenv('ROXIE_BACKUP_URLS','https://roxiestreams.biz/,https://roxiestreams.su/').split(',') if x.strip())
@@ -138,16 +136,6 @@ def render(entries):
     return '\n'.join(lines) + '\n'
 
 
-def write_playlist_if_changed(content, path=Path('playlist.m3u')):
-    encoded = content.encode('utf-8')
-    if path.is_file() and path.read_bytes() == encoded:
-        return False
-    temporary = path.with_name(path.name + '.tmp')
-    temporary.write_bytes(encoded)
-    temporary.replace(path)
-    return True
-
-
 def discover_roxie(base, pool):
     pages, errors, labels = {}, [], {base:'RoxieStreams'}
     pending = {base}
@@ -182,25 +170,13 @@ def collect_roxie(pages, labels):
     errors = []
     candidates = {}
     unsupported = []
-    event_labels = {}
-    scheduled = {}
-    # Category schedules override older homepage links and retain reused slots.
-    for parent, text in sorted(pages.items()):
-        if urlsplit(parent).path.strip('/'):
-            for (target, label), stamp in start_times(text, parent, internal_links).items():
-                scheduled[(target, clean_title(label))] = stamp
-            for target, label in internal_links(text, parent):
-                if label:
-                    event_labels.setdefault(target, set()).add(clean_title(label))
     for page, text in sorted(pages.items()):
         try:
             sources = extract_sources(text, page)
             for url in sources:
-                for name in sorted(event_labels.get(page) or {clean_title(labels.get(page) or urlsplit(page).path.strip('/'))}):
-                    candidates.setdefault(url, []).append({'name': name,
-                                                'group': roxie_group(page), 'provider':'RoxieStreams',
-                                                'page': page, 'url': url,
-                                                'starts_at': scheduled.get((page, name))})
+                candidates.setdefault(url, []).append({'name': clean_title(labels.get(page) or urlsplit(page).path.strip('/')),
+                                            'group': roxie_group(page), 'provider':'RoxieStreams',
+                                            'page': page, 'url': url})
             if not sources and re.search(r'<(?:iframe|video)\b', text):
                 unsupported.append(page)
         except Exception as exc:
@@ -232,6 +208,10 @@ def main():
     print('Discovering stream pages...', flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
         pages, candidates, unsupported, errors, attempts = select_roxie(pool)
+        print('Loading PPV public catalogue and direct HLS sources...', flush=True)
+        catalog, ppv_entries, ppv_status = ppv_catalog(fetch)
+        for entry in ppv_entries:
+            candidates.setdefault(entry['url'], []).append(entry)
         entries, unavailable = [], 0
         print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
         def check(aliases):
@@ -250,22 +230,23 @@ def main():
                 entries.extend(result)
             else:
                 unavailable += 1
-    entries = enrich(decorate(entries))
+    entries = decorate(entries, catalog)
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
               'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
-              'unsupported_pages': unsupported, 'errors': errors,
+              'unsupported_pages': unsupported, 'errors': errors, 'ppv':ppv_status,
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
               'roxie_source':BASE,'roxie_attempts':attempts}
+    Path('ppv-catalog.json').write_text(json.dumps(catalog, indent=2) + '\n')
     Path('status.json').write_text(json.dumps(report, indent=2) + '\n')
     print(json.dumps(report, indent=2))
     # Retain the last successful playlist if every mirror fails discovery.
     if errors or not candidates:
         raise RuntimeError('Incomplete discovery; playlist was not updated. See status.json.')
-    changed = write_playlist_if_changed(render(entries))
-    print('Playlist updated.' if changed else 'Playlist unchanged; no update needed.', flush=True)
+    temporary = Path('playlist.m3u.tmp')
+    temporary.write_text(render(entries), encoding='utf-8')
+    temporary.replace('playlist.m3u')
 
 
 if __name__ == '__main__':
     main()
-

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "NFL Network",
+    "poster": "https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "American Football",
+    "uri": "nfl-network",
+    "starts_at": 0,
+    "ends_at": 0,
+    "page": "https://ppv.st/live/nfl-network"
+  },
+  {
+    "name": "Detroit Lions vs Carolina Panthers",
+    "poster": "https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-10-04/det-car",
+    "starts_at": 1791159600,
+    "ends_at": 1791174000,
+    "page": "https://ppv.st/live/nfl/2026-10-04/det-car"
+  },
+  {
+    "name": "Fox Footy",
+    "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Australian Football",
+    "uri": "247-fox-footy",
+    "starts_at": -60,
+    "ends_at": 10740,
+    "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Atlanta Braves vs Los Angeles Dodgers",
+    "poster": "https://static.ppvservices.st/assets/thumb/684747a5b3ecc1a0e0a420fbf66aa562-thumbnail.jpg",
+    "tag": "MLB",
+    "category": "Baseball",
+    "uri": "mlb/2026-10-04/atl-lad",
+    "starts_at": 1791158400,
+    "ends_at": 1791171000,
+    "page": "https://ppv.st/live/mlb/2026-10-04/atl-lad"
+  },
+  {
+    "name": "Utah Jazz vs Denver Nuggets",
+    "poster": "https://static.ppvservices.st/assets/thumb/cda54c935202511d07fe86f0b4ec7d28-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-10-04/utah-den",
+    "starts_at": 1791154800,
+    "ends_at": 1791165600,
+    "page": "https://ppv.st/live/nba/2026-10-04/utah-den"
+  },
+  {
+    "name": "Golden State Warriors vs Los Angeles Clippers",
+    "poster": "https://static.ppvservices.st/assets/thumb/c6462fe3cdc4e3d5042c9d848f261423-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-10-04/gs-lac",
+    "starts_at": 1791154800,
+    "ends_at": 1791165600,
+    "page": "https://ppv.st/live/nba/2026-10-04/gs-lac"
+  },
+  {
+    "name": "Willow",
+    "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Cricket",
+    "uri": "247-willow",
+    "starts_at": -3600,
+    "ends_at": 10800,
+    "page": "https://ppv.st/live/247-willow"
+  },
+  {
+    "name": "Fox Cricket",
+    "poster": "https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Cricket",
+    "uri": "247-fox-cricket",
+    "starts_at": -3600,
+    "ends_at": 10800,
+    "page": "https://ppv.st/live/247-fox-cricket"
+  },
+  {
+    "name": "Sky Sports Golf",
+    "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Golf",
+    "uri": "sky-sports-golf-29059",
+    "starts_at": 0,
+    "ends_at": 0,
+    "page": "https://ppv.st/live/sky-sports-golf-29059"
+  },
+  {
+    "name": "NHL Network",
+    "poster": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Ice Hockey",
+    "uri": "nhl-network-29780",
+    "starts_at": 0,
+    "ends_at": 14400,
+    "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Utah Mammoth vs New York Rangers",
+    "poster": "https://static.ppvservices.st/assets/thumb/74fb497c1e20362bfc2dbb92c85e822f-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-10-04/uta-nyr",
+    "starts_at": 1791151200,
+    "ends_at": 1791162000,
+    "page": "https://ppv.st/live/nhl/2026-10-04/uta-nyr"
+  },
+  {
+    "name": "Florida Panthers vs Anaheim Ducks",
+    "poster": "https://static.ppvservices.st/assets/thumb/e5994c7fcfdfff728f85efedf712b346-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-10-04/fla-ana",
+    "starts_at": 1791158400,
+    "ends_at": 1791169200,
+    "page": "https://ppv.st/live/nhl/2026-10-04/fla-ana"
+  },
+  {
+    "name": "Calgary Flames vs Seattle Kraken",
+    "poster": "https://static.ppvservices.st/assets/thumb/5b944fe7bd9b7977f8e5826bb8d11c6c-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-10-04/cgy-sea",
+    "starts_at": 1791158400,
+    "ends_at": 1791169200,
+    "page": "https://ppv.st/live/nhl/2026-10-04/cgy-sea"
+  },
+  {
+    "name": "Fox League",
+    "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Rugby",
+    "uri": "247-fox-league",
+    "starts_at": -60,
+    "ends_at": 10740,
+    "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "24/7 South Park",
+    "poster": "https://thumbs.poocloud.in/southpark/preview.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "247-south-park",
+    "starts_at": 0,
+    "ends_at": 0,
+    "page": "https://ppv.st/live/247-south-park"
+  },
+  {
+    "name": "24/7 COWS",
+    "poster": "https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "247-cows",
+    "starts_at": 1737176400,
+    "ends_at": 1740772800,
+    "page": "https://ppv.st/live/247-cows"
+  },
+  {
+    "name": "24/7 Family Guy",
+    "poster": "https://thumbs.poocloud.in/familyguy/preview.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "247-family-guy",
+    "starts_at": 1737187200,
+    "ends_at": 1737190800,
+    "page": "https://ppv.st/live/247-family-guy"
+  },
+  {
+    "name": "24/7 The Simpsons",
+    "poster": "https://thumbs.poocloud.in/thesimpsons/preview.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "247-the-simpsons",
+    "starts_at": 1737196080,
+    "ends_at": 1737196080,
+    "page": "https://ppv.st/live/247-the-simpsons"
+  },
+  {
+    "name": "24/7 SpongeBob Squarepants",
+    "poster": "https://static.ppvservices.st/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "247-spongebob-squarepants",
+    "starts_at": 1769558400,
+    "ends_at": 1769569200,
+    "page": "https://ppv.st/live/247-spongebob-squarepants"
+  },
+  {
+    "name": "Rally TV",
+    "poster": "https://static.ppvservices.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "rally-tv",
+    "starts_at": 1770854400,
+    "ends_at": 1770865200,
+    "page": "https://ppv.st/live/rally-tv"
+  }
+]

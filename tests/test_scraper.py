@@ -32,15 +32,6 @@ class ParserTests(unittest.TestCase):
             self.assertEqual(scraper.BASE,backup)
             self.assertEqual(result[3],[])
 
-    def test_category_schedule_keeps_all_labels_for_reused_player(self):
-        base = scraper.BASE
-        pages = {base: '<a href="/soccer-streams-6">Old Match</a>',
-                 base+'soccer': '<a href="/soccer-streams-6">Match A</a><a href="/soccer-streams-6">Match B</a>',
-                 base+'soccer-streams-6': 'https://example.org/live.m3u8'}
-        candidates, _, errors = scraper.collect_roxie(pages, {base+'soccer-streams-6':'Old Match'})
-        self.assertEqual(errors, [])
-        self.assertEqual({e['name'] for e in candidates['https://example.org/live.m3u8']}, {'Match A','Match B'})
-
     def test_reject_vod_and_fake_manifest(self):
         for text in ['<html>Denied</html>', '#EXTM3U\n#EXTINF:6,\nx.ts\n#EXT-X-ENDLIST']:
             with patch('scraper.fetch', return_value=text):
@@ -51,27 +42,6 @@ class ParserTests(unittest.TestCase):
         with patch('scraper.fetch', side_effect=manifests), patch('scraper.urlopen', return_value=BytesIO(b'video')) as request:
             self.assertTrue(scraper.live_media('https://example.org/master.m3u8', scraper.BASE))
             self.assertEqual(request.call_args.args[0].full_url, 'https://example.org/segment.ts')
-
-    def test_identical_playlist_preserves_file(self):
-        import tempfile
-        from pathlib import Path
-        with tempfile.TemporaryDirectory() as folder:
-            path = Path(folder) / 'playlist.m3u'
-            content = '#EXTM3U\nhttps://example.org/live.m3u8\n'
-            self.assertTrue(scraper.write_playlist_if_changed(content, path))
-            before = path.stat().st_mtime_ns
-            self.assertFalse(scraper.write_playlist_if_changed(content, path))
-            self.assertEqual(path.stat().st_mtime_ns, before)
-            self.assertFalse(path.with_name(path.name + '.tmp').exists())
-
-    def test_changed_playlist_replaces_existing_content(self):
-        import tempfile
-        from pathlib import Path
-        with tempfile.TemporaryDirectory() as folder:
-            path = Path(folder) / 'playlist.m3u'
-            scraper.write_playlist_if_changed('#EXTM3U\nold.m3u8\n', path)
-            self.assertTrue(scraper.write_playlist_if_changed('#EXTM3U\nnew.m3u8\n', path))
-            self.assertEqual(path.read_text(), '#EXTM3U\nnew.m3u8\n')
 
     def test_m3u_sanitizes_labels(self):
         output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
