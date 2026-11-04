@@ -1,9 +1,11 @@
 name: Refresh live playlist
 on:
   schedule:
-    # Two opportunities per desired 10-minute scan; GitHub cron can drop events.
-    # The heartbeat check below prevents duplicate scans within eight minutes.
+    # First native schedule (the independent watchdog has its own schedule).
+    # Both schedules share the same concurrency group and refresh heartbeat.
     - cron: '4-59/5 * * * *'
+  # Allow a separately registered GitHub-native schedule to reuse this job.
+  workflow_call:
   workflow_dispatch:
     inputs:
       scheduled:
