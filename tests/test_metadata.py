@@ -35,7 +35,8 @@ class MetadataTests(unittest.TestCase):
 
     def test_repeated_url_for_different_events_is_not_mislabeled(self):
         output=decorate([self.entry('https://example.org/tsn.m3u8'), self.entry('https://example.org/tsn.m3u8','Formula 1')], [])
-        self.assertEqual(output[0]['name'],'TSN — Shared Feed')
+        self.assertEqual(output[0]['name'],'TSN')
+        self.assertEqual(output[0]['display_name'],'Shared Channels | TSN')
         self.assertEqual(output[0]['group'],'Shared Channels')
 
     def test_exact_match_uses_event_poster_and_common_name(self):
