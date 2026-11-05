@@ -89,6 +89,12 @@ def load_domains(url, referer):
 def extract_sources(text, page, domain_loader=load_domains):
     text = html.unescape(text).replace(r'\/', '/')
     sources = set(re.findall(r'https?://[^\s\'"<>`]+\.m3u8(?:\?[^\s\'"<>`]*)?', text))
+    # Keep direct HLS addresses exposed in player attributes or protocol-relative URLs.
+    for value in re.findall(r'''(?<!:)//[A-Za-z0-9.-]+(?::\d+)?/[^\s'"<>]+\.m3u8(?:\?[^\s'"<>]*)?''', text):
+        sources.add(urlsplit(page).scheme + ':' + value)
+    for value in re.findall(r'''(?:src|href|file|source|url)\s*[:=]\s*['"]([^'"]+\.m3u8(?:\?[^'"]*)?)['"]''', text, flags=re.I):
+        if not urlsplit(value).scheme:
+            sources.add(urljoin(page, value))
     calls = re.findall(r"getRandomStream\(\s*['\"]([^'\"]+\.m3u8[^'\"]*)['\"]\s*(?:,\s*['\"]([^'\"]+)['\"])?\s*\)", text)
     if not calls:
         return sorted(sources)
@@ -234,27 +240,16 @@ def main():
         catalog, ppv_entries, ppv_status = ppv_catalog(fetch)
         for entry in ppv_entries:
             candidates.setdefault(entry['url'], []).append(entry)
-        entries, unavailable = [], 0
-        print(f'Checking {len(candidates)} HLS URLs from {len(pages)} pages...', flush=True)
-        def check(aliases):
-            for entry in aliases:
-                try:
-                    if live_media(entry['url'], entry['page']):
-                        # Use the verified referrer on the deduplicated playback entry.
-                        return [dict(alias, page=entry['page']) for alias in aliases]
-                except Exception:
-                    pass
-            return None
-        for index, result in enumerate(pool.map(check, candidates.values()), 1):
-            if index % 10 == 0:
-                print(f'Checked {index}/{len(candidates)} URLs', flush=True)
-            if result:
-                entries.extend(result)
-            else:
-                unavailable += 1
+        # Publish every discovered public HLS URL. Reachability fluctuates and
+        # must not cause a complete playlist wipe during a temporary outage.
+        # An M3U URL is a candidate, not a guarantee that the video is live.
+        entries = [dict(alias) for aliases in candidates.values() for alias in aliases]
+        print(f'Publishing {len(candidates)} HLS URL candidates from {len(pages)} pages without playback checks...', flush=True)
     entries = decorate(entries, catalog, poster_validator=poster_available)
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
-              'candidate_urls': len(candidates), 'live_urls': len(entries), 'unavailable_urls': unavailable,
+              'candidate_urls': len(candidates), 'published_urls': len(entries),
+              'live_urls': len(entries), 'unavailable_urls': 0, 'not_checked_urls': len(candidates),
+              'validation_mode': 'discovery_only',
               'unsupported_pages': unsupported, 'errors': errors, 'ppv':ppv_status,
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),
