@@ -121,6 +121,28 @@
     "page": "https://ppv.st/live/nba/2026-11-04/min-hou"
   },
   {
+    "name": "Toronto Raptors vs Denver Nuggets",
+    "poster": "https://static.ppvservices.st/assets/thumb/f7537c12b506178b01f9502d8d27b870-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/tor-den",
+    "starts_at": 1793844000,
+    "ends_at": 1793854800,
+    "starts_at_pht": "Nov 5, 2026, 10:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/tor-den"
+  },
+  {
+    "name": "Portland Trail Blazers vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/598838f1ee2e02eb8e7f002e218fd115-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/por-phx",
+    "starts_at": 1793844000,
+    "ends_at": 1793854800,
+    "starts_at_pht": "Nov 5, 2026, 10:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/por-phx"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
