@@ -1,161 +1,212 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="zerostreams.0eca5ed5666291d7" tvg-name="Live | AEW" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | AEW
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.07eb50d4599b1918" tvg-name="Live | TNA — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/abc.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5bfdd73708c7d529" tvg-name="Live | TNA — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/kcop.m3u8
-#EXTINF:-1 tvg-id="zerostreams.392d24fa5fe8a921" tvg-name="Live | TNA — Feed 3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nbc.m3u8
-#EXTINF:-1 tvg-id="zerostreams.13b77ecee6cb674c" tvg-name="Live | TNA — Feed 4" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 4
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/cnn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.24f0ebf87efe3aa5" tvg-name="Live | WoO World Finals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | WoO World Finals
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.57fa320ef8b1bf5f" tvg-name="NBA | Atlanta Hawks vs Washington Wizards — Nov 5, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg" group-title="NBA",NBA | Atlanta Hawks vs Washington Wizards — Nov 5, 2026, 8:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.78d793ab1c2025a0" tvg-name="NBA | Charlotte Hornets vs Brooklyn Nets — Nov 5, 2026, 8:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg" group-title="NBA",NBA | Charlotte Hornets vs Brooklyn Nets — Nov 5, 2026, 8:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e15abba108e781a7" tvg-name="NBA | Chicago Bulls vs New York Knicks — Nov 5, 2026, 8:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/c56f20a4387bf83d7020c5051f00d657-thumbnail.jpg" group-title="NBA",NBA | Chicago Bulls vs New York Knicks — Nov 5, 2026, 8:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6e047dfcc1f9b902" tvg-name="NBA | Cleveland Cavaliers vs Oklahoma City Thunder — Nov 5, 2026, 9:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/38874af741c632cb2eb00479ab2711a2-thumbnail.jpg" group-title="NBA",NBA | Cleveland Cavaliers vs Oklahoma City Thunder — Nov 5, 2026, 9:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.3f53105618efb3d9" tvg-name="NBA | Indiana Pacers vs Memphis Grizzlies — Nov 5, 2026, 9:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/4137e6af3c60e5ebf2aa9d16433e9abe-thumbnail.jpg" group-title="NBA",NBA | Indiana Pacers vs Memphis Grizzlies — Nov 5, 2026, 9:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.819641ab65f28aec" tvg-name="NBA | Los Angeles Lakers vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Los Angeles Lakers vs Sacramento Kings
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba13.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6fb3918ae8c25fe6" tvg-name="NBA | Miami Heat vs Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Los Angeles Clippers
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba14.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2cfaf60937847041" tvg-name="NBA | Milwaukee Bucks vs Boston Celtics — Nov 5, 2026, 8:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/5d8112faf285af2fd2a3a80d0218458d-thumbnail.jpg" group-title="NBA",NBA | Milwaukee Bucks vs Boston Celtics — Nov 5, 2026, 8:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.7e2d7f3625d61258" tvg-name="NBA | Minnesota Timberwolves vs Houston Rockets — Nov 5, 2026, 9:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/24c154a22f5119d4761b7b5c7b0f30d3-thumbnail.jpg" group-title="NBA",NBA | Minnesota Timberwolves vs Houston Rockets — Nov 5, 2026, 9:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bbbb19fdddcbc3fe" tvg-name="NBA | Philadelphia 76ers vs Detroit Pistons — Nov 5, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg" group-title="NBA",NBA | Philadelphia 76ers vs Detroit Pistons — Nov 5, 2026, 8:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e5c6838309ad37b5" tvg-name="NBA | Portland Trail Blazers vs Phoenix Suns — Nov 5, 2026, 10:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/598838f1ee2e02eb8e7f002e218fd115-thumbnail.jpg" group-title="NBA",NBA | Portland Trail Blazers vs Phoenix Suns — Nov 5, 2026, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba11.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e0f34ab67d839098" tvg-name="NBA | Toronto Raptors vs Denver Nuggets — Nov 5, 2026, 10:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/f7537c12b506178b01f9502d8d27b870-thumbnail.jpg" group-title="NBA",NBA | Toronto Raptors vs Denver Nuggets — Nov 5, 2026, 10:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba10.m3u8
-#EXTINF:-1 tvg-id="zerostreams.681df3e99987d016" tvg-name="NBA | Utah Jazz vs New Orleans Pelicans — Nov 5, 2026, 9:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/5946c7232861710332984b169b778574-thumbnail.jpg" group-title="NBA",NBA | Utah Jazz vs New Orleans Pelicans — Nov 5, 2026, 9:00 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp2.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="NCAA | Ball State vs Massachusetts" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Ball State vs Massachusetts
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f62117fb296b9580" tvg-name="NCAA | Central Michigan vs Eastern Michigan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Central Michigan vs Eastern Michigan
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/ncaa3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.99dfcd9531f8666b" tvg-name="NCAA | Toledo vs Sacramento State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Toledo vs Sacramento State
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b47782b8ea7148cd" tvg-name="NHL | Chicago Blackhawks vs Florida Panthers — Nov 5, 2026, 8:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/9a87c88bedf260e3b757808b65c0fd2b-thumbnail.jpg" group-title="NHL",NHL | Chicago Blackhawks vs Florida Panthers — Nov 5, 2026, 8:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.801cee97da49d48e" tvg-name="NHL | Ottawa Senators vs Buffalo Sabres — Nov 5, 2026, 8:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/6784be0b2252a1a5eae2f873c69deffc-thumbnail.jpg" group-title="NHL",NHL | Ottawa Senators vs Buffalo Sabres — Nov 5, 2026, 8:30 AM PHT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.baa96a5f6a9c409d" tvg-name="NHL | San Jose Sharks vs Los Angeles Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | San Jose Sharks vs Los Angeles Kings
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="Shared Channels | NBA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NBA
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e26d15535f75d469" tvg-name="Shared Channels | NBAALT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NBAALT
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nbaalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d4233b48c9daf5bd" tvg-name="Shared Channels | TNT3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT3
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.fb4fb1802e156553" tvg-name="Soccer | AEK Athens vs Real Madrid" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | AEK Athens vs Real Madrid
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/tudn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9b3c93c57eb65caa" tvg-name="Soccer | Arsenal vs Slavia Praha" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Arsenal vs Slavia Praha
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-id="zerostreams.523f62c8f4e5c314" tvg-name="Soccer | Athletico-PR vs Vasco Da Gama — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Athletico-PR vs Vasco Da Gama — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/fana.m3u8
-#EXTINF:-1 tvg-id="zerostreams.608ae29f9a37ca34" tvg-name="Soccer | Athletico-PR vs Vasco Da Gama — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Athletico-PR vs Vasco Da Gama — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/match3ru.m3u8
-#EXTINF:-1 tvg-id="zerostreams.dbbf77ce8a7d017a" tvg-name="Soccer | Botafogo vs Atlético Mineiro" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Botafogo vs Atlético Mineiro
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/fana4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.692e6d9669a7fea7" tvg-name="Soccer | Fenerbahçe vs Liverpool — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Fenerbahçe vs Liverpool — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a0e2984a620915da" tvg-name="Soccer | Fenerbahçe vs Liverpool — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Fenerbahçe vs Liverpool — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/virgin.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9f294b60361420ff" tvg-name="Soccer | Flamengo vs Grêmio" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Flamengo vs Grêmio
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b8a4ab9006d3139b" tvg-name="Soccer | Porto vs Napoli" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Porto vs Napoli
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.461661cbe6e67a54" tvg-name="Soccer | Rennes vs Olympiakos Piraeus" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Rennes vs Olympiakos Piraeus
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rennes vs Olympiakos Piraeus (NOV 04 @ 11:30 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Rennes vs Olympiakos Piraeus (NOV 04 @ 11:30 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/tnt2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a7b92080f1c55473" tvg-name="Soccer | São Paulo vs Corinthians" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | São Paulo vs Corinthians
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AEK Athens vs Real Madrid (NOV 05 @ 01:45 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/fd75bc0d87efacb05e298586f295a9e4-thumbnail.jpg" group-title="Soccer",AEK Athens vs Real Madrid (NOV 05 @ 01:45 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/tnt3.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fenerbahçe vs Liverpool (NOV 05 @ 01:45 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/251c7b39f1ab6df29cf93ee2661627ed-thumbnail.jpg" group-title="Soccer",Fenerbahçe vs Liverpool (NOV 05 @ 01:45 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/tnt.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal vs Slavia Praha (NOV 05 @ 04:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Arsenal vs Slavia Praha (NOV 05 @ 04:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/abbiecadabri.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Porto vs Napoli (NOV 05 @ 04:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/bdbc2b8f0a7eb44f7ed997b64578cffc-thumbnail.jpg" group-title="Soccer",Porto vs Napoli (NOV 05 @ 04:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/cbssn.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UEFA Goals Show (NOV 05 @ 04:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Soccer",UEFA Goals Show (NOV 05 @ 04:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-18
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/tnt3.m3u8
+
+#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="WoO World Finals (NOV 05 @ 06:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",WoO World Finals (NOV 05 @ 06:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/flo.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletico-PR vs Vasco Da Gama (NOV 05 @ 06:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Athletico-PR vs Vasco Da Gama (NOV 05 @ 06:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-14
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fana.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Flamengo vs Grêmio (NOV 05 @ 06:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Flamengo vs Grêmio (NOV 05 @ 06:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fana2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks vs Washington Wizards (NOV 05 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg" group-title="NBA",Atlanta Hawks vs Washington Wizards (NOV 05 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nba2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs Detroit Pistons (NOV 05 @ 08:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg" group-title="NBA",Philadelphia 76ers vs Detroit Pistons (NOV 05 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nba.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Ball State vs Massachusetts (NOV 05 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",Ball State vs Massachusetts (NOV 05 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Toledo vs Sacramento State (NOV 05 @ 08:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",Toledo vs Sacramento State (NOV 05 @ 08:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Brooklyn Nets (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg" group-title="NBA",Charlotte Hornets vs Brooklyn Nets (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nba4.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Chicago Bulls vs New York Knicks (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/c56f20a4387bf83d7020c5051f00d657-thumbnail.jpg" group-title="NBA",Chicago Bulls vs New York Knicks (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nba5.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Milwaukee Bucks vs Boston Celtics (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/5d8112faf285af2fd2a3a80d0218458d-thumbnail.jpg" group-title="NBA",Milwaukee Bucks vs Boston Celtics (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nba3.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Central Michigan vs Eastern Michigan (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nfl.png" group-title="NFL",Central Michigan vs Eastern Michigan (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/ncaa3.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks vs Florida Panthers (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/9a87c88bedf260e3b757808b65c0fd2b-thumbnail.jpg" group-title="NHL",Chicago Blackhawks vs Florida Panthers (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nhl2.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs Buffalo Sabres (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/6784be0b2252a1a5eae2f873c69deffc-thumbnail.jpg" group-title="NHL",Ottawa Senators vs Buffalo Sabres (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nhl.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Botafogo vs Atlético Mineiro (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Botafogo vs Atlético Mineiro (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-17
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fana4.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="São Paulo vs Corinthians (NOV 05 @ 08:30 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",São Paulo vs Corinthians (NOV 05 @ 08:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/fana3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2ec6f2043c2fe67f" tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE",WWE NXT
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers vs Oklahoma City Thunder (NOV 05 @ 09:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/38874af741c632cb2eb00479ab2711a2-thumbnail.jpg" group-title="NBA",Cleveland Cavaliers vs Oklahoma City Thunder (NOV 05 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba8.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers vs Memphis Grizzlies (NOV 05 @ 09:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/4137e6af3c60e5ebf2aa9d16433e9abe-thumbnail.jpg" group-title="NBA",Indiana Pacers vs Memphis Grizzlies (NOV 05 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba6.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz vs New Orleans Pelicans (NOV 05 @ 09:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/5946c7232861710332984b169b778574-thumbnail.jpg" group-title="NBA",Utah Jazz vs New Orleans Pelicans (NOV 05 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba7.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW (NOV 05 @ 09:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",AEW (NOV 05 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/aew.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE NXT (NOV 05 @ 09:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",WWE NXT (NOV 05 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp2.formaturamaxi.com.br/wwe.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Houston Rockets (NOV 05 @ 09:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/24c154a22f5119d4761b7b5c7b0f30d3-thumbnail.jpg" group-title="NBA",Minnesota Timberwolves vs Houston Rockets (NOV 05 @ 09:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba9.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Phoenix Suns (NOV 05 @ 10:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/598838f1ee2e02eb8e7f002e218fd115-thumbnail.jpg" group-title="NBA",Portland Trail Blazers vs Phoenix Suns (NOV 05 @ 10:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-11
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba11.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors vs Denver Nuggets (NOV 05 @ 10:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/f7537c12b506178b01f9502d8d27b870-thumbnail.jpg" group-title="NBA",Toronto Raptors vs Denver Nuggets (NOV 05 @ 10:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba10.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Dallas Mavericks vs San Antonio Spurs (NOV 05 @ 10:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/5410e630674bf34c125298400797fadc-thumbnail.jpg" group-title="NBA",Dallas Mavericks vs San Antonio Spurs (NOV 05 @ 10:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nbaalt.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Sacramento Kings (NOV 05 @ 11:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/99e29c38ff3e2d4cd3c84da5e09af73a-thumbnail.jpg" group-title="NBA",Los Angeles Lakers vs Sacramento Kings (NOV 05 @ 11:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-13
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba13.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs Seattle Kraken (NOV 05 @ 11:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/5b944fe7bd9b7977f8e5826bb8d11c6c-thumbnail.jpg" group-title="NHL",Calgary Flames vs Seattle Kraken (NOV 05 @ 11:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://tedesco.formaturamaxi.com.br/nhl4.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Los Angeles Kings (NOV 05 @ 11:00 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/fae6966f56fa5fdf0f0d5699e2cdff44-thumbnail.jpg" group-title="NHL",San Jose Sharks vs Los Angeles Kings (NOV 05 @ 11:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/nhl3.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Miami Heat vs Los Angeles Clippers (NOV 05 @ 11:30 AM PHT)" tvg-logo="https://static.ppvservices.st/assets/thumb/a06490dcf959ae4e178183f3faaff592-thumbnail.jpg" group-title="NBA",Miami Heat vs Los Angeles Clippers (NOV 05 @ 11:30 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-14
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp2.formaturamaxi.com.br/nba14.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA (NOV 06 @ 09:00 AM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/PPV.png" group-title="Fighting",TNA (NOV 06 @ 09:00 AM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/cnn.m3u8
+
