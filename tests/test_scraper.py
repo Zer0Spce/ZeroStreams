@@ -120,6 +120,25 @@ class ParserTests(unittest.TestCase):
             self.assertTrue(scraper.poster_available('https://example.org/photo.jpg'))
         scraper.poster_available.cache_clear()
 
+    def test_m3u_matches_reference_headers_without_tvg_id(self):
+        page = 'https://roxiestreams.info/nba-streams-13'
+        entry = {
+            'group': 'NBA',
+            'name': 'Los Angeles Lakers vs Sacramento Kings',
+            'page': page,
+            'url': 'https://temp.formaturamaxi.com.br/nba13.m3u8',
+            'tvg_id': 'NBA.Basketball.Dummy.us',
+        }
+        playlist = scraper.render([entry])
+        self.assertNotIn('tvg-id=', playlist)
+        self.assertIn('group-title="NBA"', playlist)
+        self.assertIn('#EXTVLCOPT:http-user-agent=' + scraper.PLAYBACK_UA, playlist)
+        self.assertIn('#EXTVLCOPT:http-referrer=' + page, playlist)
+        self.assertIn('#EXTVLCOPT:http-origin=https://roxiestreams.info', playlist)
+        self.assertLess(playlist.index('http-user-agent'), playlist.index('http-referrer'))
+        self.assertLess(playlist.index('http-referrer'), playlist.index('http-origin'))
+        self.assertIn('https://temp.formaturamaxi.com.br/nba13.m3u8', playlist)
+
     def test_m3u_sanitizes_labels(self):
         output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
         self.assertIn(',Game Injected\n', output)
