@@ -158,9 +158,12 @@ def safe(value):
 def render(entries):
     lines = ['#EXTM3U']
     for entry in entries:
-        lines += [f'#EXTINF:-1 tvg-id="{safe(entry.get("tvg_id", ""))}" tvg-name="{safe(entry.get("display_name", entry["name"]))}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{safe(entry.get("display_name", entry["name"]))}',
-                  f'#EXTVLCOPT:http-referrer={entry["page"]}',
-                  f'#EXTVLCOPT:http-user-agent={UA}', entry['url']]
+        label = safe(entry.get('display_name', entry['name']))
+        lines += [
+            f'#EXTINF:-1 tvg-name="{label}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{label}',
+            f'#EXTVLCOPT:http-referrer={entry["page"]}',
+            entry['url'],
+        ]
     return '\n'.join(lines) + '\n'
 
 
