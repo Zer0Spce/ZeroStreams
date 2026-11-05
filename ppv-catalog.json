@@ -44,6 +44,83 @@
     "page": "https://ppv.st/live/nba/2026-11-04/atl-wsh"
   },
   {
+    "name": "Milwaukee Bucks vs Boston Celtics",
+    "poster": "https://static.ppvservices.st/assets/thumb/5d8112faf285af2fd2a3a80d0218458d-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/mil-bos",
+    "starts_at": 1793838600,
+    "ends_at": 1793849400,
+    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/mil-bos"
+  },
+  {
+    "name": "Charlotte Hornets vs Brooklyn Nets",
+    "poster": "https://static.ppvservices.st/assets/thumb/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/cha-bkn",
+    "starts_at": 1793838600,
+    "ends_at": 1793849400,
+    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/cha-bkn"
+  },
+  {
+    "name": "Chicago Bulls vs New York Knicks",
+    "poster": "https://static.ppvservices.st/assets/thumb/c56f20a4387bf83d7020c5051f00d657-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/chi-ny",
+    "starts_at": 1793838600,
+    "ends_at": 1793849400,
+    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/chi-ny"
+  },
+  {
+    "name": "Indiana Pacers vs Memphis Grizzlies",
+    "poster": "https://static.ppvservices.st/assets/thumb/4137e6af3c60e5ebf2aa9d16433e9abe-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/ind-mem",
+    "starts_at": 1793840400,
+    "ends_at": 1793851200,
+    "starts_at_pht": "Nov 5, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/ind-mem"
+  },
+  {
+    "name": "Utah Jazz vs New Orleans Pelicans",
+    "poster": "https://static.ppvservices.st/assets/thumb/5946c7232861710332984b169b778574-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/utah-no",
+    "starts_at": 1793840400,
+    "ends_at": 1793851200,
+    "starts_at_pht": "Nov 5, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/utah-no"
+  },
+  {
+    "name": "Cleveland Cavaliers vs Oklahoma City Thunder",
+    "poster": "https://static.ppvservices.st/assets/thumb/38874af741c632cb2eb00479ab2711a2-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/cle-okc",
+    "starts_at": 1793840400,
+    "ends_at": 1793851200,
+    "starts_at_pht": "Nov 5, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/cle-okc"
+  },
+  {
+    "name": "Minnesota Timberwolves vs Houston Rockets",
+    "poster": "https://static.ppvservices.st/assets/thumb/24c154a22f5119d4761b7b5c7b0f30d3-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/min-hou",
+    "starts_at": 1793842200,
+    "ends_at": 1793853000,
+    "starts_at_pht": "Nov 5, 2026, 9:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/min-hou"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -88,6 +165,28 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
+    "name": "Ottawa Senators vs Buffalo Sabres",
+    "poster": "https://static.ppvservices.st/assets/thumb/6784be0b2252a1a5eae2f873c69deffc-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-04/ott-buf",
+    "starts_at": 1793838600,
+    "ends_at": 1793849400,
+    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-04/ott-buf"
+  },
+  {
+    "name": "Chicago Blackhawks vs Florida Panthers",
+    "poster": "https://static.ppvservices.st/assets/thumb/9a87c88bedf260e3b757808b65c0fd2b-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-04/chi-fla",
+    "starts_at": 1793838600,
+    "ends_at": 1793849400,
+    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-04/chi-fla"
+  },
+  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -97,6 +196,17 @@
     "ends_at": 10740,
     "starts_at_pht": "",
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "AEW Wednesday Night Dynamite",
+    "poster": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "aew/2026-11-04",
+    "starts_at": 1793840400,
+    "ends_at": 1793851200,
+    "starts_at_pht": "Nov 5, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/aew/2026-11-04"
   },
   {
     "name": "24/7 South Park",
