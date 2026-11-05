@@ -32,6 +32,65 @@ class ParserTests(unittest.TestCase):
             self.assertEqual(scraper.BASE,backup)
             self.assertEqual(result[3],[])
 
+    def test_collect_direct_public_hls_formats(self):
+        page = scraper.BASE + 'nba-streams-1'
+        source = """<video src="/media/one.m3u8?token=x"></video>
+        <script>const fallback = "//cdn.example.org/two.m3u8"; file: "relative/three.m3u8"</script>"""
+        urls = scraper.extract_sources(source, page)
+        self.assertIn(scraper.BASE + 'media/one.m3u8?token=x', urls)
+        self.assertIn('https://cdn.example.org/two.m3u8', urls)
+        self.assertIn(scraper.BASE + 'relative/three.m3u8', urls)
+
+    def test_main_publishes_unverified_candidates_without_network_checks(self):
+        import json
+        import os
+        from pathlib import Path
+        from tempfile import TemporaryDirectory
+
+        page = scraper.BASE + 'nba-streams-1'
+        urls = ['https://cdn.example.org/one.m3u8', 'https://cdn.example.org/two.m3u8']
+        candidates = {
+            url: [{'name':'Team A vs Team B', 'group':'NBA', 'provider':'RoxieStreams',
+                   'page':page, 'url':url}]
+            for url in urls
+        }
+        old_cwd = os.getcwd()
+        with TemporaryDirectory() as folder:
+            try:
+                os.chdir(folder)
+                with patch('scraper.select_roxie', return_value=({page:'player'}, candidates, [], [], [])), \
+                     patch('scraper.ppv_catalog', return_value=([], [], {'status':'embed-only'})), \
+                     patch('scraper.live_media', side_effect=AssertionError('must not validate HLS')):
+                    scraper.main()
+                playlist = Path('playlist.m3u').read_text()
+                status = json.loads(Path('status.json').read_text())
+                for url in urls:
+                    self.assertIn(url, playlist)
+                self.assertEqual(playlist.count('#EXTINF:'), 2)
+                self.assertEqual(status['published_urls'], 2)
+                self.assertEqual(status['validation_mode'], 'discovery_only')
+                self.assertEqual(status['not_checked_urls'], 2)
+            finally:
+                os.chdir(old_cwd)
+
+    def test_zero_candidates_keep_existing_playlist(self):
+        import os
+        from pathlib import Path
+        from tempfile import TemporaryDirectory
+
+        old_cwd = os.getcwd()
+        with TemporaryDirectory() as folder:
+            try:
+                os.chdir(folder)
+                Path('playlist.m3u').write_text('#EXTM3U\n#EXTINF:-1,Previous\nhttps://example.org/old.m3u8\n')
+                with patch('scraper.select_roxie', return_value=({}, {}, [], [], [])), \
+                     patch('scraper.ppv_catalog', return_value=([], [], {'status':'embed-only'})):
+                    with self.assertRaises(RuntimeError):
+                        scraper.main()
+                self.assertIn('https://example.org/old.m3u8', Path('playlist.m3u').read_text())
+            finally:
+                os.chdir(old_cwd)
+
     def test_reject_vod_and_fake_manifest(self):
         for text in ['<html>Denied</html>', '#EXTM3U\n#EXTINF:6,\nx.ts\n#EXT-X-ENDLIST']:
             with patch('scraper.fetch', return_value=text):

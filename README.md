@@ -1,6 +1,6 @@
 # ZeroStreams
 
-An automatically maintained M3U playlist of validated live HLS streams,
+An automatically maintained M3U playlist of discovered public HLS stream URLs,
 refreshed **10 times daily (Philippine Time, UTC+8)**. ZeroStreams brings together clean event titles,
 thumbnail artwork, clearly labeled alternate feeds, automatic mirror failover,
 and an on-demand refresh button.
@@ -37,7 +37,7 @@ Example title for alternate feeds:
 
 | Source | Discovery | Current playback support |
 | --- | --- | --- |
-| RoxieStreams | Internal event links and the site's current HLS domain list | Live HLS manifests with reachable media segments |
+| RoxieStreams | Internal event links and the site's current HLS domain list | Every directly discovered HLS URL (unverified) |
 | PPV | Documented public catalogue API and public event details | Only directly published public HLS URLs, when supplied |
 
 The [PPV API documentation](https://ppv.st/api) provides titles, posters,
@@ -45,7 +45,7 @@ schedule times, and player links. Current responses provide iframe players
 and empty M3U8 fields. Those iframe URLs **are not M3U playback URLs** and are
 excluded from this playlist. PPV metadata still enriches exact matching events.
 The adapter will include public direct HLS URLs if the API supplies them and
-live validation succeeds. PPV's player integrations are kept intact; the
+the URL is publicly provided. PPV's player integrations are kept intact; the
 scraper does not extract streams from its embedded players or use VIP links.
 
 `ppv-catalog.json` lists current PPV events, artwork, and links to their original
@@ -93,10 +93,11 @@ not require an image library at runtime.
 
 ## Validation and limits
 
-The scraper checks HLS manifests, rejects ended/VOD playlists, follows master
-playlists to media variants, and reads a small part of the latest media segment.
-This is a reachability check, not confirmation of the match's actual video
-content or an uninterrupted-playback guarantee. PPV metadata excludes future
+The scraper publishes all directly discovered HLS candidates without testing their
+manifest or media segments. Some links may be offline, expired, geo-restricted,
+or not directly playable; inclusion is not proof that a stream is working.
+The scan status exposes `validation_mode: discovery_only`, `published_urls`,
+and `not_checked_urls` to make that distinction explicit. PPV metadata excludes future
 and ended events unless they are marked as continuous channels.
 
 VLC referrer/user-agent directives are included. Some players ignore these;
@@ -104,8 +105,8 @@ feeds requiring those headers may fail there. No DRM, authentication, or access
 controls are bypassed. Use streams where you have permission to access them.
 
 An incomplete RoxieStreams discovery fails the run and retains the last
-successful playlist. A complete scan with no reachable streams writes an empty
-playlist. Consult the scan report and Actions history for freshness and source
+published playlist. A scan with no discovered HLS candidates does not overwrite
+the playlist. Consult the scan report and Actions history for freshness and source
 coverage. Public-repository schedules may be disabled after 60 days without
 activity. Parser, live-manifest, timing, deduplication, title, image, and PPV
 source-boundary behavior are covered by automated tests.
