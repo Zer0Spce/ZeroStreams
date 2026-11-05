@@ -1,5 +1,11 @@
 name: Refresh live playlist
 on:
+  push:
+    branches: [main]
+    paths:
+      - scraper.py
+      - metadata.py
+      - .github/workflows/refresh.yml
   schedule:
     # GitHub Actions uses UTC; slots below map to 00:00, 04:00, 06:00,
     # 07:00, 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 Asia/Manila (UTC+8).
