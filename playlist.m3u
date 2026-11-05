@@ -19,7 +19,7 @@ https://admin.formaturamaxi.com.br/nbc.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-id="zerostreams.57fa320ef8b1bf5f" tvg-name="NBA | Atlanta Hawks vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Atlanta Hawks vs Washington Wizards
+#EXTINF:-1 tvg-id="zerostreams.57fa320ef8b1bf5f" tvg-name="NBA | Atlanta Hawks vs Washington Wizards — Nov 5, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg" group-title="NBA",NBA | Atlanta Hawks vs Washington Wizards — Nov 5, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nba2.m3u8
@@ -27,22 +27,14 @@ https://temp.formaturamaxi.com.br/nba2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.bbbb19fdddcbc3fe" tvg-name="NBA | Philadelphia 76ers vs Detroit Pistons — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Philadelphia 76ers vs Detroit Pistons — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.bbbb19fdddcbc3fe" tvg-name="NBA | Philadelphia 76ers vs Detroit Pistons — Nov 5, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg" group-title="NBA",NBA | Philadelphia 76ers vs Detroit Pistons — Nov 5, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e26d15535f75d469" tvg-name="NBA | Philadelphia 76ers vs Detroit Pistons — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Philadelphia 76ers vs Detroit Pistons — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://temp.formaturamaxi.com.br/nbaalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="NCAA | Ball State vs Massachusetts" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Ball State vs Massachusetts
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.0f1bf8736a9840c4" tvg-name="NCAA | Central Michigan vs Eastern Michigan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Central Michigan vs Eastern Michigan
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.99dfcd9531f8666b" tvg-name="NCAA | Toledo vs Sacramento State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | Toledo vs Sacramento State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -51,10 +43,18 @@ https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="NHL | Ottawa Senators vs Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Ottawa Senators vs Buffalo Sabres
+#EXTINF:-1 tvg-id="zerostreams.801cee97da49d48e" tvg-name="NHL | Ottawa Senators vs Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Ottawa Senators vs Buffalo Sabres
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nhl.m3u8
+https://temp.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="Shared Channels | NBA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NBA
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e26d15535f75d469" tvg-name="Shared Channels | NBAALT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | NBAALT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://temp.formaturamaxi.com.br/nbaalt.m3u8
 #EXTINF:-1 tvg-id="zerostreams.9b3c93c57eb65caa" tvg-name="Soccer | Arsenal vs Slavia Praha" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Arsenal vs Slavia Praha
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -75,7 +75,3 @@ https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://temp.formaturamaxi.com.br/fana2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.b8a4ab9006d3139b" tvg-name="Soccer | Porto vs Napoli" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Porto vs Napoli
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8

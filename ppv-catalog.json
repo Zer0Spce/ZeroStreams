@@ -22,6 +22,28 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Philadelphia 76ers vs Detroit Pistons",
+    "poster": "https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/phi-det",
+    "starts_at": 1793836800,
+    "ends_at": 1793847600,
+    "starts_at_pht": "Nov 5, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/phi-det"
+  },
+  {
+    "name": "Atlanta Hawks vs Washington Wizards",
+    "poster": "https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/atl-wsh",
+    "starts_at": 1793836800,
+    "ends_at": 1793847600,
+    "starts_at_pht": "Nov 5, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/atl-wsh"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
