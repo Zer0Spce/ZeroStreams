@@ -158,8 +158,8 @@ https://tedesco.formaturamaxi.com.br/tnt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/abbiecadabri.m3u8
-#EXTINF:-1 tvg-name="Soccer | Real Sociedad vs Lyon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Real Sociedad vs Lyon
+https://temp.formaturamaxi.com.br/sport.m3u8
+#EXTINF:-1 tvg-name="Soccer | Real Sociedad vs Lyon — Nov 6, 2026, 1:45 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/41d9561dcf309386e7f9e93525c9d248-thumbnail.jpg" group-title="Soccer",Soccer | Real Sociedad vs Lyon — Nov 6, 2026, 1:45 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-origin=https://roxiestreams.info
