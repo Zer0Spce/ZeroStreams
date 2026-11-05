@@ -22,61 +22,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Philadelphia 76ers vs Detroit Pistons",
-    "poster": "https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-04/phi-det",
-    "starts_at": 1793836800,
-    "ends_at": 1793847600,
-    "starts_at_pht": "Nov 5, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nba/2026-11-04/phi-det"
-  },
-  {
-    "name": "Atlanta Hawks vs Washington Wizards",
-    "poster": "https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-04/atl-wsh",
-    "starts_at": 1793836800,
-    "ends_at": 1793847600,
-    "starts_at_pht": "Nov 5, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nba/2026-11-04/atl-wsh"
-  },
-  {
-    "name": "Milwaukee Bucks vs Boston Celtics",
-    "poster": "https://static.ppvservices.st/assets/thumb/5d8112faf285af2fd2a3a80d0218458d-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-04/mil-bos",
-    "starts_at": 1793838600,
-    "ends_at": 1793849400,
-    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
-    "page": "https://ppv.st/live/nba/2026-11-04/mil-bos"
-  },
-  {
-    "name": "Charlotte Hornets vs Brooklyn Nets",
-    "poster": "https://static.ppvservices.st/assets/thumb/2dfb6b5bf08e54e0df08b50bace1a609-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-04/cha-bkn",
-    "starts_at": 1793838600,
-    "ends_at": 1793849400,
-    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
-    "page": "https://ppv.st/live/nba/2026-11-04/cha-bkn"
-  },
-  {
-    "name": "Chicago Bulls vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/c56f20a4387bf83d7020c5051f00d657-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-04/chi-ny",
-    "starts_at": 1793838600,
-    "ends_at": 1793849400,
-    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
-    "page": "https://ppv.st/live/nba/2026-11-04/chi-ny"
-  },
-  {
     "name": "Indiana Pacers vs Memphis Grizzlies",
     "poster": "https://static.ppvservices.st/assets/thumb/4137e6af3c60e5ebf2aa9d16433e9abe-thumbnail.jpg",
     "tag": "NBA",
@@ -143,6 +88,39 @@
     "page": "https://ppv.st/live/nba/2026-11-04/por-phx"
   },
   {
+    "name": "Dallas Mavericks vs San Antonio Spurs",
+    "poster": "https://static.ppvservices.st/assets/thumb/5410e630674bf34c125298400797fadc-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/dal-sa",
+    "starts_at": 1793845800,
+    "ends_at": 1793856600,
+    "starts_at_pht": "Nov 5, 2026, 10:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/dal-sa"
+  },
+  {
+    "name": "Los Angeles Lakers vs Sacramento Kings",
+    "poster": "https://static.ppvservices.st/assets/thumb/99e29c38ff3e2d4cd3c84da5e09af73a-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/lal-sac",
+    "starts_at": 1793847600,
+    "ends_at": 1793858400,
+    "starts_at_pht": "Nov 5, 2026, 11:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/lal-sac"
+  },
+  {
+    "name": "Miami Heat vs Los Angeles Clippers",
+    "poster": "https://static.ppvservices.st/assets/thumb/a06490dcf959ae4e178183f3faaff592-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-04/mia-lac",
+    "starts_at": 1793849400,
+    "ends_at": 1793860200,
+    "starts_at_pht": "Nov 5, 2026, 11:30 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-04/mia-lac"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -187,26 +165,26 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Ottawa Senators vs Buffalo Sabres",
-    "poster": "https://static.ppvservices.st/assets/thumb/6784be0b2252a1a5eae2f873c69deffc-thumbnail.jpg",
+    "name": "San Jose Sharks vs Los Angeles Kings",
+    "poster": "https://static.ppvservices.st/assets/thumb/fae6966f56fa5fdf0f0d5699e2cdff44-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-04/ott-buf",
-    "starts_at": 1793838600,
-    "ends_at": 1793849400,
-    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-04/ott-buf"
+    "uri": "nhl/2026-11-04/sj-la",
+    "starts_at": 1793847600,
+    "ends_at": 1793858400,
+    "starts_at_pht": "Nov 5, 2026, 11:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-04/sj-la"
   },
   {
-    "name": "Chicago Blackhawks vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/9a87c88bedf260e3b757808b65c0fd2b-thumbnail.jpg",
+    "name": "Calgary Flames vs Seattle Kraken",
+    "poster": "https://static.ppvservices.st/assets/thumb/5b944fe7bd9b7977f8e5826bb8d11c6c-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-04/chi-fla",
-    "starts_at": 1793838600,
-    "ends_at": 1793849400,
-    "starts_at_pht": "Nov 5, 2026, 8:30 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-04/chi-fla"
+    "uri": "nhl/2026-11-04/cgy-sea",
+    "starts_at": 1793847600,
+    "ends_at": 1793858400,
+    "starts_at_pht": "Nov 5, 2026, 11:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-04/cgy-sea"
   },
   {
     "name": "Fox League",
