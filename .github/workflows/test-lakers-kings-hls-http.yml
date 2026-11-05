@@ -17,7 +17,7 @@ jobs:
         run: |
           python - <<'PY'
           import urllib.request, urllib.error, urllib.parse, socket, ssl
-          url = "https://temp.formaturamaxi.com.br/nba13.m3u8"
+          urls = ["https://temp.formaturamaxi.com.br/nba13.m3u8", "https://temp2.formaturamaxi.com.br/nba13.m3u8"]
           ref = "https://roxiestreams.info/nba-streams-13"
           desktop = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
           cases = {
@@ -28,19 +28,20 @@ jobs:
           }
           print("Testing declared Lakers vs Kings HLS URL; no media segments downloaded.")
           for label,headers in cases.items():
+           for url in urls:
             try:
               req=urllib.request.Request(url,headers={**headers,"Range":"bytes=0-2047","Accept":"*/*"})
               with urllib.request.urlopen(req,timeout=13) as response:
                 chunk=response.read(2048)
                 content=chunk.lstrip(b"\\xef\\xbb\\xbf")
-                print(label, "HTTP",response.status,"type",response.headers.get("Content-Type","?"),
+                print(label, urllib.parse.urlparse(url).hostname, "HTTP",response.status,"type",response.headers.get("Content-Type","?"),
                       "HLS_magic",content.startswith(b"#EXTM3U"),
                       "master",b"#EXT-X-STREAM-INF" in content,
                       "media",b"#EXTINF" in content,
                       "bytes_read",len(chunk),
                       "redirect_host",urllib.parse.urlparse(response.url).hostname)
             except urllib.error.HTTPError as error:
-              print(label,"HTTP",error.code,"type",error.headers.get("Content-Type","?"))
+              print(label, urllib.parse.urlparse(url).hostname, "HTTP",error.code,"type",error.headers.get("Content-Type","?"))
             except Exception as exc:
-              print(label,"FAILED",type(exc).__name__, str(exc)[:150])
+              print(label, urllib.parse.urlparse(url).hostname, "FAILED",type(exc).__name__, str(exc)[:150])
           PY
