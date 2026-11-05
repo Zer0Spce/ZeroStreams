@@ -17,6 +17,7 @@ BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
 BACKUPS = tuple(x.rstrip('/')+'/' for x in os.getenv('ROXIE_BACKUP_URLS','https://roxiestreams.biz/,https://roxiestreams.su/').split(',') if x.strip())
 ROXIE_HOSTS = {'roxiestreams.info','roxiestreams.biz','roxiestreams.su'}
 UA = 'Mozilla/5.0 (compatible; LivePlaylist/1.0)'
+PLAYBACK_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
 TIMEOUT = 12
 
 
@@ -161,7 +162,9 @@ def render(entries):
         label = safe(entry.get('display_name', entry['name']))
         lines += [
             f'#EXTINF:-1 tvg-name="{label}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{label}',
+            f'#EXTVLCOPT:http-user-agent={PLAYBACK_UA}',
             f'#EXTVLCOPT:http-referrer={entry["page"]}',
+            f'#EXTVLCOPT:http-origin={urlsplit(entry["page"]).scheme}://{urlsplit(entry["page"]).netloc}',
             entry['url'],
         ]
     return '\n'.join(lines) + '\n'
