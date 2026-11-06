@@ -10,14 +10,14 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Detroit Lions vs Carolina Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg",
+    "name": "Jacksonville Jaguars vs Baltimore Ravens",
+    "poster": "https://static.ppvservices.st/assets/thumb/8b169e02aac1296ea33718dd974e0ff7-thumbnail.jpg",
     "tag": "NFL",
     "category": "American Football",
-    "uri": "nfl/2026-10-04/det-car",
-    "starts_at": 1791159600,
-    "ends_at": 1791174000,
-    "page": "https://ppv.st/live/nfl/2026-10-04/det-car"
+    "uri": "nfl/2026-11-05/jax-bal",
+    "starts_at": 1793927700,
+    "ends_at": 1793942100,
+    "page": "https://ppv.st/live/nfl/2026-11-05/jax-bal"
   },
   {
     "name": "Fox Footy",
@@ -30,34 +30,84 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Atlanta Braves vs Los Angeles Dodgers",
-    "poster": "https://static.ppvservices.st/assets/thumb/684747a5b3ecc1a0e0a420fbf66aa562-thumbnail.jpg",
-    "tag": "MLB",
-    "category": "Baseball",
-    "uri": "mlb/2026-10-04/atl-lad",
-    "starts_at": 1791158400,
-    "ends_at": 1791171000,
-    "page": "https://ppv.st/live/mlb/2026-10-04/atl-lad"
+    "name": "Jacksonville Dolphins vs Florida Gators",
+    "poster": "https://static.ppvservices.st/assets/thumb/57c7563f5c35f5717c0046b1101bcaa8-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/jax-fla",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/cbb/2026-11-05/jax-fla"
   },
   {
-    "name": "Utah Jazz vs Denver Nuggets",
-    "poster": "https://static.ppvservices.st/assets/thumb/cda54c935202511d07fe86f0b4ec7d28-thumbnail.jpg",
-    "tag": "NBA",
+    "name": "Coastal Carolina Chanticleers vs Duke Blue Devils",
+    "poster": "https://static.ppvservices.st/assets/thumb/473f854529beddaf3c281599e3d848ab-thumbnail.jpg",
+    "tag": "College Basketball",
     "category": "Basketball",
-    "uri": "nba/2026-10-04/utah-den",
-    "starts_at": 1791154800,
-    "ends_at": 1791165600,
-    "page": "https://ppv.st/live/nba/2026-10-04/utah-den"
+    "uri": "cbb/2026-11-05/ccu-duke",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/cbb/2026-11-05/ccu-duke"
   },
   {
-    "name": "Golden State Warriors vs Los Angeles Clippers",
-    "poster": "https://static.ppvservices.st/assets/thumb/c6462fe3cdc4e3d5042c9d848f261423-thumbnail.jpg",
+    "name": "Toledo Rockets vs Michigan State Spartans",
+    "poster": "https://static.ppvservices.st/assets/thumb/13db57a9fddbdd78762843aaba8502f8-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/tol-msu",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/cbb/2026-11-05/tol-msu"
+  },
+  {
+    "name": "Gardner-Webb Runnin' Bulldogs vs Texas Longhorns",
+    "poster": "https://static.ppvservices.st/assets/thumb/5d99b5ad0ddce150569b301ec3462cb1-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/gweb-tex",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/cbb/2026-11-05/gweb-tex"
+  },
+  {
+    "name": "Pennsylvania Quakers vs Illinois Fighting Illini",
+    "poster": "https://static.ppvservices.st/assets/thumb/2d5209620e17ece9167a0fe70539071e-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/penn-ill",
+    "starts_at": 1793928600,
+    "ends_at": 1793939400,
+    "page": "https://ppv.st/live/cbb/2026-11-05/penn-ill"
+  },
+  {
+    "name": "Orlando Magic vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/04c3d3867940ff71bfad11e131281d9b-thumbnail.jpg",
     "tag": "NBA",
     "category": "Basketball",
-    "uri": "nba/2026-10-04/gs-lac",
-    "starts_at": 1791154800,
-    "ends_at": 1791165600,
-    "page": "https://ppv.st/live/nba/2026-10-04/gs-lac"
+    "uri": "nba/2026-11-05/orl-phx",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "page": "https://ppv.st/live/nba/2026-11-05/orl-phx"
+  },
+  {
+    "name": "Bethune-Cookman Wildcats vs Texas Tech Red Raiders",
+    "poster": "https://static.ppvservices.st/assets/thumb/01f76dc0ea72c749b4893f97f0a89e12-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/bcu-ttu",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "page": "https://ppv.st/live/cbb/2026-11-05/bcu-ttu"
+  },
+  {
+    "name": "Miami Heat vs Golden State Warriors",
+    "poster": "https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-05/mia-gs",
+    "starts_at": 1793934000,
+    "ends_at": 1793944800,
+    "page": "https://ppv.st/live/nba/2026-11-05/mia-gs"
   },
   {
     "name": "Willow",
@@ -100,34 +150,34 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Utah Mammoth vs New York Rangers",
-    "poster": "https://static.ppvservices.st/assets/thumb/74fb497c1e20362bfc2dbb92c85e822f-thumbnail.jpg",
+    "name": "Vancouver Canucks vs Winnipeg Jets",
+    "poster": "https://static.ppvservices.st/assets/thumb/8132f07d53b22273ca8e5f28d495995f-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-10-04/uta-nyr",
-    "starts_at": 1791151200,
-    "ends_at": 1791162000,
-    "page": "https://ppv.st/live/nhl/2026-10-04/uta-nyr"
+    "uri": "nhl/2026-11-05/van-wpg",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/nhl/2026-11-05/van-wpg"
   },
   {
-    "name": "Florida Panthers vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/e5994c7fcfdfff728f85efedf712b346-thumbnail.jpg",
+    "name": "Anaheim Ducks vs Edmonton Oilers",
+    "poster": "https://static.ppvservices.st/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-10-04/fla-ana",
-    "starts_at": 1791158400,
-    "ends_at": 1791169200,
-    "page": "https://ppv.st/live/nhl/2026-10-04/fla-ana"
+    "uri": "nhl/2026-11-05/ana-edm",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "page": "https://ppv.st/live/nhl/2026-11-05/ana-edm"
   },
   {
-    "name": "Calgary Flames vs Seattle Kraken",
-    "poster": "https://static.ppvservices.st/assets/thumb/5b944fe7bd9b7977f8e5826bb8d11c6c-thumbnail.jpg",
+    "name": "Nashville Predators vs Colorado Avalanche",
+    "poster": "https://static.ppvservices.st/assets/thumb/0d41f957f6b8bdf112406a93466cc862-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-10-04/cgy-sea",
-    "starts_at": 1791158400,
-    "ends_at": 1791169200,
-    "page": "https://ppv.st/live/nhl/2026-10-04/cgy-sea"
+    "uri": "nhl/2026-11-05/nsh-col",
+    "starts_at": 1793932200,
+    "ends_at": 1793943000,
+    "page": "https://ppv.st/live/nhl/2026-11-05/nsh-col"
   },
   {
     "name": "Fox League",
@@ -138,6 +188,16 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "TNA Impact",
+    "poster": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "tna/2026-11-05",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "page": "https://ppv.st/live/tna/2026-11-05"
   },
   {
     "name": "24/7 South Park",
@@ -198,5 +258,35 @@
     "starts_at": 1770854400,
     "ends_at": 1770865200,
     "page": "https://ppv.st/live/rally-tv"
+  },
+  {
+    "name": "Sky Sports Racing",
+    "poster": "https://static.ppvservices.st/assets/thumb/43030017ee0ab21769b49bffe20f76d1-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "sky-sports-racing",
+    "starts_at": 1792108800,
+    "ends_at": 1792123200,
+    "page": "https://ppv.st/live/sky-sports-racing"
+  },
+  {
+    "name": "CNN",
+    "poster": "https://static.ppvservices.st/assets/thumb/d7f778fdf3a78f715d03d17e67451530-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "cnn-31729",
+    "starts_at": 1793664000,
+    "ends_at": 1793678400,
+    "page": "https://ppv.st/live/cnn-31729"
+  },
+  {
+    "name": "Fox News",
+    "poster": "https://static.ppvservices.st/assets/thumb/d2a0d8cc64b2affb7efc5b466a31f524-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "24/7 Streams",
+    "uri": "fox-news-31730",
+    "starts_at": 1793664000,
+    "ends_at": 1793678400,
+    "page": "https://ppv.st/live/fox-news-31730"
   }
 ]
