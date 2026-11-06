@@ -17,7 +17,6 @@ BASE = os.getenv('SOURCE_URL', 'https://roxiestreams.info/').rstrip('/') + '/'
 BACKUPS = tuple(x.rstrip('/')+'/' for x in os.getenv('ROXIE_BACKUP_URLS','https://roxiestreams.biz/,https://roxiestreams.su/').split(',') if x.strip())
 ROXIE_HOSTS = {'roxiestreams.info','roxiestreams.biz','roxiestreams.su'}
 UA = 'Mozilla/5.0 (compatible; LivePlaylist/1.0)'
-PLAYBACK_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
 TIMEOUT = 12
 
 
@@ -90,12 +89,6 @@ def load_domains(url, referer):
 def extract_sources(text, page, domain_loader=load_domains):
     text = html.unescape(text).replace(r'\/', '/')
     sources = set(re.findall(r'https?://[^\s\'"<>`]+\.m3u8(?:\?[^\s\'"<>`]*)?', text))
-    # Keep direct HLS addresses exposed in player attributes or protocol-relative URLs.
-    for value in re.findall(r'''(?<!:)//[A-Za-z0-9.-]+(?::\d+)?/[^\s'"<>]+\.m3u8(?:\?[^\s'"<>]*)?''', text):
-        sources.add(urlsplit(page).scheme + ':' + value)
-    for value in re.findall(r'''(?:src|href|file|source|url)\s*[:=]\s*['"]([^'"]+\.m3u8(?:\?[^'"]*)?)['"]''', text, flags=re.I):
-        if not urlsplit(value).scheme:
-            sources.add(urljoin(page, value))
     calls = re.findall(r"getRandomStream\(\s*['\"]([^'\"]+\.m3u8[^'\"]*)['\"]\s*(?:,\s*['\"]([^'\"]+)['\"])?\s*\)", text)
     if not calls:
         return sorted(sources)
@@ -130,28 +123,6 @@ def live_media(url, referer, depth=0):
         return bool(response.read(1024))
 
 
-@lru_cache(maxsize=256)
-def poster_available(url):
-    """Check that a PPV poster is a reachable image, not a 404/HTML page."""
-    if urlsplit(url).scheme not in ('https', 'http'):
-        return False
-    try:
-        request = Request(url, headers={'User-Agent': UA, 'Accept': 'image/*', 'Range': 'bytes=0-63'})
-        with urlopen(request, timeout=7) as response:
-            data = response.read(16)
-            content_type = response.headers.get('Content-Type', '').split(';', 1)[0].lower().strip()
-        return (
-            content_type.startswith('image/')
-            and (data.startswith(b'\xff\xd8\xff')
-                 or data.startswith(b'\x89PNG\r\n\x1a\n')
-                 or data.startswith(b'GIF87a')
-                 or data.startswith(b'GIF89a')
-                 or (data.startswith(b'RIFF') and data[8:12] == b'WEBP'))
-        )
-    except Exception:
-        return False
-
-
 def safe(value):
     return ' '.join(value.replace('"', "'").split())
 
@@ -159,14 +130,10 @@ def safe(value):
 def render(entries):
     lines = ['#EXTM3U']
     for entry in entries:
-        label = safe(entry.get('display_name', entry['name']))
-        lines += [
-            f'#EXTINF:-1 tvg-name="{label}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{label}',
-            f'#EXTVLCOPT:http-user-agent={PLAYBACK_UA}',
-            f'#EXTVLCOPT:http-referrer={entry["page"]}',
-            f'#EXTVLCOPT:http-origin={urlsplit(entry["page"]).scheme}://{urlsplit(entry["page"]).netloc}',
-            entry['url'],
-        ]
+        label = safe(entry.get("display_name", entry["name"])) + " — Unverified"
+        lines += [f'#EXTINF:-1 tvg-id="{safe(entry.get("tvg_id", ""))}" tvg-name="{label}" tvg-logo="{safe(entry.get("poster", ""))}" group-title="{safe(entry["group"])}",{label}',
+                  f'#EXTVLCOPT:http-referrer={entry["page"]}',
+                  f'#EXTVLCOPT:http-user-agent={UA}', entry['url']]
     return '\n'.join(lines) + '\n'
 
 
@@ -246,16 +213,17 @@ def main():
         catalog, ppv_entries, ppv_status = ppv_catalog(fetch)
         for entry in ppv_entries:
             candidates.setdefault(entry['url'], []).append(entry)
-        # Publish every discovered public HLS URL. Reachability fluctuates and
-        # must not cause a complete playlist wipe during a temporary outage.
-        # An M3U URL is a candidate, not a guarantee that the video is live.
+        # HLS candidates are published without playback verification.
+        # Retain aliases for decorate() to merge exact URL duplicates and
+        # preserve distinct feeds with their own URLs.
         entries = [dict(alias) for aliases in candidates.values() for alias in aliases]
-        print(f'Publishing {len(candidates)} HLS URL candidates from {len(pages)} pages without playback checks...', flush=True)
-    entries = decorate(entries, catalog, poster_validator=poster_available)
+        print(f'Publishing {len(candidates)} unverified HLS candidates from {len(pages)} pages...', flush=True)
+    entries = decorate(entries, catalog)
     report = {'updated_utc': dt.datetime.now(dt.timezone.utc).isoformat(), 'pages': len(pages),
-              'candidate_urls': len(candidates), 'published_urls': len(entries),
-              'live_urls': len(entries), 'unavailable_urls': 0, 'not_checked_urls': len(candidates),
-              'validation_mode': 'discovery_only',
+              'candidate_urls': len(candidates), 'live_urls': 0,
+              'published_urls': len(entries), 'unverified_urls': len(entries),
+              'verified_urls': 0, 'not_checked_urls': len(candidates),
+              'validation_mode': 'discovery_only', 'unavailable_urls': 0,
               'unsupported_pages': unsupported, 'errors': errors, 'ppv':ppv_status,
               'event_groups':len({e['event_id'] for e in entries}),
               'event_posters':sum('assets/logos/' not in e['poster'] for e in entries),

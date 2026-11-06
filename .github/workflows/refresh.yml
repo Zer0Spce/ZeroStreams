@@ -1,14 +1,8 @@
 name: Refresh live playlist
 on:
-  push:
-    branches: [main]
-    paths:
-      - scraper.py
-      - metadata.py
-      - .github/workflows/refresh.yml
   schedule:
-    # GitHub Actions uses UTC; slots below map to 00:00, 04:00, 06:00,
-    # 07:00, 08:00, 10:00, 12:00, 15:00, 18:00, 21:00 Asia/Manila (UTC+8).
+    # UTC cron corresponds to 00:00, 04:00, 06:00, 07:00, 08:00,
+    # 10:00, 12:00, 15:00, 18:00, 21:00 Philippine Time (UTC+8).
     - cron: '0 0,2,4,7,10,13,16,20,22,23 * * *'
   workflow_dispatch:
 permissions:
@@ -22,8 +16,6 @@ jobs:
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'

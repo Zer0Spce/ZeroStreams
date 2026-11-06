@@ -1,6 +1,5 @@
 """Public PPV catalogue metadata and consistent IPTV presentation."""
 from collections import defaultdict
-from datetime import datetime, timedelta, timezone
 import hashlib
 import html
 import json
@@ -11,10 +10,8 @@ import unicodedata
 from urllib.parse import quote, urlsplit
 
 PPV_BASES = ('https://api.ppv.st/api', 'https://api.ppv.cx/api')
-LOGO_BASE = 'https://raw.githubusercontent.com/' + os.getenv('GITHUB_REPOSITORY', 'Zer0Spce/ZeroStreams') + '/main/assets/logos/'
-PHT = timezone(timedelta(hours=8), 'PHT')
+LOGO_BASE = 'https://raw.githubusercontent.com/' + os.getenv('GITHUB_REPOSITORY', 'Zer0Spce/ZeroStreamsBAK') + '/main/assets/logos/'
 GROUPS = {'nfl':'NFL', 'redzone':'NFL', 'nba':'NBA', 'wnba':'WNBA', 'nhl':'NHL',
-          'ncaa':'NCAA', 'college':'College Sports',
           'mlb':'MLB', 'soccer':'Soccer', 'f1':'Formula 1', 'nascar':'NASCAR',
           'motogp':'MotoGP', 'mxgp':'MXGP', 'wwe':'WWE', 'ufc':'UFC',
           'boxing':'Boxing', 'fighting':'Combat Sports', 'motorsports':'Motorsports'}
@@ -26,52 +23,12 @@ LOGOS = {'NFL':'nfl', 'NBA':'nba', 'WNBA':'wnba', 'NHL':'nhl', 'MLB':'mlb',
 
 def clean_title(value):
     value = ' '.join(html.unescape(str(value)).split())
-    # Remove marketing labels while retaining the actual fixture or channel name.
-    value = re.sub(r'^(?:RoxieStreams|Watch Live|Live Stream)\s*[:|–—-]\s*', '', value, flags=re.I)
-    value = re.sub(r'\s*[-–—|]\s*(?:Live Stream(?:ing)?|Watch Live|HD Stream)\s*$', '', value, flags=re.I)
-    value = re.sub(r'\s+versus\s+', ' vs ', value, flags=re.I)
     value = re.sub(r'\bvs\.?\s*', 'vs ', value, flags=re.I)
     value = re.sub(r'\s+at\s+', ' vs ', value, flags=re.I)
     value = re.sub(r'\bLA Clippers\b', 'Los Angeles Clippers', value)
     value = re.sub(r'\bDenamrk\b', 'Denmark', value)
     value = re.sub(r'\s*-\s*(Race|Malaysian Grand Prix)\b', r': \1', value)
     return value.strip()
-
-
-def scheduled_start(item):
-    """Return a Unix start only for scheduled events, not continuous channels."""
-    if item.get('always_live') in (True, 1, '1') or re.search(r'24\s*/\s*7', str(item.get('tag') or ''), re.I):
-        return 0
-    try:
-        return max(0, int(item.get('starts_at') or 0))
-    except (TypeError, ValueError, OverflowError):
-        return 0
-
-
-def pht_time(timestamp):
-    """Format an authoritative Unix start in Philippine Time (UTC+8)."""
-    if not timestamp:
-        return ''
-    try:
-        local = datetime.fromtimestamp(int(timestamp), PHT)
-    except (TypeError, ValueError, OverflowError, OSError):
-        return ''
-    hour = local.hour % 12 or 12
-    ampm = 'AM' if local.hour < 12 else 'PM'
-    return f'{local:%b} {local.day}, {local.year}, {hour}:{local.minute:02d} {ampm} PHT'
-
-
-def category_title(group, name):
-    """One consistent league prefix, never a duplicated league prefix."""
-    name = clean_title(name)
-    if group == 'Shared Channels':
-        return f'Shared Channels | {name}'
-    existing = re.match(rf'^{re.escape(group)}\s*[:|–—-]\s*(.+)$', name, re.I)
-    if existing:
-        return f'{group} | {existing.group(1)}'
-    if name.casefold() == group.casefold() or name.casefold().startswith(group.casefold() + ' '):
-        return name
-    return f'{group} | {name}'
 
 
 def event_key(name):
@@ -128,7 +85,6 @@ def ppv_catalog(fetcher, now=None):
                             'poster':item.get('poster') or '', 'tag':item.get('tag') or '',
                             'category':category.get('category') or 'Live', 'uri':item.get('uri_name'),
                             'starts_at':item.get('starts_at'), 'ends_at':item.get('ends_at'),
-                            'starts_at_pht':pht_time(scheduled_start(item)),
                             'page':'https://ppv.st/live/' + str(item.get('uri_name') or '')})
             uri = item.get('uri_name')
             if not uri:
@@ -152,8 +108,7 @@ def ppv_catalog(fetcher, now=None):
                                         'source_tag':variant.get('source_tag') or detail.get('source_tag') or '',
                                         'locale':variant.get('locale') or item.get('locale') or '',
                                         'identity':f'ppv:{variant.get("id", item.get("id"))}:{urlsplit(url).path}',
-                                        'starts_at':item.get('starts_at') or 0,
-                                        'starts_at_pht':pht_time(scheduled_start(item))})
+                                        'starts_at':item.get('starts_at') or 0})
                 if found == 0:
                     embed_only += 1
             except Exception as exc:
@@ -172,7 +127,7 @@ def fallback_logo(group):
     return LOGO_BASE + LOGOS.get(group, 'live') + '.png'
 
 
-def decorate(entries, catalog, poster_validator=None):
+def decorate(entries, catalog):
     """Dedupe exact URLs; merge matching event names, number distinct feeds."""
     metadata = {}
     for item in catalog:
@@ -188,7 +143,7 @@ def decorate(entries, catalog, poster_validator=None):
         entry['provider'] = ' + '.join(sorted({e.get('provider','RoxieStreams') for e in aliases}))
         if len(names) > 1:
             channel = urlsplit(url).path.rsplit('/',1)[-1].removesuffix('.m3u8')
-            entry['name'] = channel.upper()
+            entry['name'] = channel.upper() + ' — Shared Feed'
             entry['group'] = 'Shared Channels'
             entry['poster'] = ''
         else:
@@ -197,22 +152,10 @@ def decorate(entries, catalog, poster_validator=None):
             if match:
                 entry['name'] = clean_title(match['name'])
                 entry['poster'] = match['poster']
-                entry['starts_at'] = scheduled_start(match)
-                entry['starts_at_pht'] = match.get('starts_at_pht') or pht_time(scheduled_start(match))
-        poster = entry.get('poster') or ''
-        # Reject broken/unreachable PPV images before emitting an IPTV tvg-logo.
-        if poster and urlsplit(poster).scheme in ('https', 'http'):
-            if poster_validator is not None:
-                try:
-                    if not poster_validator(poster):
-                        poster = ''
-                except Exception:
-                    poster = ''
-        else:
-            poster = ''
-        entry['poster'] = poster or fallback_logo(entry['group'])
+                entry['starts_at'] = match.get('starts_at') or 0
+        entry['poster'] = entry.get('poster') or fallback_logo(entry['group'])
         # Date avoids grouping repeat fixtures on different days.
-        date = datetime.fromtimestamp(int(entry['starts_at']), PHT).date().isoformat() if entry.get('starts_at_pht') else ''
+        date = time.strftime('%Y-%m-%d', time.gmtime(entry.get('starts_at') or 0)) if entry.get('starts_at') else ''
         entry['event_id'] = f'{entry["group"]}:{event_key(entry["name"])}:{date}'
         identity = entry.get('identity') or f'{entry["provider"]}:{urlsplit(url).netloc}:{urlsplit(url).path}'
         entry['tvg_id'] = 'zerostreams.' + hashlib.sha256(identity.encode()).hexdigest()[:16]
@@ -230,9 +173,7 @@ def decorate(entries, catalog, poster_validator=None):
                 details.append(entry['source_tag'])
             if entry.get('locale'):
                 details.append(entry['locale'].upper())
-            title = category_title(entry['group'], entry['name'])
-            if entry.get('starts_at_pht'):
-                title += ' — ' + entry['starts_at_pht']
+            title = entry['name'] if entry['name'].casefold().startswith(entry['group'].casefold()) else f'{entry["group"]} | {entry["name"]}'
             entry['display_name'] = title + (' — ' + ' · '.join(details) if details else '')
             result.append(entry)
     return result
