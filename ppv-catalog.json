@@ -22,6 +22,17 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Wake Forest Demon Deacons vs Vanderbilt Commodores",
+    "poster": "https://static.ppvservices.st/assets/thumb/96b55fa047b46f346a55b0bd486874e3-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/wake-van",
+    "starts_at": 1793919600,
+    "ends_at": 1793930400,
+    "starts_at_pht": "Nov 6, 2026, 7:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/wake-van"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -44,193 +55,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AC Milan vs Ferencvaros",
-    "poster": "https://static.ppvservices.st/assets/thumb/f9aef7ac5fe6e3e47a6b243ee5721b27-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/mil-fer",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/mil-fer"
-  },
-  {
-    "name": "Anderlecht vs RB Salzburg",
-    "poster": "https://static.ppvservices.st/assets/thumb/c1d11b03b8bb1682a15b880f4563e11b-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/and-slz",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/and-slz"
-  },
-  {
-    "name": "Crystal Palace vs TSG Hoffenheim",
-    "poster": "https://static.ppvservices.st/assets/thumb/ff3637410c96310017b01a06f789f533-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/cry-tsg",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/cry-tsg"
-  },
-  {
-    "name": "Levski Sofia vs Jagiellonia Bialystok",
-    "poster": "https://static.ppvservices.st/assets/thumb/ef2cb8084e4ffda4a36a96784c3a8bbb-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/lev-jag",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/lev-jag"
-  },
-  {
-    "name": "Lillestrom vs Viktoria Plzen",
-    "poster": "https://static.ppvservices.st/assets/thumb/cae72a782a668bcedcc6a7054b8cec87-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/lsk-plz",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/lsk-plz"
-  },
-  {
-    "name": "NEC Nijmegen vs Omonia Nicosia",
-    "poster": "https://static.ppvservices.st/assets/thumb/8094ab1046a6f74e637a27565d7b9d5a-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/nec-omon",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/nec-omon"
-  },
-  {
-    "name": "Real Sociedad vs Lyon",
-    "poster": "https://static.ppvservices.st/assets/thumb/41d9561dcf309386e7f9e93525c9d248-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/rso-lyon",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/rso-lyon"
-  },
-  {
-    "name": "Sparta Prague vs AFC Bournemouth",
-    "poster": "https://static.ppvservices.st/assets/thumb/bb90e45d4a047c06633a371d767be0e3-thumbnail.jpg",
-    "tag": "Europa League",
-    "category": "Football",
-    "uri": "uel/2026-11-05/spp-bou",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uel/2026-11-05/spp-bou"
-  },
-  {
-    "name": "AGF vs Braga",
-    "poster": "https://static.ppvservices.st/assets/thumb/e42f6073b39974cf655fd5efac44b48a-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/agf-scb",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/agf-scb"
-  },
-  {
-    "name": "Atalanta vs Kairat Almaty",
-    "poster": "https://static.ppvservices.st/assets/thumb/0972ce4a121ec8c941d055a99eafc6d5-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/ata-kai",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/ata-kai"
-  },
-  {
-    "name": "FC Midtjylland vs Ajax Amsterdam",
-    "poster": "https://static.ppvservices.st/assets/thumb/32287ecca58317378d31e78e802ab4e7-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/mid-aja",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/mid-aja"
-  },
-  {
-    "name": "FC Thun vs Heart of Midlothian",
-    "poster": "https://static.ppvservices.st/assets/thumb/a5831028a5466872751b6f969820d166-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/thun-hom",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/thun-hom"
-  },
-  {
-    "name": "KuPS Kuopio vs KAA Gent",
-    "poster": "https://static.ppvservices.st/assets/thumb/e15cfecb7cee25d74ac6bdc5d1216d16-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/kups-gent",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/kups-gent"
-  },
-  {
-    "name": "Lincoln Red Imps vs Hajduk Split",
-    "poster": "https://static.ppvservices.st/assets/thumb/f3b972bbbf3301622f34929f38d8d8a4-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/lri-haj",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/lri-haj"
-  },
-  {
-    "name": "Mj\u00e4llby AIF vs Borac Banja Luka",
-    "poster": "https://static.ppvservices.st/assets/thumb/87d8a55c5d0e701058b394507090f662-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/mja-bbl",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/mja-bbl"
-  },
-  {
-    "name": "Red Star Belgrade vs Inter D'Escaldes",
-    "poster": "https://static.ppvservices.st/assets/thumb/82f2b80071f04172156050b6585c44ab-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/rsb-ide",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/rsb-ide"
-  },
-  {
-    "name": "Trabzonspor vs SC Freiburg",
-    "poster": "https://static.ppvservices.st/assets/thumb/ea5ee73f85b6e58f3c24595896f82e55-thumbnail.jpg",
-    "tag": "Conference League",
-    "category": "Football",
-    "uri": "uecl/2026-11-05/trab-scf",
-    "starts_at": 1793900700,
-    "ends_at": 1793909700,
-    "starts_at_pht": "Nov 6, 2026, 1:45 AM PHT",
-    "page": "https://ppv.st/live/uecl/2026-11-05/trab-scf"
-  },
-  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -251,6 +75,94 @@
     "ends_at": 14400,
     "starts_at_pht": "",
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Utah Mammoth vs Montreal Canadiens",
+    "poster": "https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/uta-mtl",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/uta-mtl"
+  },
+  {
+    "name": "Vegas Golden Knights vs Detroit Red Wings",
+    "poster": "https://static.ppvservices.st/assets/thumb/f7e06de2643cc1895fcfa1a35f0fb35f-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/vgk-det",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/vgk-det"
+  },
+  {
+    "name": "Chicago Blackhawks vs Tampa Bay Lightning",
+    "poster": "https://static.ppvservices.st/assets/thumb/6de547ab8922ae6821287ca732e34a90-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/chi-tb",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/chi-tb"
+  },
+  {
+    "name": "St. Louis Blues vs New Jersey Devils",
+    "poster": "https://static.ppvservices.st/assets/thumb/503845c3ba9967ee901c9b5e3f19bfcc-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/stl-nj",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/stl-nj"
+  },
+  {
+    "name": "Carolina Hurricanes vs New York Islanders",
+    "poster": "https://static.ppvservices.st/assets/thumb/858911e6d49bec3ad2bb5d3d1b546f67-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/car-nyi",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/car-nyi"
+  },
+  {
+    "name": "Philadelphia Flyers vs New York Rangers",
+    "poster": "https://static.ppvservices.st/assets/thumb/d059e959d9e877fcc5e46ddeda3d8a53-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/phi-nyr",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/phi-nyr"
+  },
+  {
+    "name": "Boston Bruins vs Pittsburgh Penguins",
+    "poster": "https://static.ppvservices.st/assets/thumb/9ab3eaff2a61921a1d7f9cd7002f74f1-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/bos-pit",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/bos-pit"
+  },
+  {
+    "name": "Dallas Stars vs Columbus Blue Jackets",
+    "poster": "https://static.ppvservices.st/assets/thumb/083ed57f0ca0c267fdfc5c42ea5caddf-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-05/dal-cbj",
+    "starts_at": 1793923200,
+    "ends_at": 1793934000,
+    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/dal-cbj"
   },
   {
     "name": "Fox League",

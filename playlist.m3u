@@ -1,29 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Live | TNA — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 1
+#EXTINF:-1 tvg-name="Live | TNA" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://admin.formaturamaxi.com.br/abc.m3u8
-#EXTINF:-1 tvg-name="Live | TNA — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://admin.formaturamaxi.com.br/kcop.m3u8
-#EXTINF:-1 tvg-name="Live | TNA — Feed 3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://admin.formaturamaxi.com.br/nbc.m3u8
-#EXTINF:-1 tvg-name="Live | TNA — Feed 4" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | TNA — Feed 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/ppv-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/cnn.m3u8
+https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTINF:-1 tvg-name="Live | WoO World Finals" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live",Live | WoO World Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://admin.formaturamaxi.com.br/flo.m3u8
+https://temp.formaturamaxi.com.br/flo.m3u8
 #EXTINF:-1 tvg-name="NBA | Miami Heat vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Golden State Warriors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
@@ -48,22 +33,22 @@ https://temp.formaturamaxi.com.br/nbaalt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://tedesco.formaturamaxi.com.br/ncaa2.m3u8
+https://admin2.formaturamaxi.com.br/ncaa2.m3u8
 #EXTINF:-1 tvg-name="NCAA | UTSA vs Florida Atlantic" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | UTSA vs Florida Atlantic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+https://admin2.formaturamaxi.com.br/ncaa.m3u8
 #EXTINF:-1 tvg-name="NFL (TNF) — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL (TNF) — Feed 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
+https://admin2.formaturamaxi.com.br/nfl.m3u8
 #EXTINF:-1 tvg-name="NFL (TNF) — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL (TNF) — Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nfl.m3u8
+https://admin2.formaturamaxi.com.br/simply_abigail.m3u8
 #EXTINF:-1 tvg-name="NFL (TNF) — Feed 3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL",NFL (TNF) — Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
@@ -74,92 +59,107 @@ https://temp.formaturamaxi.com.br/nflalt.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-name="NHL | Boston Bruins vs Pittsburgh Penguins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Boston Bruins vs Pittsburgh Penguins
+#EXTINF:-1 tvg-name="NHL | Boston Bruins vs Pittsburgh Penguins — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/9ab3eaff2a61921a1d7f9cd7002f74f1-thumbnail.jpg" group-title="NHL",NHL | Boston Bruins vs Pittsburgh Penguins — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes vs New York Islanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Carolina Hurricanes vs New York Islanders
+https://tedesco.formaturamaxi.com.br/nhl7.m3u8
+#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes vs New York Islanders — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/858911e6d49bec3ad2bb5d3d1b546f67-thumbnail.jpg" group-title="NHL",NHL | Carolina Hurricanes vs New York Islanders — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-name="NHL | Chicago Blackhawks vs Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Chicago Blackhawks vs Tampa Bay Lightning
+https://admin2.formaturamaxi.com.br/nhl5.m3u8
+#EXTINF:-1 tvg-name="NHL | Chicago Blackhawks vs Tampa Bay Lightning — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/6de547ab8922ae6821287ca732e34a90-thumbnail.jpg" group-title="NHL",NHL | Chicago Blackhawks vs Tampa Bay Lightning — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-name="NHL | Dallas Stars vs Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Dallas Stars vs Columbus Blue Jackets
+https://tedesco.formaturamaxi.com.br/nhl3.m3u8
+#EXTINF:-1 tvg-name="NHL | Dallas Stars vs Columbus Blue Jackets — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/083ed57f0ca0c267fdfc5c42ea5caddf-thumbnail.jpg" group-title="NHL",NHL | Dallas Stars vs Columbus Blue Jackets — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl8.m3u8
+https://admin2.formaturamaxi.com.br/nhl8.m3u8
 #EXTINF:-1 tvg-name="NHL | Nashville Predators vs Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Nashville Predators vs Colorado Avalanche
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers vs New York Rangers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Philadelphia Flyers vs New York Rangers
+https://admin2.formaturamaxi.com.br/nhl11.m3u8
+#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers vs New York Rangers — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/d059e959d9e877fcc5e46ddeda3d8a53-thumbnail.jpg" group-title="NHL",NHL | Philadelphia Flyers vs New York Rangers — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://tedesco.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-name="NHL | St. Louis Blues vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | St. Louis Blues vs New Jersey Devils
+https://admin2.formaturamaxi.com.br/nhl6.m3u8
+#EXTINF:-1 tvg-name="NHL | St. Louis Blues vs New Jersey Devils — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/503845c3ba9967ee901c9b5e3f19bfcc-thumbnail.jpg" group-title="NHL",NHL | St. Louis Blues vs New Jersey Devils — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens
+#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl.m3u8
+https://admin2.formaturamaxi.com.br/nhl.m3u8
+#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/rds.m3u8
 #EXTINF:-1 tvg-name="NHL | Vancouver Canucks vs Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vancouver Canucks vs Winnipeg Jets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-name="NHL | Vegas Golden Knights vs Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vegas Golden Knights vs Detroit Red Wings
+https://tedesco.formaturamaxi.com.br/nhl9.m3u8
+#EXTINF:-1 tvg-name="NHL | Vegas Golden Knights vs Detroit Red Wings — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/f7e06de2643cc1895fcfa1a35f0fb35f-thumbnail.jpg" group-title="NHL",NHL | Vegas Golden Knights vs Detroit Red Wings — Nov 6, 2026, 8:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-name="Shared Channels | PREM2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | PREM2
+https://admin2.formaturamaxi.com.br/nhl2.m3u8
+#EXTINF:-1 tvg-name="Shared Channels | MATCH3RU" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | MATCH3RU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/prem2.m3u8
+https://temp.formaturamaxi.com.br/match3ru.m3u8
 #EXTINF:-1 tvg-name="Shared Channels | PREM" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | PREM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-2
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/prem.m3u8
-#EXTINF:-1 tvg-name="Shared Channels | TNT2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/tnt2.m3u8
 #EXTINF:-1 tvg-name="Shared Channels | TNT3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-5
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/tnt3.m3u8
-#EXTINF:-1 tvg-name="Shared Channels | TNT4" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-4
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/tnt4.m3u8
 #EXTINF:-1 tvg-name="Shared Channels | TNT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels",Shared Channels | TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-11
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/tnt.m3u8
-#EXTINF:-1 tvg-name="Soccer | Aldosivi vs River Plate" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Aldosivi vs River Plate
+#EXTINF:-1 tvg-name="Soccer | Cruzeiro vs Bahia" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Cruzeiro vs Bahia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-13
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/sport.m3u8
-#EXTINF:-1 tvg-name="Soccer | Real Sociedad vs Lyon — Nov 6, 2026, 1:45 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/41d9561dcf309386e7f9e93525c9d248-thumbnail.jpg" group-title="Soccer",Soccer | Real Sociedad vs Lyon — Nov 6, 2026, 1:45 AM PHT
+https://temp.formaturamaxi.com.br/fana2.m3u8
+#EXTINF:-1 tvg-name="Soccer | Palmeiras vs Remo — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Palmeiras vs Remo — Feed 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fana.m3u8
+#EXTINF:-1 tvg-name="Soccer | Palmeiras vs Remo — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Palmeiras vs Remo — Feed 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fanaen.m3u8
+#EXTINF:-1 tvg-name="Soccer | Palmeiras vs Remo — Feed 3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Palmeiras vs Remo — Feed 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/fanaes.m3u8
+#EXTINF:-1 tvg-name="Soccer | Palmeiras vs Remo — Feed 4" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Palmeiras vs Remo — Feed 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-12
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://temp.formaturamaxi.com.br/sportdigital.m3u8
+#EXTINF:-1 tvg-name="Soccer | Real Sociedad vs Lyon" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer",Soccer | Real Sociedad vs Lyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-3
 #EXTVLCOPT:http-origin=https://roxiestreams.info
