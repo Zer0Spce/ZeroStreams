@@ -9,26 +9,16 @@ https://admin2.formaturamaxi.com.br/ppv.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/floracing-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/flo.m3u8
-#EXTINF:-1 tvg-name="NBA | Miami Heat vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Miami Heat vs Golden State Warriors
+#EXTINF:-1 tvg-name="NBA | Miami Heat vs Golden State Warriors — Nov 6, 2026, 11:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg" group-title="NBA",NBA | Miami Heat vs Golden State Warriors — Nov 6, 2026, 11:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-name="NBA | Orlando Magic vs Phoenix Suns — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Orlando Magic vs Phoenix Suns — Feed 1
+https://admin2.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-name="NBA | Orlando Magic vs Phoenix Suns — Nov 6, 2026, 10:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/04c3d3867940ff71bfad11e131281d9b-thumbnail.jpg" group-title="NBA",NBA | Orlando Magic vs Phoenix Suns — Nov 6, 2026, 10:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://tedesco.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-name="NBA | Orlando Magic vs Phoenix Suns — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Orlando Magic vs Phoenix Suns — Feed 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nba.m3u8
-#EXTINF:-1 tvg-name="NBA | Orlando Magic vs Phoenix Suns — Feed 3" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA",NBA | Orlando Magic vs Phoenix Suns — Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://temp.formaturamaxi.com.br/nbaalt.m3u8
+https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-name="NCAA | James Madison vs Southern Miss" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="NCAA",NCAA | James Madison vs Southern Miss
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
@@ -54,62 +44,62 @@ https://admin2.formaturamaxi.com.br/simply_abigail.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/nflalt.m3u8
-#EXTINF:-1 tvg-name="NHL | Anaheim Ducks vs Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Anaheim Ducks vs Edmonton Oilers
+#EXTINF:-1 tvg-name="NHL | Anaheim Ducks vs Edmonton Oilers — Nov 6, 2026, 9:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg" group-title="NHL",NHL | Anaheim Ducks vs Edmonton Oilers — Nov 6, 2026, 9:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-10
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/nhl10.m3u8
-#EXTINF:-1 tvg-name="NHL | Boston Bruins vs Pittsburgh Penguins — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/9ab3eaff2a61921a1d7f9cd7002f74f1-thumbnail.jpg" group-title="NHL",NHL | Boston Bruins vs Pittsburgh Penguins — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Boston Bruins vs Pittsburgh Penguins" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Boston Bruins vs Pittsburgh Penguins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes vs New York Islanders — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/858911e6d49bec3ad2bb5d3d1b546f67-thumbnail.jpg" group-title="NHL",NHL | Carolina Hurricanes vs New York Islanders — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes vs New York Islanders" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Carolina Hurricanes vs New York Islanders
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://admin2.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-name="NHL | Chicago Blackhawks vs Tampa Bay Lightning — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/6de547ab8922ae6821287ca732e34a90-thumbnail.jpg" group-title="NHL",NHL | Chicago Blackhawks vs Tampa Bay Lightning — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Chicago Blackhawks vs Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Chicago Blackhawks vs Tampa Bay Lightning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
-#EXTINF:-1 tvg-name="NHL | Dallas Stars vs Columbus Blue Jackets — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/083ed57f0ca0c267fdfc5c42ea5caddf-thumbnail.jpg" group-title="NHL",NHL | Dallas Stars vs Columbus Blue Jackets — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Dallas Stars vs Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Dallas Stars vs Columbus Blue Jackets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://admin2.formaturamaxi.com.br/nhl8.m3u8
-#EXTINF:-1 tvg-name="NHL | Nashville Predators vs Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Nashville Predators vs Colorado Avalanche
+#EXTINF:-1 tvg-name="NHL | Nashville Predators vs Colorado Avalanche — Nov 6, 2026, 10:30 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/0d41f957f6b8bdf112406a93466cc862-thumbnail.jpg" group-title="NHL",NHL | Nashville Predators vs Colorado Avalanche — Nov 6, 2026, 10:30 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-11
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://admin2.formaturamaxi.com.br/nhl11.m3u8
-#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers vs New York Rangers — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/d059e959d9e877fcc5e46ddeda3d8a53-thumbnail.jpg" group-title="NHL",NHL | Philadelphia Flyers vs New York Rangers — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers vs New York Rangers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Philadelphia Flyers vs New York Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-name="NHL | St. Louis Blues vs New Jersey Devils — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/503845c3ba9967ee901c9b5e3f19bfcc-thumbnail.jpg" group-title="NHL",NHL | St. Louis Blues vs New Jersey Devils — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | St. Louis Blues vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | St. Louis Blues vs New Jersey Devils
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 1
+#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Feed 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://admin2.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Nov 6, 2026, 8:00 AM PHT — Feed 2
+#EXTINF:-1 tvg-name="NHL | Utah Mammoth vs Montreal Canadiens — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Utah Mammoth vs Montreal Canadiens — Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://temp.formaturamaxi.com.br/rds.m3u8
-#EXTINF:-1 tvg-name="NHL | Vancouver Canucks vs Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vancouver Canucks vs Winnipeg Jets
+#EXTINF:-1 tvg-name="NHL | Vancouver Canucks vs Winnipeg Jets — Nov 6, 2026, 9:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/8132f07d53b22273ca8e5f28d495995f-thumbnail.jpg" group-title="NHL",NHL | Vancouver Canucks vs Winnipeg Jets — Nov 6, 2026, 9:00 AM PHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-9
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://tedesco.formaturamaxi.com.br/nhl9.m3u8
-#EXTINF:-1 tvg-name="NHL | Vegas Golden Knights vs Detroit Red Wings — Nov 6, 2026, 8:00 AM PHT" tvg-logo="https://static.ppvservices.st/assets/thumb/f7e06de2643cc1895fcfa1a35f0fb35f-thumbnail.jpg" group-title="NHL",NHL | Vegas Golden Knights vs Detroit Red Wings — Nov 6, 2026, 8:00 AM PHT
+#EXTINF:-1 tvg-name="NHL | Vegas Golden Knights vs Detroit Red Wings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL",NHL | Vegas Golden Knights vs Detroit Red Wings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-origin=https://roxiestreams.info

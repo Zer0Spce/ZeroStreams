@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-06T00:39:51.136119+00:00",
+  "updated_utc": "2026-11-06T03:07:34.112832+00:00",
   "pages": 39,
-  "candidate_urls": 33,
-  "published_urls": 33,
-  "live_urls": 33,
+  "candidate_urls": 31,
+  "published_urls": 31,
+  "live_urls": 31,
   "unavailable_urls": 0,
-  "not_checked_urls": 33,
+  "not_checked_urls": 31,
   "validation_mode": "discovery_only",
   "unsupported_pages": [
     "https://roxiestreams.info/soccer-streams-1",
@@ -18,13 +18,13 @@
   "errors": [],
   "ppv": {
     "status": "embed-only",
-    "active_events": 25,
+    "active_events": 29,
     "direct_candidates": 0,
-    "embed_only_events": 25,
+    "embed_only_events": 29,
     "errors": []
   },
   "event_groups": 25,
-  "event_posters": 9,
+  "event_posters": 5,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {

@@ -11,6 +11,17 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "Jacksonville Jaguars vs Baltimore Ravens",
+    "poster": "https://static.ppvservices.st/assets/thumb/8b169e02aac1296ea33718dd974e0ff7-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-05/jax-bal",
+    "starts_at": 1793927700,
+    "ends_at": 1793942100,
+    "starts_at_pht": "Nov 6, 2026, 9:15 AM PHT",
+    "page": "https://ppv.st/live/nfl/2026-11-05/jax-bal"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -22,15 +33,92 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Wake Forest Demon Deacons vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/96b55fa047b46f346a55b0bd486874e3-thumbnail.jpg",
+    "name": "Jacksonville Dolphins vs Florida Gators",
+    "poster": "https://static.ppvservices.st/assets/thumb/57c7563f5c35f5717c0046b1101bcaa8-thumbnail.jpg",
     "tag": "College Basketball",
     "category": "Basketball",
-    "uri": "cbb/2026-11-05/wake-van",
-    "starts_at": 1793919600,
-    "ends_at": 1793930400,
-    "starts_at_pht": "Nov 6, 2026, 7:00 AM PHT",
-    "page": "https://ppv.st/live/cbb/2026-11-05/wake-van"
+    "uri": "cbb/2026-11-05/jax-fla",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/jax-fla"
+  },
+  {
+    "name": "Coastal Carolina Chanticleers vs Duke Blue Devils",
+    "poster": "https://static.ppvservices.st/assets/thumb/473f854529beddaf3c281599e3d848ab-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/ccu-duke",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/ccu-duke"
+  },
+  {
+    "name": "Toledo Rockets vs Michigan State Spartans",
+    "poster": "https://static.ppvservices.st/assets/thumb/13db57a9fddbdd78762843aaba8502f8-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/tol-msu",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/tol-msu"
+  },
+  {
+    "name": "Gardner-Webb Runnin' Bulldogs vs Texas Longhorns",
+    "poster": "https://static.ppvservices.st/assets/thumb/5d99b5ad0ddce150569b301ec3462cb1-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/gweb-tex",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/gweb-tex"
+  },
+  {
+    "name": "Pennsylvania Quakers vs Illinois Fighting Illini",
+    "poster": "https://static.ppvservices.st/assets/thumb/2d5209620e17ece9167a0fe70539071e-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/penn-ill",
+    "starts_at": 1793928600,
+    "ends_at": 1793939400,
+    "starts_at_pht": "Nov 6, 2026, 9:30 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/penn-ill"
+  },
+  {
+    "name": "Orlando Magic vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/04c3d3867940ff71bfad11e131281d9b-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-05/orl-phx",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "starts_at_pht": "Nov 6, 2026, 10:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-05/orl-phx"
+  },
+  {
+    "name": "Bethune-Cookman Wildcats vs Texas Tech Red Raiders",
+    "poster": "https://static.ppvservices.st/assets/thumb/01f76dc0ea72c749b4893f97f0a89e12-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-05/bcu-ttu",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "starts_at_pht": "Nov 6, 2026, 10:00 AM PHT",
+    "page": "https://ppv.st/live/cbb/2026-11-05/bcu-ttu"
+  },
+  {
+    "name": "Miami Heat vs Golden State Warriors",
+    "poster": "https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-05/mia-gs",
+    "starts_at": 1793934000,
+    "ends_at": 1793944800,
+    "starts_at_pht": "Nov 6, 2026, 11:00 AM PHT",
+    "page": "https://ppv.st/live/nba/2026-11-05/mia-gs"
   },
   {
     "name": "Willow",
@@ -77,92 +165,37 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Utah Mammoth vs Montreal Canadiens",
-    "poster": "https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg",
+    "name": "Vancouver Canucks vs Winnipeg Jets",
+    "poster": "https://static.ppvservices.st/assets/thumb/8132f07d53b22273ca8e5f28d495995f-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/uta-mtl",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/uta-mtl"
+    "uri": "nhl/2026-11-05/van-wpg",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/van-wpg"
   },
   {
-    "name": "Vegas Golden Knights vs Detroit Red Wings",
-    "poster": "https://static.ppvservices.st/assets/thumb/f7e06de2643cc1895fcfa1a35f0fb35f-thumbnail.jpg",
+    "name": "Anaheim Ducks vs Edmonton Oilers",
+    "poster": "https://static.ppvservices.st/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/vgk-det",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/vgk-det"
+    "uri": "nhl/2026-11-05/ana-edm",
+    "starts_at": 1793926800,
+    "ends_at": 1793937600,
+    "starts_at_pht": "Nov 6, 2026, 9:00 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/ana-edm"
   },
   {
-    "name": "Chicago Blackhawks vs Tampa Bay Lightning",
-    "poster": "https://static.ppvservices.st/assets/thumb/6de547ab8922ae6821287ca732e34a90-thumbnail.jpg",
+    "name": "Nashville Predators vs Colorado Avalanche",
+    "poster": "https://static.ppvservices.st/assets/thumb/0d41f957f6b8bdf112406a93466cc862-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/chi-tb",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/chi-tb"
-  },
-  {
-    "name": "St. Louis Blues vs New Jersey Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/503845c3ba9967ee901c9b5e3f19bfcc-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/stl-nj",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/stl-nj"
-  },
-  {
-    "name": "Carolina Hurricanes vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/858911e6d49bec3ad2bb5d3d1b546f67-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/car-nyi",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/car-nyi"
-  },
-  {
-    "name": "Philadelphia Flyers vs New York Rangers",
-    "poster": "https://static.ppvservices.st/assets/thumb/d059e959d9e877fcc5e46ddeda3d8a53-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/phi-nyr",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/phi-nyr"
-  },
-  {
-    "name": "Boston Bruins vs Pittsburgh Penguins",
-    "poster": "https://static.ppvservices.st/assets/thumb/9ab3eaff2a61921a1d7f9cd7002f74f1-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/bos-pit",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/bos-pit"
-  },
-  {
-    "name": "Dallas Stars vs Columbus Blue Jackets",
-    "poster": "https://static.ppvservices.st/assets/thumb/083ed57f0ca0c267fdfc5c42ea5caddf-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-05/dal-cbj",
-    "starts_at": 1793923200,
-    "ends_at": 1793934000,
-    "starts_at_pht": "Nov 6, 2026, 8:00 AM PHT",
-    "page": "https://ppv.st/live/nhl/2026-11-05/dal-cbj"
+    "uri": "nhl/2026-11-05/nsh-col",
+    "starts_at": 1793932200,
+    "ends_at": 1793943000,
+    "starts_at_pht": "Nov 6, 2026, 10:30 AM PHT",
+    "page": "https://ppv.st/live/nhl/2026-11-05/nsh-col"
   },
   {
     "name": "Fox League",
@@ -174,6 +207,17 @@
     "ends_at": 10740,
     "starts_at_pht": "",
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "TNA Impact",
+    "poster": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "tna/2026-11-05",
+    "starts_at": 1793930400,
+    "ends_at": 1793941200,
+    "starts_at_pht": "Nov 6, 2026, 10:00 AM PHT",
+    "page": "https://ppv.st/live/tna/2026-11-05"
   },
   {
     "name": "24/7 South Park",
