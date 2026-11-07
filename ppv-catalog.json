@@ -10,6 +10,36 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "BYU Cougars vs Utah Utes",
+    "poster": "https://static.ppvservices.st/assets/thumb/185b8c4c0b62f3de60459f5f27dfa757-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-07/byu-utah",
+    "starts_at": 1794070800,
+    "ends_at": 1794085200,
+    "page": "https://ppv.st/live/cfb/2026-11-07/byu-utah"
+  },
+  {
+    "name": "UCLA Bruins vs Minnesota Golden Gophers",
+    "poster": "https://static.ppvservices.st/assets/thumb/77d254708b022c978a598d24445c94af-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-07/ucla-minn",
+    "starts_at": 1794070800,
+    "ends_at": 1794085200,
+    "page": "https://ppv.st/live/cfb/2026-11-07/ucla-minn"
+  },
+  {
+    "name": "Texas Longhorns vs Missouri Tigers",
+    "poster": "https://static.ppvservices.st/assets/thumb/c45089d48177b64c440565c5bdc64ca0-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-07/tex-miz",
+    "starts_at": 1794070800,
+    "ends_at": 1794085200,
+    "page": "https://ppv.st/live/cfb/2026-11-07/tex-miz"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -18,6 +48,46 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Morehead State Eagles vs Louisville Cardinals",
+    "poster": "https://static.ppvservices.st/assets/thumb/ae4fa650f96b7ee910fe9207619f6cfb-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-07/more-lou",
+    "starts_at": 1794070800,
+    "ends_at": 1794081600,
+    "page": "https://ppv.st/live/cbb/2026-11-07/more-lou"
+  },
+  {
+    "name": "Zuffa Boxing 12: Billam-Smith vs Clarke",
+    "poster": "https://static.ppvservices.st/assets/thumb/62e37d84e29213a5453defaf22b817f9-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "zuffa-boxing-12-billam-smith-vs-clarke-31912",
+    "starts_at": 1794067200,
+    "ends_at": 1794096000,
+    "page": "https://ppv.st/live/zuffa-boxing-12-billam-smith-vs-clarke-31912"
+  },
+  {
+    "name": "OKTAGON 97: Severino vs Holzer",
+    "poster": "https://static.ppvservices.st/assets/thumb/0e7d4c2d52b106bf62ddca7f9e179dab-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "oktagon-97-severino-vs-holzer-31913",
+    "starts_at": 1794070800,
+    "ends_at": 1794092400,
+    "page": "https://ppv.st/live/oktagon-97-severino-vs-holzer-31913"
+  },
+  {
+    "name": "Buatsi vs Hutchinson 2",
+    "poster": "https://static.ppvservices.st/assets/thumb/cf3662e0477ae8095543130c911e0e11-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "buatsi-vs-hutchinson-2-31919",
+    "starts_at": 1794078000,
+    "ends_at": 1794099600,
+    "page": "https://ppv.st/live/buatsi-vs-hutchinson-2-31919"
   },
   {
     "name": "Willow",
@@ -40,54 +110,64 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Leeds United vs Tottenham Hotspur",
-    "poster": "https://static.ppvservices.st/assets/thumb/6ee2e4364557f3d76b338ec127d9f89c-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-07/lee-tot",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "page": "https://ppv.st/live/pl/2026-11-07/lee-tot"
-  },
-  {
-    "name": "Bristol City vs Norwich City",
-    "poster": "https://static.ppvservices.st/assets/thumb/76585d7b4fc394d8aedc8db1bb061b7f-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/brc-nor",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/brc-nor"
-  },
-  {
-    "name": "Portsmouth vs Stoke City",
-    "poster": "https://static.ppvservices.st/assets/thumb/a80f4a0a907da198cb5c293c3c504a26-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/por-stk",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/por-stk"
-  },
-  {
-    "name": "Wrexham vs Wolverhampton Wanderers",
-    "poster": "https://static.ppvservices.st/assets/thumb/a1187c0fc62569cbf172ef71ab5126c9-thumbnail.jpg",
-    "tag": "EFL Championship",
-    "category": "Football",
-    "uri": "efl-championship/2026-11-07/wxm-wol",
-    "starts_at": 1794054600,
-    "ends_at": 1794063600,
-    "page": "https://ppv.st/live/efl-championship/2026-11-07/wxm-wol"
-  },
-  {
-    "name": "M\u00e1laga vs Racing Santander",
-    "poster": "https://static.ppvservices.st/assets/thumb/556df82e3c83d0b4ee4957fb0d956557-thumbnail.jpg",
+    "name": "Osasuna vs Athletic Club",
+    "poster": "https://static.ppvservices.st/assets/thumb/da1a58ad9324d3c96e43fbad9fe26a94-thumbnail.jpg",
     "tag": "LaLiga",
     "category": "Football",
-    "uri": "laliga/2026-11-07/mcf-rac",
-    "starts_at": 1794056400,
-    "ends_at": 1794065400,
-    "page": "https://ppv.st/live/laliga/2026-11-07/mcf-rac"
+    "uri": "laliga/2026-11-07/osa-ath",
+    "starts_at": 1794072600,
+    "ends_at": 1794081600,
+    "page": "https://ppv.st/live/laliga/2026-11-07/osa-ath"
+  },
+  {
+    "name": "VfB Stuttgart vs Werder Bremen",
+    "poster": "https://static.ppvservices.st/assets/thumb/0b014c552a8dc7b10ab37b48e0178ff7-thumbnail.jpg",
+    "tag": "Bundesliga",
+    "category": "Football",
+    "uri": "bundesliga/2026-11-07/vfb-svw",
+    "starts_at": 1794072600,
+    "ends_at": 1794081600,
+    "page": "https://ppv.st/live/bundesliga/2026-11-07/vfb-svw"
+  },
+  {
+    "name": "Nottingham Forest vs Manchester City",
+    "poster": "https://static.ppvservices.st/assets/thumb/8714dd4b7afd1f225299e80a6085180b-thumbnail.jpg",
+    "tag": "Premier League",
+    "category": "Football",
+    "uri": "pl/2026-11-07/nfo-mci",
+    "starts_at": 1794072600,
+    "ends_at": 1794081600,
+    "page": "https://ppv.st/live/pl/2026-11-07/nfo-mci"
+  },
+  {
+    "name": "ADO Den Haag vs Sparta Rotterdam",
+    "poster": "https://static.ppvservices.st/assets/thumb/543626e38b3205efdc5b52aab5764e56-thumbnail.jpg",
+    "tag": "Eredivisie",
+    "category": "Football",
+    "uri": "eredivisie/2026-11-07/ado-spa",
+    "starts_at": 1794073500,
+    "ends_at": 1794082500,
+    "page": "https://ppv.st/live/eredivisie/2026-11-07/ado-spa"
+  },
+  {
+    "name": "AS Roma vs Sassuolo",
+    "poster": "https://static.ppvservices.st/assets/thumb/93241c21615c4857e81e4bd9eaebc3d2-thumbnail.jpg",
+    "tag": "Serie A",
+    "category": "Football",
+    "uri": "seriea/2026-11-07/roma-sas",
+    "starts_at": 1794080700,
+    "ends_at": 1794089700,
+    "page": "https://ppv.st/live/seriea/2026-11-07/roma-sas"
+  },
+  {
+    "name": "Paris Saint-Germain vs Troyes",
+    "poster": "https://static.ppvservices.st/assets/thumb/802086fa9f6a2180524079c7a9136708-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-07/psg-try",
+    "starts_at": 1794080700,
+    "ends_at": 1794089700,
+    "page": "https://ppv.st/live/ligue1/2026-11-07/psg-try"
   },
   {
     "name": "Sky Sports Golf",
@@ -108,6 +188,36 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Florida Panthers vs Washington Capitals",
+    "poster": "https://static.ppvservices.st/assets/thumb/d2706c929ac0145ac4e90c437490a7ec-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-07/fla-wsh",
+    "starts_at": 1794072600,
+    "ends_at": 1794083400,
+    "page": "https://ppv.st/live/nhl/2026-11-07/fla-wsh"
+  },
+  {
+    "name": "St. Louis Blues vs Nashville Predators",
+    "poster": "https://static.ppvservices.st/assets/thumb/6a5f471f8ebbda3465bbd3f067ceba6b-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-07/stl-nsh",
+    "starts_at": 1794074400,
+    "ends_at": 1794085200,
+    "page": "https://ppv.st/live/nhl/2026-11-07/stl-nsh"
+  },
+  {
+    "name": "S\u00e3o Paulo Grand Prix - Qualifying",
+    "poster": "https://static.ppvservices.st/assets/thumb/95b8dcfc869b2e52bd0481ce1161d61a-thumbnail.jpg",
+    "tag": "Formula 1",
+    "category": "Motorsports",
+    "uri": "f1/2026/brazil/qualifying",
+    "starts_at": 1794074400,
+    "ends_at": 1794088800,
+    "page": "https://ppv.st/live/f1/2026/brazil/qualifying"
   },
   {
     "name": "Fox League",
