@@ -10,26 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "New Mexico Lobos vs Nevada Wolf Pack",
-    "poster": "https://static.ppvservices.st/assets/thumb/f51dc4febeac4bd5366299ff08403bf0-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-06/unm-nev",
-    "starts_at": 1794016800,
-    "ends_at": 1794031200,
-    "page": "https://ppv.st/live/cfb/2026-11-06/unm-nev"
-  },
-  {
-    "name": "TCU Horned Frogs vs Arizona Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/7727ff43b7800faa38ab92015ca71076-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-06/tcu-ariz",
-    "starts_at": 1794021300,
-    "ends_at": 1794035700,
-    "page": "https://ppv.st/live/cfb/2026-11-06/tcu-ariz"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -38,66 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Wagner Seahawks vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/b6e937d1f78f5fc5b076b99dcd6fdfce-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/wag-mia",
-    "starts_at": 1794016800,
-    "ends_at": 1794027600,
-    "page": "https://ppv.st/live/cbb/2026-11-06/wag-mia"
-  },
-  {
-    "name": "Middle Tennessee Blue Raiders vs Kansas Jayhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d3ee6f5f2ff08ec6703ea8690ca5eaf2-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/mtsu-ku",
-    "starts_at": 1794016800,
-    "ends_at": 1794027600,
-    "page": "https://ppv.st/live/cbb/2026-11-06/mtsu-ku"
-  },
-  {
-    "name": "Omaha Mavericks vs BYU Cougars",
-    "poster": "https://static.ppvservices.st/assets/thumb/505b10fcaacec9330d54c01d5d19f566-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/oma-byu",
-    "starts_at": 1794016800,
-    "ends_at": 1794027600,
-    "page": "https://ppv.st/live/cbb/2026-11-06/oma-byu"
-  },
-  {
-    "name": "Portland Trail Blazers vs Los Angeles Lakers",
-    "poster": "https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/por-lal",
-    "starts_at": 1794020400,
-    "ends_at": 1794031200,
-    "page": "https://ppv.st/live/nba/2026-11-06/por-lal"
-  },
-  {
-    "name": "San Antonio Spurs vs Sacramento Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-06/sa-sac",
-    "starts_at": 1794020400,
-    "ends_at": 1794031200,
-    "page": "https://ppv.st/live/nba/2026-11-06/sa-sac"
-  },
-  {
-    "name": "North Florida Ospreys vs UCLA Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/1230ffa0c34445eb13d395aa123d53cd-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-06/unf-ucla",
-    "starts_at": 1794022200,
-    "ends_at": 1794033000,
-    "page": "https://ppv.st/live/cbb/2026-11-06/unf-ucla"
   },
   {
     "name": "Willow",
@@ -120,14 +40,54 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Atlante vs Santos",
-    "poster": "https://static.ppvservices.st/assets/thumb/b898d339d9088948c64d727ec2361e24-thumbnail.jpg",
-    "tag": "Liga MX",
+    "name": "Leeds United vs Tottenham Hotspur",
+    "poster": "https://static.ppvservices.st/assets/thumb/6ee2e4364557f3d76b338ec127d9f89c-thumbnail.jpg",
+    "tag": "Premier League",
     "category": "Football",
-    "uri": "liga-mx/2026-11-06/atl-san",
-    "starts_at": 1794020400,
-    "ends_at": 1794029400,
-    "page": "https://ppv.st/live/liga-mx/2026-11-06/atl-san"
+    "uri": "pl/2026-11-07/lee-tot",
+    "starts_at": 1794054600,
+    "ends_at": 1794063600,
+    "page": "https://ppv.st/live/pl/2026-11-07/lee-tot"
+  },
+  {
+    "name": "Bristol City vs Norwich City",
+    "poster": "https://static.ppvservices.st/assets/thumb/76585d7b4fc394d8aedc8db1bb061b7f-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/brc-nor",
+    "starts_at": 1794054600,
+    "ends_at": 1794063600,
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/brc-nor"
+  },
+  {
+    "name": "Portsmouth vs Stoke City",
+    "poster": "https://static.ppvservices.st/assets/thumb/a80f4a0a907da198cb5c293c3c504a26-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/por-stk",
+    "starts_at": 1794054600,
+    "ends_at": 1794063600,
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/por-stk"
+  },
+  {
+    "name": "Wrexham vs Wolverhampton Wanderers",
+    "poster": "https://static.ppvservices.st/assets/thumb/a1187c0fc62569cbf172ef71ab5126c9-thumbnail.jpg",
+    "tag": "EFL Championship",
+    "category": "Football",
+    "uri": "efl-championship/2026-11-07/wxm-wol",
+    "starts_at": 1794054600,
+    "ends_at": 1794063600,
+    "page": "https://ppv.st/live/efl-championship/2026-11-07/wxm-wol"
+  },
+  {
+    "name": "M\u00e1laga vs Racing Santander",
+    "poster": "https://static.ppvservices.st/assets/thumb/556df82e3c83d0b4ee4957fb0d956557-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-07/mcf-rac",
+    "starts_at": 1794056400,
+    "ends_at": 1794065400,
+    "page": "https://ppv.st/live/laliga/2026-11-07/mcf-rac"
   },
   {
     "name": "Sky Sports Golf",
