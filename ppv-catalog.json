@@ -10,86 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Cincinnati Bengals vs Atlanta Falcons",
-    "poster": "https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/cin-atl",
-    "starts_at": 1794148200,
-    "ends_at": 1794162600,
-    "page": "https://ppv.st/live/nfl/2026-11-08/cin-atl"
-  },
-  {
-    "name": "Dallas Cowboys vs Indianapolis Colts",
-    "poster": "https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/dal-ind",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/dal-ind"
-  },
-  {
-    "name": "New York Jets vs Kansas City Chiefs",
-    "poster": "https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/nyj-kc",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/nyj-kc"
-  },
-  {
-    "name": "Detroit Lions vs Miami Dolphins",
-    "poster": "https://static.ppvservices.st/assets/thumb/f57af0a151528f6100eb37c293e704be-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/det-mia",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/det-mia"
-  },
-  {
-    "name": "Cleveland Browns vs New Orleans Saints",
-    "poster": "https://static.ppvservices.st/assets/thumb/ad09341752bcfdf81c6bd49b4349d6e3-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/cle-no",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/cle-no"
-  },
-  {
-    "name": "New York Giants vs Philadelphia Eagles",
-    "poster": "https://static.ppvservices.st/assets/thumb/4e76a975a58c70ddcb68d7af552cf503-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/nyg-phi",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/nyg-phi"
-  },
-  {
-    "name": "Los Angeles Rams vs Washington Commanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/105d2e2884b76ffb6ca3043867539cd3-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/lar-wsh",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/lar-wsh"
-  },
-  {
-    "name": "Denver Broncos vs Carolina Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/7b8af9399a7370376916422691054023-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-08/den-car",
-    "starts_at": 1794160800,
-    "ends_at": 1794175200,
-    "page": "https://ppv.st/live/nfl/2026-11-08/den-car"
-  },
-  {
     "name": "NFL RedZone",
     "poster": "https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg",
     "tag": "NFL",
@@ -98,6 +18,46 @@
     "starts_at": 1794160800,
     "ends_at": 1794186000,
     "page": "https://ppv.st/live/nfl-redzone-31950"
+  },
+  {
+    "name": "Houston Texans vs Los Angeles Chargers",
+    "poster": "https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-08/hou-lac",
+    "starts_at": 1794171900,
+    "ends_at": 1794186300,
+    "page": "https://ppv.st/live/nfl/2026-11-08/hou-lac"
+  },
+  {
+    "name": "Green Bay Packers vs New England Patriots",
+    "poster": "https://static.ppvservices.st/assets/thumb/ffbd6d569bfa2c36ef75fccd1e33b4ca-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-08/gb-ne",
+    "starts_at": 1794173100,
+    "ends_at": 1794187500,
+    "page": "https://ppv.st/live/nfl/2026-11-08/gb-ne"
+  },
+  {
+    "name": "Las Vegas Raiders vs San Francisco 49ers",
+    "poster": "https://static.ppvservices.st/assets/thumb/d035a23c0d0bb272a9f94e31601dde0e-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-08/lv-sf",
+    "starts_at": 1794173100,
+    "ends_at": 1794187500,
+    "page": "https://ppv.st/live/nfl/2026-11-08/lv-sf"
+  },
+  {
+    "name": "Arizona Cardinals vs Seattle Seahawks",
+    "poster": "https://static.ppvservices.st/assets/thumb/10a3d611ac2ea6fdce0816cea8fb1cd7-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-08/ari-sea",
+    "starts_at": 1794173100,
+    "ends_at": 1794187500,
+    "page": "https://ppv.st/live/nfl/2026-11-08/ari-sea"
   },
   {
     "name": "Fox Footy",
@@ -110,24 +70,24 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Iona Gaels vs St. John's Red Storm",
-    "poster": "https://static.ppvservices.st/assets/thumb/9e88da51963a87535b7191c354203a27-thumbnail.jpg",
-    "tag": "College Basketball",
+    "name": "Philadelphia 76ers vs Chicago Bulls",
+    "poster": "https://static.ppvservices.st/assets/thumb/9bfd3466d996db0f9efdf518f0619242-thumbnail.jpg",
+    "tag": "NBA",
     "category": "Basketball",
-    "uri": "cbb/2026-11-08/iona-sju",
-    "starts_at": 1794157200,
-    "ends_at": 1794168000,
-    "page": "https://ppv.st/live/cbb/2026-11-08/iona-sju"
+    "uri": "nba/2026-11-08/phi-chi",
+    "starts_at": 1794169800,
+    "ends_at": 1794180600,
+    "page": "https://ppv.st/live/nba/2026-11-08/phi-chi"
   },
   {
-    "name": "Arkansas Razorbacks vs Virginia Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/415cf247d83b02ec4965bec042857e13-thumbnail.jpg",
-    "tag": "College Basketball",
+    "name": "Los Angeles Lakers vs Detroit Pistons",
+    "poster": "https://static.ppvservices.st/assets/thumb/e4a95bc7204d9153e4a0cb7215944a63-thumbnail.jpg",
+    "tag": "NBA",
     "category": "Basketball",
-    "uri": "cbb/2026-11-08/ark-uva",
-    "starts_at": 1794160800,
-    "ends_at": 1794171600,
-    "page": "https://ppv.st/live/cbb/2026-11-08/ark-uva"
+    "uri": "nba/2026-11-08/lal-det",
+    "starts_at": 1794178800,
+    "ends_at": 1794189600,
+    "page": "https://ppv.st/live/nba/2026-11-08/lal-det"
   },
   {
     "name": "Willow",
@@ -150,116 +110,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "AZ Alkmaar vs FC Groningen",
-    "poster": "https://static.ppvservices.st/assets/thumb/7ae7567807eceaa0f13e89f1a0f61612-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/az-gro",
-    "starts_at": 1794152700,
-    "ends_at": 1794161700,
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/az-gro"
-  },
-  {
-    "name": "SC Cambuur vs PSV Eindhoven",
-    "poster": "https://static.ppvservices.st/assets/thumb/0f966620618a3a0ceccd3d66259dfacd-thumbnail.jpg",
-    "tag": "Eredivisie",
-    "category": "Football",
-    "uri": "eredivisie/2026-11-08/cam-psv",
-    "starts_at": 1794152700,
-    "ends_at": 1794161700,
-    "page": "https://ppv.st/live/eredivisie/2026-11-08/cam-psv"
-  },
-  {
-    "name": "Angers vs Nice",
-    "poster": "https://static.ppvservices.st/assets/thumb/815445a31e81c65ff5bb6178634a192e-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/ang-nice",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "page": "https://ppv.st/live/ligue1/2026-11-08/ang-nice"
-  },
-  {
-    "name": "Brest vs Lyon",
-    "poster": "https://static.ppvservices.st/assets/thumb/5b2451169ff76afb9d79248065f8b74a-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/bre-lyon",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "page": "https://ppv.st/live/ligue1/2026-11-08/bre-lyon"
-  },
-  {
-    "name": "Le Havre AC vs Lorient",
-    "poster": "https://static.ppvservices.st/assets/thumb/cd472f3cc24b3d90f2b2445696870b33-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/hac-lor",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "page": "https://ppv.st/live/ligue1/2026-11-08/hac-lor"
-  },
-  {
-    "name": "Le Mans vs AS Monaco",
-    "poster": "https://static.ppvservices.st/assets/thumb/9f389577a2d503e487986e0f97909d79-thumbnail.jpg",
-    "tag": "Ligue 1",
-    "category": "Football",
-    "uri": "ligue1/2026-11-08/mns-mon",
-    "starts_at": 1794154500,
-    "ends_at": 1794163500,
-    "page": "https://ppv.st/live/ligue1/2026-11-08/mns-mon"
-  },
-  {
-    "name": "SC Freiburg vs 1. FC Union Berlin",
-    "poster": "https://static.ppvservices.st/assets/thumb/a53a594e61d47c0a67a480e18c6d07d8-thumbnail.jpg",
-    "tag": "Bundesliga",
-    "category": "Football",
-    "uri": "bundesliga/2026-11-08/scf-fcu",
-    "starts_at": 1794155400,
-    "ends_at": 1794164400,
-    "page": "https://ppv.st/live/bundesliga/2026-11-08/scf-fcu"
-  },
-  {
-    "name": "Manchester United vs Aston Villa",
-    "poster": "https://static.ppvservices.st/assets/thumb/12b00704a89100d988fd37ef80360c79-thumbnail.jpg",
-    "tag": "Premier League",
-    "category": "Football",
-    "uri": "pl/2026-11-08/mun-avl",
-    "starts_at": 1794155400,
-    "ends_at": 1794164400,
-    "page": "https://ppv.st/live/pl/2026-11-08/mun-avl"
-  },
-  {
-    "name": "Inter Milan vs Como",
-    "poster": "https://static.ppvservices.st/assets/thumb/43b1d4fd55886d02f6f76852a7675a02-thumbnail.jpg",
-    "tag": "Serie A",
-    "category": "Football",
-    "uri": "seriea/2026-11-08/int-como",
-    "starts_at": 1794157200,
-    "ends_at": 1794166200,
-    "page": "https://ppv.st/live/seriea/2026-11-08/int-como"
-  },
-  {
-    "name": "Celta Vigo vs Levante",
-    "poster": "https://static.ppvservices.st/assets/thumb/623e4143acbe8127c59db7f207d5d89e-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-08/cel-lev",
-    "starts_at": 1794159000,
-    "ends_at": 1794168000,
-    "page": "https://ppv.st/live/laliga/2026-11-08/cel-lev"
-  },
-  {
-    "name": "Villarreal vs Getafe",
-    "poster": "https://static.ppvservices.st/assets/thumb/a3290eb04e936a532928ed7cfffe2234-thumbnail.jpg",
-    "tag": "LaLiga",
-    "category": "Football",
-    "uri": "laliga/2026-11-08/vil-get",
-    "starts_at": 1794159000,
-    "ends_at": 1794168000,
-    "page": "https://ppv.st/live/laliga/2026-11-08/vil-get"
-  },
-  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -280,24 +130,24 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Florida Panthers vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg",
+    "name": "Vegas Golden Knights vs Buffalo Sabres",
+    "poster": "https://static.ppvservices.st/assets/thumb/4360e05c51a1dc7c73ba63b98e18e49f-thumbnail.jpg",
     "tag": "NHL",
     "category": "Ice Hockey",
-    "uri": "nhl/2026-11-08/fla-bos",
-    "starts_at": 1794160800,
-    "ends_at": 1794171600,
-    "page": "https://ppv.st/live/nhl/2026-11-08/fla-bos"
+    "uri": "nhl/2026-11-08/vgk-buf",
+    "starts_at": 1794169800,
+    "ends_at": 1794180600,
+    "page": "https://ppv.st/live/nhl/2026-11-08/vgk-buf"
   },
   {
-    "name": "S\u00e3o Paulo Grand Prix: Race",
-    "poster": "https://static.ppvservices.st/assets/thumb/da0c7c8b1f5b070dcb5ae30c74b9fdfd-thumbnail.jpg",
-    "tag": "Formula 1",
-    "category": "Motorsports",
-    "uri": "f1/2026/brazil/race",
-    "starts_at": 1794157200,
-    "ends_at": 1794168000,
-    "page": "https://ppv.st/live/f1/2026/brazil/race"
+    "name": "Tampa Bay Lightning vs Winnipeg Jets",
+    "poster": "https://static.ppvservices.st/assets/thumb/db50cb8a876bdc43f0bae2740061cd30-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-08/tb-wpg",
+    "starts_at": 1794178800,
+    "ends_at": 1794189600,
+    "page": "https://ppv.st/live/nhl/2026-11-08/tb-wpg"
   },
   {
     "name": "Fox League",
