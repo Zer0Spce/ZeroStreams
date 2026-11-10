@@ -40,6 +40,16 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Mansfield Town vs Chesterfield",
+    "poster": "https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg",
+    "tag": "EFL Trophy",
+    "category": "Football",
+    "uri": "efl-trophy/2026-11-10/mnf-ches",
+    "starts_at": 1794337200,
+    "ends_at": 1794346200,
+    "page": "https://ppv.st/live/efl-trophy/2026-11-10/mnf-ches"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
