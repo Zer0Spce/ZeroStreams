@@ -43,25 +43,52 @@ class ParserTests(unittest.TestCase):
             self.assertTrue(scraper.live_media('https://example.org/master.m3u8', scraper.BASE))
             self.assertEqual(request.call_args.args[0].full_url, 'https://example.org/segment.ts')
 
-    def test_publishes_discovered_hls_without_playback_checks(self):
+    def test_publishes_clean_hls_names_with_status(self):
         url = 'https://cdn.example.org/live.m3u8'
-        stream = {'name': 'Football Match', 'group': 'NFL', 'page': scraper.BASE + 'nfl', 'url': url, 'provider': 'RoxieStreams'}
-        with patch('scraper.select_roxie', return_value=({scraper.BASE: 'ok'}, {url: [stream]}, [], [], [])), \
-             patch('scraper.ppv_catalog', return_value=([], [], {'status':'embed-only'})), \
-             patch('scraper.live_media', side_effect=AssertionError('playback validation must not run')), \
+        entry = {'name': 'Football Match', 'group': 'NFL', 'page': scraper.BASE+'nfl',
+                 'url': url, 'provider': 'RoxieStreams'}
+        with patch('scraper.select_roxie', return_value=({scraper.BASE: 'ok'}, {url: [entry]}, [], [], [])), \
+             patch('scraper.ppv_catalog', return_value=([], [], {'status': 'embed-only'})), \
+             patch('scraper.verify_candidates', return_value={url: {'status': 'reachable', 'checked_at': '2026-11-10T00:00:00Z'}}), \
              patch('scraper.Path.write_text') as writes, \
              patch('scraper.Path.replace') as replace:
             scraper.main()
             self.assertTrue(replace.called)
-            self.assertTrue(any('Unverified' in str(call.args[0]) for call in writes.call_args_list))
-            report_writes = [call.args[0] for call in writes.call_args_list if '"validation_mode"' in str(call.args[0])]
-            self.assertEqual(len(report_writes), 1)
-            self.assertIn('"unverified_urls": 1', report_writes[0])
+            bodies = [str(call.args[0]) for call in writes.call_args_list]
+            playlist = next(body for body in bodies if body.startswith('#EXTM3U'))
+            report = next(body for body in bodies if '"validation_mode"' in body)
+            self.assertIn('x-stream-status="reachable"', playlist)
+            self.assertNotIn(' — Unverified', playlist)
+            self.assertIn('"reachable_urls": 1', report)
+            self.assertIn('"verified_urls": 0', report)
+            self.assertIn('"validation_mode": "lightweight_hls"', report)
 
-    def test_m3u_sanitizes_labels(self):
-        output = scraper.render([{'group':'NFL"\n', 'name':'Game\nInjected', 'page':scraper.BASE, 'url':'https://example.org/live.m3u8'}])
-        self.assertIn(',Game Injected — Unverified\n', output)
+    def test_m3u_clean_labels_and_safe_status(self):
+        entry = {'group': 'NFL"\n', 'name': 'Game\nInjected',
+                 'page': scraper.BASE, 'url': 'https://example.org/live.m3u8',
+                 'stream_status': 'verified'}
+        output = scraper.render([entry])
+        self.assertIn(',Game Injected\n', output)
+        self.assertIn('x-stream-status="verified"', output)
         self.assertTrue(output.startswith('#EXTM3U\n'))
+        entry['stream_status'] = 'malicious" bad="true'
+        self.assertIn('x-stream-status="unverified"', scraper.render([entry]))
+
+    def test_probe_classifies_live_segment_and_blocks_html(self):
+        from io import BytesIO
+        class Stream(BytesIO):
+            pass
+        def response(data):
+            return Stream(data)
+        master = b'#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=1000\nvariant.m3u8\n'
+        media = b'#EXTM3U\n#EXT-X-TARGETDURATION:6\n#EXTINF:6,\nchunk.ts\n'
+        segment = bytes([0x47]) + b'0'*187 + bytes([0x47]) + b'1'*400
+        with patch('scraper.urlopen', side_effect=[response(master), response(media), response(segment)]):
+            self.assertEqual(scraper.inspect_hls('https://example.org/master.m3u8', scraper.BASE), 'verified')
+        with patch('scraper.urlopen', return_value=response(b'<html>error</html>')):
+            self.assertEqual(scraper.inspect_hls('https://example.org/bad.m3u8', scraper.BASE), 'unverified')
+        with patch('scraper.urlopen', side_effect=[response(media), OSError('temporary')]):
+            self.assertEqual(scraper.inspect_hls('https://example.org/live.m3u8', scraper.BASE), 'reachable')
 
 if __name__ == '__main__':
     unittest.main()

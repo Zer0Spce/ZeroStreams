@@ -1,0 +1,22 @@
+name: ZeroStreams Smart Status — Unit Tests
+on:
+  push:
+    branches: [feature/smart-stream-status-20261110]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run scraper, metadata and probe tests
+        run: python -m unittest discover -s tests -v
+      - name: Compile Python sources
+        run: python -m py_compile scraper.py metadata.py
