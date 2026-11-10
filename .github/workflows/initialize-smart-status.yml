@@ -1,0 +1,46 @@
+name: Initialize Smart Stream Status Playlist
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/initialize-smart-status.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+concurrency:
+  group: playlist-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify Smart Stream Status tests
+        run: python -m unittest discover -s tests -v
+      - name: Refresh public playlist with clean names and metadata
+        run: python scraper.py
+      - name: Record diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: initial-smart-status-diagnostics
+          path: |
+            status.json
+            ppv-catalog.json
+          retention-days: 7
+      - name: Publish generated playlist and status
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add playlist.m3u status.json ppv-catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Initialize verified/reachable/unverified M3U status metadata'
+            git push origin HEAD:main
+          fi
