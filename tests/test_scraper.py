@@ -64,13 +64,13 @@ class ParserTests(unittest.TestCase):
             self.assertIn('"validation_mode": "lightweight_hls"', report)
 
     def test_m3u_clean_labels_and_safe_status(self):
-        entry = {'group': 'NFL"\\n', 'name': 'Game\\nInjected',
+        entry = {'group': 'NFL"\n', 'name': 'Game\nInjected',
                  'page': scraper.BASE, 'url': 'https://example.org/live.m3u8',
                  'stream_status': 'verified'}
         output = scraper.render([entry])
-        self.assertIn(',Game Injected\\n', output)
+        self.assertIn(',Game Injected\n', output)
         self.assertIn('x-stream-status="verified"', output)
-        self.assertTrue(output.startswith('#EXTM3U\\n'))
+        self.assertTrue(output.startswith('#EXTM3U\n'))
         entry['stream_status'] = 'malicious" bad="true'
         self.assertIn('x-stream-status="unverified"', scraper.render([entry]))
 
@@ -80,8 +80,8 @@ class ParserTests(unittest.TestCase):
             pass
         def response(data):
             return Stream(data)
-        master = b'#EXTM3U\\n#EXT-X-STREAM-INF:BANDWIDTH=1000\\nvariant.m3u8\\n'
-        media = b'#EXTM3U\\n#EXT-X-TARGETDURATION:6\\n#EXTINF:6,\\nchunk.ts\\n'
+        master = b'#EXTM3U\n#EXT-X-STREAM-INF:BANDWIDTH=1000\nvariant.m3u8\n'
+        media = b'#EXTM3U\n#EXT-X-TARGETDURATION:6\n#EXTINF:6,\nchunk.ts\n'
         segment = bytes([0x47]) + b'0'*187 + bytes([0x47]) + b'1'*400
         with patch('scraper.urlopen', side_effect=[response(master), response(media), response(segment)]):
             self.assertEqual(scraper.inspect_hls('https://example.org/master.m3u8', scraper.BASE), 'verified')
