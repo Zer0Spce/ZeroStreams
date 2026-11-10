@@ -10,6 +10,16 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "Buffalo Bills vs Minnesota Vikings",
+    "poster": "https://static.ppvservices.st/assets/thumb/a9c8ce517c4f1596d7a6fb00c4bc665a-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-09/buf-min",
+    "starts_at": 1794273300,
+    "ends_at": 1794287700,
+    "page": "https://ppv.st/live/nfl/2026-11-09/buf-min"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -110,6 +120,36 @@
     "page": "https://ppv.st/live/cbb/2026-11-09/oak-ala"
   },
   {
+    "name": "Indiana Pacers vs Dallas Mavericks",
+    "poster": "https://static.ppvservices.st/assets/thumb/95e4364ed9a080bda4afaa21d25b7959-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-09/ind-dal",
+    "starts_at": 1794272400,
+    "ends_at": 1794283200,
+    "page": "https://ppv.st/live/nba/2026-11-09/ind-dal"
+  },
+  {
+    "name": "Denver Nuggets vs Houston Rockets",
+    "poster": "https://static.ppvservices.st/assets/thumb/4d2ef6f816911f5fde1b3e5b51400d21-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-09/den-hou",
+    "starts_at": 1794274200,
+    "ends_at": 1794285000,
+    "page": "https://ppv.st/live/nba/2026-11-09/den-hou"
+  },
+  {
+    "name": "San Antonio Spurs vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/7129d1f77f25fbabbeaffcd8059110ec-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-09/sa-phx",
+    "starts_at": 1794276000,
+    "ends_at": 1794286800,
+    "page": "https://ppv.st/live/nba/2026-11-09/sa-phx"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -148,6 +188,16 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "New York Rangers vs Edmonton Oilers",
+    "poster": "https://static.ppvservices.st/assets/thumb/d6026f611b00844ddc996832fb4c7bdb-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-09/nyr-edm",
+    "starts_at": 1794272400,
+    "ends_at": 1794283200,
+    "page": "https://ppv.st/live/nhl/2026-11-09/nyr-edm"
   },
   {
     "name": "Fox League",
