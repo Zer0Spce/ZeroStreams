@@ -31,23 +31,23 @@ https://admin2.formaturamaxi.com.br/tnt2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nas.m3u8
-#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="NBA | Boston Celtics vs Philadelphia 76ers — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Boston Celtics vs Philadelphia 76ers — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.69f82e9ce08bb5a8" tvg-name="NBA | Boston Celtics vs Philadelphia 76ers — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Boston Celtics vs Philadelphia 76ers — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.5bc0d110bd9e74d5" tvg-name="NBA | Boston Celtics vs Philadelphia 76ers — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Boston Celtics vs Philadelphia 76ers — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.5bc0d110bd9e74d5" tvg-name="NBA | Boston Celtics vs Philadelphia 76ers — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Boston Celtics vs Philadelphia 76ers — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nbc.m3u8
-#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="NBA | Los Angeles Clippers vs Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Los Angeles Clippers vs Phoenix Suns
+#EXTINF:-1 tvg-id="zerostreams.c159187f22261475" tvg-name="NBA | Los Angeles Clippers vs Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Los Angeles Clippers vs Phoenix Suns
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.872b165b84888df4" tvg-name="NBA | Miami Heat vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Miami Heat vs Utah Jazz
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA | Miami Heat vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Miami Heat vs Utah Jazz
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="NBA | Milwaukee Bucks vs New York Knicks" tvg-logo="https://static.ppvservices.st/assets/thumb/386ef259eff22ef79b79d43eb12c6867-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Milwaukee Bucks vs New York Knicks
+https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="NBA | Milwaukee Bucks vs New York Knicks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Milwaukee Bucks vs New York Knicks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba.m3u8
@@ -55,19 +55,19 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="NHL | Colorado Avalanche vs Toronto Maple Leafs" tvg-logo="https://static.ppvservices.st/assets/thumb/9ca611bb94a5f4bcefbc3334666fd128-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | Colorado Avalanche vs Toronto Maple Leafs
+#EXTINF:-1 tvg-id="zerostreams.48b5eac03a70b713" tvg-name="NHL | Colorado Avalanche vs Toronto Maple Leafs" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="unverified",NHL | Colorado Avalanche vs Toronto Maple Leafs
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1ecdd0acc9adbaa" tvg-name="NHL | Detroit Red Wings vs St. Louis Blues" tvg-logo="https://static.ppvservices.st/assets/thumb/2d966d8b22dcf4f45683efbb0d2e7e3e-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | Detroit Red Wings vs St. Louis Blues
+#EXTINF:-1 tvg-id="zerostreams.f1ecdd0acc9adbaa" tvg-name="NHL | Detroit Red Wings vs St. Louis Blues" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | Detroit Red Wings vs St. Louis Blues
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44e771e76305c2fd" tvg-name="NHL | Florida Panthers vs Columbus Blue Jackets" tvg-logo="https://static.ppvservices.st/assets/thumb/bc800dc8910259471d4b69290de3fbbe-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | Florida Panthers vs Columbus Blue Jackets
+#EXTINF:-1 tvg-id="zerostreams.44e771e76305c2fd" tvg-name="NHL | Florida Panthers vs Columbus Blue Jackets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | Florida Panthers vs Columbus Blue Jackets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="NHL | Minnesota Wild vs Montreal Canadiens" tvg-logo="https://static.ppvservices.st/assets/thumb/448f35a8f82738c2bd95330619984bd7-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | Minnesota Wild vs Montreal Canadiens
+#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="NHL | Minnesota Wild vs Montreal Canadiens" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | Minnesota Wild vs Montreal Canadiens
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
@@ -75,11 +75,11 @@ https://admin2.formaturamaxi.com.br/nhl2.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.44d26379923d5cc8" tvg-name="NHL | New Jersey Devils vs Winnipeg Jets" tvg-logo="https://static.ppvservices.st/assets/thumb/7324f00758cb69d77eb3a710a9e97f10-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | New Jersey Devils vs Winnipeg Jets
+#EXTINF:-1 tvg-id="zerostreams.44d26379923d5cc8" tvg-name="NHL | New Jersey Devils vs Winnipeg Jets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="unverified",NHL | New Jersey Devils vs Winnipeg Jets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="NHL | Washington Capitals vs Ottawa Senators" tvg-logo="https://static.ppvservices.st/assets/thumb/f7ebffe764b109f67938fd82b14ee54b-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | Washington Capitals vs Ottawa Senators
+#EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="NHL | Washington Capitals vs Ottawa Senators" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | Washington Capitals vs Ottawa Senators
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl3.m3u8
@@ -91,7 +91,7 @@ https://admin2.formaturamaxi.com.br/wall.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/gill.m3u8
-#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="WWE NXT" tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="WWE" x-stream-status="verified",WWE NXT
+#EXTINF:-1 tvg-id="zerostreams.020b8247511aa5de" tvg-name="WWE NXT" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE" x-stream-status="verified",WWE NXT
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8

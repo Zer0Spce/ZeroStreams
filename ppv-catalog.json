@@ -20,74 +20,14 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Florida Gators vs Florida State Seminoles",
-    "poster": "https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg",
-    "tag": "College Basketball",
+    "name": "South East Melbourne Phoenix vs Illawarra Hawks",
+    "poster": "https://static.ppvservices.st/assets/thumb/91727aafa2a41d8f35b9e908fd0050e7-thumbnail.jpg",
+    "tag": "NBL",
     "category": "Basketball",
-    "uri": "cbb/2026-11-10/fla-fsu",
-    "starts_at": 1794351600,
-    "ends_at": 1794362400,
-    "page": "https://ppv.st/live/cbb/2026-11-10/fla-fsu"
-  },
-  {
-    "name": "Michigan State Spartans vs Duke Blue Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/deb4277d362663843155a3901d20d3c8-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/msu-duke",
-    "starts_at": 1794355200,
-    "ends_at": 1794366000,
-    "page": "https://ppv.st/live/cbb/2026-11-10/msu-duke"
-  },
-  {
-    "name": "Memphis Tigers vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/9c92708568c1b27da1663445f23c3d49-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/mem-van",
-    "starts_at": 1794356100,
-    "ends_at": 1794366900,
-    "page": "https://ppv.st/live/cbb/2026-11-10/mem-van"
-  },
-  {
-    "name": "Milwaukee Bucks vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/386ef259eff22ef79b79d43eb12c6867-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/mil-ny",
-    "starts_at": 1794357000,
-    "ends_at": 1794367800,
-    "page": "https://ppv.st/live/nba/2026-11-10/mil-ny"
-  },
-  {
-    "name": "Boston Celtics vs Philadelphia 76ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-10/bos-phi",
-    "starts_at": 1794358800,
-    "ends_at": 1794369600,
-    "page": "https://ppv.st/live/nba/2026-11-10/bos-phi"
-  },
-  {
-    "name": "Illinois Fighting Illini vs Texas Tech Red Raiders",
-    "poster": "https://static.ppvservices.st/assets/thumb/bf7736447a244a63841bda4c98a0087f-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/ill-ttu",
-    "starts_at": 1794358800,
-    "ends_at": 1794369600,
-    "page": "https://ppv.st/live/cbb/2026-11-10/ill-ttu"
-  },
-  {
-    "name": "Southern Jaguars vs Iowa State Cyclones",
-    "poster": "https://static.ppvservices.st/assets/thumb/e2916a70df7af1db2a8b14c2e40305b8-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-10/sou-isu",
-    "starts_at": 1794358800,
-    "ends_at": 1794369600,
-    "page": "https://ppv.st/live/cbb/2026-11-10/sou-isu"
+    "uri": "nbl/2026-11-11/pnx-hwk",
+    "starts_at": 1794385800,
+    "ends_at": 1794396600,
+    "page": "https://ppv.st/live/nbl/2026-11-11/pnx-hwk"
   },
   {
     "name": "Willow",
@@ -130,66 +70,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "Colorado Avalanche vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/9ca611bb94a5f4bcefbc3334666fd128-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/col-tor",
-    "starts_at": 1794355200,
-    "ends_at": 1794366000,
-    "page": "https://ppv.st/live/nhl/2026-11-10/col-tor"
-  },
-  {
-    "name": "Minnesota Wild vs Montreal Canadiens",
-    "poster": "https://static.ppvservices.st/assets/thumb/448f35a8f82738c2bd95330619984bd7-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/min-mtl",
-    "starts_at": 1794355200,
-    "ends_at": 1794366000,
-    "page": "https://ppv.st/live/nhl/2026-11-10/min-mtl"
-  },
-  {
-    "name": "Washington Capitals vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/f7ebffe764b109f67938fd82b14ee54b-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/wsh-ott",
-    "starts_at": 1794355200,
-    "ends_at": 1794366000,
-    "page": "https://ppv.st/live/nhl/2026-11-10/wsh-ott"
-  },
-  {
-    "name": "New Jersey Devils vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/7324f00758cb69d77eb3a710a9e97f10-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/nj-wpg",
-    "starts_at": 1794355200,
-    "ends_at": 1794366000,
-    "page": "https://ppv.st/live/nhl/2026-11-10/nj-wpg"
-  },
-  {
-    "name": "Florida Panthers vs Columbus Blue Jackets",
-    "poster": "https://static.ppvservices.st/assets/thumb/bc800dc8910259471d4b69290de3fbbe-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/fla-cbj",
-    "starts_at": 1794357000,
-    "ends_at": 1794367800,
-    "page": "https://ppv.st/live/nhl/2026-11-10/fla-cbj"
-  },
-  {
-    "name": "Detroit Red Wings vs St. Louis Blues",
-    "poster": "https://static.ppvservices.st/assets/thumb/2d966d8b22dcf4f45683efbb0d2e7e3e-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-10/det-stl",
-    "starts_at": 1794358800,
-    "ends_at": 1794369600,
-    "page": "https://ppv.st/live/nhl/2026-11-10/det-stl"
-  },
-  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -198,16 +78,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
-  },
-  {
-    "name": "WWE NXT",
-    "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-10",
-    "starts_at": 1794358800,
-    "ends_at": 1794369600,
-    "page": "https://ppv.st/live/wwe/2026-11-10"
   },
   {
     "name": "24/7 South Park",
