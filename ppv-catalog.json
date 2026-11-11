@@ -50,6 +50,46 @@
     "page": "https://ppv.st/live/cbb/2026-11-10/mem-van"
   },
   {
+    "name": "Milwaukee Bucks vs New York Knicks",
+    "poster": "https://static.ppvservices.st/assets/thumb/386ef259eff22ef79b79d43eb12c6867-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-10/mil-ny",
+    "starts_at": 1794357000,
+    "ends_at": 1794367800,
+    "page": "https://ppv.st/live/nba/2026-11-10/mil-ny"
+  },
+  {
+    "name": "Boston Celtics vs Philadelphia 76ers",
+    "poster": "https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-10/bos-phi",
+    "starts_at": 1794358800,
+    "ends_at": 1794369600,
+    "page": "https://ppv.st/live/nba/2026-11-10/bos-phi"
+  },
+  {
+    "name": "Illinois Fighting Illini vs Texas Tech Red Raiders",
+    "poster": "https://static.ppvservices.st/assets/thumb/bf7736447a244a63841bda4c98a0087f-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-10/ill-ttu",
+    "starts_at": 1794358800,
+    "ends_at": 1794369600,
+    "page": "https://ppv.st/live/cbb/2026-11-10/ill-ttu"
+  },
+  {
+    "name": "Southern Jaguars vs Iowa State Cyclones",
+    "poster": "https://static.ppvservices.st/assets/thumb/e2916a70df7af1db2a8b14c2e40305b8-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-10/sou-isu",
+    "starts_at": 1794358800,
+    "ends_at": 1794369600,
+    "page": "https://ppv.st/live/cbb/2026-11-10/sou-isu"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -130,6 +170,26 @@
     "page": "https://ppv.st/live/nhl/2026-11-10/nj-wpg"
   },
   {
+    "name": "Florida Panthers vs Columbus Blue Jackets",
+    "poster": "https://static.ppvservices.st/assets/thumb/bc800dc8910259471d4b69290de3fbbe-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-10/fla-cbj",
+    "starts_at": 1794357000,
+    "ends_at": 1794367800,
+    "page": "https://ppv.st/live/nhl/2026-11-10/fla-cbj"
+  },
+  {
+    "name": "Detroit Red Wings vs St. Louis Blues",
+    "poster": "https://static.ppvservices.st/assets/thumb/2d966d8b22dcf4f45683efbb0d2e7e3e-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-10/det-stl",
+    "starts_at": 1794358800,
+    "ends_at": 1794369600,
+    "page": "https://ppv.st/live/nhl/2026-11-10/det-stl"
+  },
+  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -138,6 +198,16 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "WWE NXT",
+    "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "wwe/2026-11-10",
+    "starts_at": 1794358800,
+    "ends_at": 1794369600,
+    "page": "https://ppv.st/live/wwe/2026-11-10"
   },
   {
     "name": "24/7 South Park",
