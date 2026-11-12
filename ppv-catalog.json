@@ -20,16 +20,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Adelaide 36ers vs Melbourne United",
-    "poster": "https://static.ppvservices.st/assets/thumb/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-12/adl-mel",
-    "starts_at": 1794472200,
-    "ends_at": 1794483000,
-    "page": "https://ppv.st/live/nbl/2026-11-12/adl-mel"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -50,6 +40,76 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Congo DR vs Sierra Leone",
+    "poster": "https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-12/cod-sle",
+    "starts_at": 1794499200,
+    "ends_at": 1794508200,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/cod-sle"
+  },
+  {
+    "name": "Equatorial Guinea vs Zimbabwe",
+    "poster": "https://static.ppvservices.st/assets/thumb/4aeea3c59e811ae89712a1d3395ccfb5-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-12/eqg-zim",
+    "starts_at": 1794499200,
+    "ends_at": 1794508200,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/eqg-zim"
+  },
+  {
+    "name": "Armenia vs Cyprus",
+    "poster": "https://static.ppvservices.st/assets/thumb/0652868a024912ae66659423fb284315-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-12/arm-cyp",
+    "starts_at": 1794502800,
+    "ends_at": 1794511800,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-12/arm-cyp"
+  },
+  {
+    "name": "T\u00fcrkiye vs Belgium",
+    "poster": "https://static.ppvservices.st/assets/thumb/fc928917bb9b2e9219feb0f8a58b8316-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-12/tur-bel",
+    "starts_at": 1794502800,
+    "ends_at": 1794511800,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-12/tur-bel"
+  },
+  {
+    "name": "Guinea vs Eritrea",
+    "poster": "https://static.ppvservices.st/assets/thumb/32cef62e1ba1c4bd261fe7f3df507e9c-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-12/gui-eri",
+    "starts_at": 1794502800,
+    "ends_at": 1794511800,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-12/gui-eri"
+  },
+  {
+    "name": "Lithuania vs Suriname",
+    "poster": "https://static.ppvservices.st/assets/thumb/c679f495659130793f25459938347e19-thumbnail.jpg",
+    "tag": "Men's International Friendly",
+    "category": "Football",
+    "uri": "mens-international-friendly/2026-11-12/ltu-sur",
+    "starts_at": 1794502800,
+    "ends_at": 1794511800,
+    "page": "https://ppv.st/live/mens-international-friendly/2026-11-12/ltu-sur"
+  },
+  {
+    "name": "Malta vs Eswatini",
+    "poster": "https://static.ppvservices.st/assets/thumb/73bb5c2415d9d35b998ac62575e991dc-thumbnail.jpg",
+    "tag": "Men's International Friendly",
+    "category": "Football",
+    "uri": "mens-international-friendly/2026-11-12/mlt-swz",
+    "starts_at": 1794504600,
+    "ends_at": 1794513600,
+    "page": "https://ppv.st/live/mens-international-friendly/2026-11-12/mlt-swz"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -68,6 +128,16 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Carolina Hurricanes vs Seattle Kraken",
+    "poster": "https://static.ppvservices.st/assets/thumb/50ce9121d3d35225d9dcfd5360146918-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-12/car-sea",
+    "starts_at": 1794502800,
+    "ends_at": 1794513600,
+    "page": "https://ppv.st/live/nhl/2026-11-12/car-sea"
   },
   {
     "name": "Fox League",
