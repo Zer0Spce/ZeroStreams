@@ -70,6 +70,66 @@
     "page": "https://ppv.st/live/cbb/2026-11-11/marq-mich"
   },
   {
+    "name": "San Antonio Spurs vs Chicago Bulls",
+    "poster": "https://static.ppvservices.st/assets/thumb/73ab3178b6e1368b38e9e898762df0df-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-11/sa-chi",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/nba/2026-11-11/sa-chi"
+  },
+  {
+    "name": "Denver Nuggets vs Memphis Grizzlies",
+    "poster": "https://static.ppvservices.st/assets/thumb/fabf682e80cfc3f56fd693335b9c9d48-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-11/den-mem",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/nba/2026-11-11/den-mem"
+  },
+  {
+    "name": "Los Angeles Lakers vs Milwaukee Bucks",
+    "poster": "https://static.ppvservices.st/assets/thumb/0bd2a2c5b713df9293d1b789235588e9-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-11/lal-mil",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/nba/2026-11-11/lal-mil"
+  },
+  {
+    "name": "Brooklyn Nets vs New Orleans Pelicans",
+    "poster": "https://static.ppvservices.st/assets/thumb/edaf8013c716bbec08365614bb6fe1a1-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-11/bkn-no",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/nba/2026-11-11/bkn-no"
+  },
+  {
+    "name": "Jacksonville State Gamecocks vs Houston Cougars",
+    "poster": "https://static.ppvservices.st/assets/thumb/b0ad77831c8db4c4a5af44f60086e398-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-11/jxst-hou",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/cbb/2026-11-11/jxst-hou"
+  },
+  {
+    "name": "Robert Morris Colonials vs Arkansas Razorbacks",
+    "poster": "https://static.ppvservices.st/assets/thumb/1873e2599a852e103c27226f95b1694e-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-11/rmu-ark",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/cbb/2026-11-11/rmu-ark"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -120,6 +180,16 @@
     "page": "https://ppv.st/live/nhl/2026-11-11/tb-buf"
   },
   {
+    "name": "New York Rangers vs Calgary Flames",
+    "poster": "https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-11/nyr-cgy",
+    "starts_at": 1794443400,
+    "ends_at": 1794454200,
+    "page": "https://ppv.st/live/nhl/2026-11-11/nyr-cgy"
+  },
+  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -128,6 +198,16 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "AEW Wednesday Night Dynamite",
+    "poster": "https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "aew/2026-11-11",
+    "starts_at": 1794445200,
+    "ends_at": 1794456000,
+    "page": "https://ppv.st/live/aew/2026-11-11"
   },
   {
     "name": "24/7 South Park",

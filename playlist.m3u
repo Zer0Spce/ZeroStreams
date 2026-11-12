@@ -7,18 +7,18 @@ https://admin2.formaturamaxi.com.br/f1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="Live | AEW" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="unverified",Live | AEW
+#EXTINF:-1 tvg-id="zerostreams.9f8fe02a311ada66" tvg-name="Live | AEW" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | AEW
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/aew
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/aew.m3u8
-#EXTINF:-1 tvg-id="zerostreams.caa4c70701aea027" tvg-name="Live | Buffalo vs Ball State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | Buffalo vs Ball State
+#EXTINF:-1 tvg-id="zerostreams.d5adb935a1ff6bde" tvg-name="Live | Buffalo vs Ball State" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | Buffalo vs Ball State
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f79a6a9f6b94d023" tvg-name="Live | Massachusetts vs Toledo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | Massachusetts vs Toledo
+https://tedesco.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-id="zerostreams.0f1bf8736a9840c4" tvg-name="Live | Massachusetts vs Toledo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | Massachusetts vs Toledo
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/ncaa3.m3u8
+https://tedesco.formaturamaxi.com.br/ncaa3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f25a606eff894650" tvg-name="Live | Sacramento State vs Central Michigan" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Live" x-stream-status="verified",Live | Sacramento State vs Central Michigan
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/ncaa-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -39,7 +39,7 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba3.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="NBA | Brooklyn Nets vs New Orleans Pelicans" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Brooklyn Nets vs New Orleans Pelicans
+#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="NBA | Brooklyn Nets vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/edaf8013c716bbec08365614bb6fe1a1-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Brooklyn Nets vs New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba7.m3u8
@@ -47,11 +47,11 @@ https://admin2.formaturamaxi.com.br/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="NBA | Denver Nuggets vs Memphis Grizzlies" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Denver Nuggets vs Memphis Grizzlies
+#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="NBA | Denver Nuggets vs Memphis Grizzlies" tvg-logo="https://static.ppvservices.st/assets/thumb/fabf682e80cfc3f56fd693335b9c9d48-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Denver Nuggets vs Memphis Grizzlies
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA | Los Angeles Lakers vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Los Angeles Lakers vs Milwaukee Bucks
+#EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA | Los Angeles Lakers vs Milwaukee Bucks" tvg-logo="https://static.ppvservices.st/assets/thumb/0bd2a2c5b713df9293d1b789235588e9-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Los Angeles Lakers vs Milwaukee Bucks
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
@@ -63,7 +63,7 @@ https://admin2.formaturamaxi.com.br/nba10.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA | San Antonio Spurs vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | San Antonio Spurs vs Chicago Bulls
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA | San Antonio Spurs vs Chicago Bulls" tvg-logo="https://static.ppvservices.st/assets/thumb/73ab3178b6e1368b38e9e898762df0df-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | San Antonio Spurs vs Chicago Bulls
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
@@ -75,10 +75,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nhl5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1eecf4447072846c" tvg-name="NHL | New York Rangers vs Calgary Flames" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | New York Rangers vs Calgary Flames
+#EXTINF:-1 tvg-id="zerostreams.d9220dbcbc583b13" tvg-name="NHL | New York Rangers vs Calgary Flames" tvg-logo="https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg" group-title="NHL" x-stream-status="verified",NHL | New York Rangers vs Calgary Flames
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nhl2.m3u8
+https://tedesco.formaturamaxi.com.br/nhl2.m3u8
 #EXTINF:-1 tvg-id="zerostreams.2dacec2d73f182aa" tvg-name="NHL | Philadelphia Flyers vs Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nhl.png" group-title="NHL" x-stream-status="verified",NHL | Philadelphia Flyers vs Edmonton Oilers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
