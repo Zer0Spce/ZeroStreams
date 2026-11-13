@@ -20,26 +20,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "New Zealand Breakers vs Brisbane Bullets",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ceecc6bac4435e7e691f5dcd288cca5-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-13/nzl-bri",
-    "starts_at": 1794551400,
-    "ends_at": 1794562200,
-    "page": "https://ppv.st/live/nbl/2026-11-13/nzl-bri"
-  },
-  {
-    "name": "Cairns Taipans vs Sydney Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-13/cns-syd",
-    "starts_at": 1794558600,
-    "ends_at": 1794569400,
-    "page": "https://ppv.st/live/nbl/2026-11-13/cns-syd"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -58,6 +38,76 @@
     "starts_at": -3600,
     "ends_at": 10800,
     "page": "https://ppv.st/live/247-fox-cricket"
+  },
+  {
+    "name": "Burkina Faso vs Mauritania",
+    "poster": "https://static.ppvservices.st/assets/thumb/48562e85755af4ed291f8cc4ec8631ad-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/bka-mtn",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/bka-mtn"
+  },
+  {
+    "name": "Cape Verde vs Liberia",
+    "poster": "https://static.ppvservices.st/assets/thumb/701ef7f618c4eba0a3be24574090224d-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/cpv-lbr",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/cpv-lbr"
+  },
+  {
+    "name": "Gabon vs Lesotho",
+    "poster": "https://static.ppvservices.st/assets/thumb/9fc18b658e40d40e1671b6609cfbc056-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/gab-les",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/gab-les"
+  },
+  {
+    "name": "Nigeria vs Tanzania",
+    "poster": "https://static.ppvservices.st/assets/thumb/6e4fc3907dc3217f2edd806681fc1f5b-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/nga-tan",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/nga-tan"
+  },
+  {
+    "name": "South Africa vs Kenya",
+    "poster": "https://static.ppvservices.st/assets/thumb/6a2f8092362e8052db9bebaee577e318-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/rsa-ken",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/rsa-ken"
+  },
+  {
+    "name": "Tunisia vs Libya",
+    "poster": "https://static.ppvservices.st/assets/thumb/df2379ff4dc69b30a828a3dded26e929-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-13/tun-lby",
+    "starts_at": 1794585600,
+    "ends_at": 1794594600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/tun-lby"
+  },
+  {
+    "name": "Moldova vs Kazakhstan",
+    "poster": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-13/mda-kaz",
+    "starts_at": 1794589200,
+    "ends_at": 1794598200,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz"
   },
   {
     "name": "Sky Sports Golf",
