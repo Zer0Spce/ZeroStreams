@@ -20,24 +20,24 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Toronto Raptors vs Philadelphia 76ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/d3cd8bf6f050a18b29084be0f2bee11a-thumbnail.jpg",
-    "tag": "NBA",
+    "name": "New Zealand Breakers vs Brisbane Bullets",
+    "poster": "https://static.ppvservices.st/assets/thumb/4ceecc6bac4435e7e691f5dcd288cca5-thumbnail.jpg",
+    "tag": "NBL",
     "category": "Basketball",
-    "uri": "nba/2026-11-12/tor-phi",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nba/2026-11-12/tor-phi"
+    "uri": "nbl/2026-11-13/nzl-bri",
+    "starts_at": 1794551400,
+    "ends_at": 1794562200,
+    "page": "https://ppv.st/live/nbl/2026-11-13/nzl-bri"
   },
   {
-    "name": "Detroit Pistons vs Washington Wizards",
-    "poster": "https://static.ppvservices.st/assets/thumb/f3b098cce9e6f6e35604282b79145019-thumbnail.jpg",
-    "tag": "NBA",
+    "name": "Cairns Taipans vs Sydney Kings",
+    "poster": "https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg",
+    "tag": "NBL",
     "category": "Basketball",
-    "uri": "nba/2026-11-12/det-wsh",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nba/2026-11-12/det-wsh"
+    "uri": "nbl/2026-11-13/cns-syd",
+    "starts_at": 1794558600,
+    "ends_at": 1794569400,
+    "page": "https://ppv.st/live/nbl/2026-11-13/cns-syd"
   },
   {
     "name": "Willow",
@@ -78,66 +78,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Montreal Canadiens vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/7a62f631097614e5a654cd1e02e34c51-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/mtl-bos",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nhl/2026-11-12/mtl-bos"
-  },
-  {
-    "name": "Minnesota Wild vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/67efcb14354f2cc44ec48b7e0af230c4-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/min-tor",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nhl/2026-11-12/min-tor"
-  },
-  {
-    "name": "Colorado Avalanche vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/a4feb46d69449fdf6aeb5e1870b95171-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/col-ott",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nhl/2026-11-12/col-ott"
-  },
-  {
-    "name": "Washington Capitals vs New Jersey Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/4d43a26192404a4110aa811297600722-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/wsh-nj",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nhl/2026-11-12/wsh-nj"
-  },
-  {
-    "name": "Tampa Bay Lightning vs Columbus Blue Jackets",
-    "poster": "https://static.ppvservices.st/assets/thumb/dd6b418c22fdc18ddf3bee927ab968ca-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/tb-cbj",
-    "starts_at": 1794528000,
-    "ends_at": 1794538800,
-    "page": "https://ppv.st/live/nhl/2026-11-12/tb-cbj"
-  },
-  {
-    "name": "Detroit Red Wings vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/a15502978ed3624eedd0f342a7ca9cc0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-12/det-fla",
-    "starts_at": 1794529800,
-    "ends_at": 1794540600,
-    "page": "https://ppv.st/live/nhl/2026-11-12/det-fla"
   },
   {
     "name": "Fox League",
