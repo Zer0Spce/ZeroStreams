@@ -20,6 +20,106 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "North Alabama Lions vs Miami Hurricanes",
+    "poster": "https://static.ppvservices.st/assets/thumb/f918c9325d344547f8fd996d172110f4-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/una-mia",
+    "starts_at": 1794607200,
+    "ends_at": 1794618000,
+    "page": "https://ppv.st/live/cbb/2026-11-13/una-mia"
+  },
+  {
+    "name": "New York Knicks vs Indiana Pacers",
+    "poster": "https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-13/ny-ind",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/nba/2026-11-13/ny-ind"
+  },
+  {
+    "name": "Milwaukee Bucks vs Orlando Magic",
+    "poster": "https://static.ppvservices.st/assets/thumb/5dd8dde250fc2624888e63ed6e3b3967-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-13/mil-orl",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/nba/2026-11-13/mil-orl"
+  },
+  {
+    "name": "Merrimack Warriors vs Florida Gators",
+    "poster": "https://static.ppvservices.st/assets/thumb/b6ea0aa12a853d93759aaaba039ab223-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/mrmk-fla",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/mrmk-fla"
+  },
+  {
+    "name": "Sam Houston Bearkats vs Illinois Fighting Illini",
+    "poster": "https://static.ppvservices.st/assets/thumb/3bb866dc81ffd4773a4cf2ddabaf5a2c-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/shsu-ill",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/shsu-ill"
+  },
+  {
+    "name": "Northern Iowa Panthers vs Michigan State Spartans",
+    "poster": "https://static.ppvservices.st/assets/thumb/5c7f41581bf078561ba7928dca18b958-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/uni-msu",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/uni-msu"
+  },
+  {
+    "name": "Tennessee State Tigers vs Tennessee Volunteers",
+    "poster": "https://static.ppvservices.st/assets/thumb/622ba988d9880169e078286bbdfb9c47-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/tnst-tenn",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/tnst-tenn"
+  },
+  {
+    "name": "Prairie View A&M Panthers vs Vanderbilt Commodores",
+    "poster": "https://static.ppvservices.st/assets/thumb/de228c16f44d3c84a482e7e441c6eb51-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/pv-van",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/pv-van"
+  },
+  {
+    "name": "Northern Arizona Lumberjacks vs Kentucky Wildcats",
+    "poster": "https://static.ppvservices.st/assets/thumb/6312c9aa528c86909268ba1cfc2b1cbd-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/nau-uk",
+    "starts_at": 1794614400,
+    "ends_at": 1794625200,
+    "page": "https://ppv.st/live/cbb/2026-11-13/nau-uk"
+  },
+  {
+    "name": "Ohio State Buckeyes vs UConn Huskies",
+    "poster": "https://static.ppvservices.st/assets/thumb/399d5aa452131e87098ca98f0b0034c5-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-13/osu-conn",
+    "starts_at": 1794616200,
+    "ends_at": 1794627000,
+    "page": "https://ppv.st/live/cbb/2026-11-13/osu-conn"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -38,76 +138,6 @@
     "starts_at": -3600,
     "ends_at": 10800,
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Burkina Faso vs Mauritania",
-    "poster": "https://static.ppvservices.st/assets/thumb/48562e85755af4ed291f8cc4ec8631ad-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/bka-mtn",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/bka-mtn"
-  },
-  {
-    "name": "Cape Verde vs Liberia",
-    "poster": "https://static.ppvservices.st/assets/thumb/701ef7f618c4eba0a3be24574090224d-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/cpv-lbr",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/cpv-lbr"
-  },
-  {
-    "name": "Gabon vs Lesotho",
-    "poster": "https://static.ppvservices.st/assets/thumb/9fc18b658e40d40e1671b6609cfbc056-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/gab-les",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/gab-les"
-  },
-  {
-    "name": "Nigeria vs Tanzania",
-    "poster": "https://static.ppvservices.st/assets/thumb/6e4fc3907dc3217f2edd806681fc1f5b-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/nga-tan",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/nga-tan"
-  },
-  {
-    "name": "South Africa vs Kenya",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a2f8092362e8052db9bebaee577e318-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/rsa-ken",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/rsa-ken"
-  },
-  {
-    "name": "Tunisia vs Libya",
-    "poster": "https://static.ppvservices.st/assets/thumb/df2379ff4dc69b30a828a3dded26e929-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-13/tun-lby",
-    "starts_at": 1794585600,
-    "ends_at": 1794594600,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-13/tun-lby"
-  },
-  {
-    "name": "Moldova vs Kazakhstan",
-    "poster": "https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg",
-    "tag": "UEFA Nations League",
-    "category": "Football",
-    "uri": "uefa-nations-league/2026-11-13/mda-kaz",
-    "starts_at": 1794589200,
-    "ends_at": 1794598200,
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-13/mda-kaz"
   },
   {
     "name": "Sky Sports Golf",
