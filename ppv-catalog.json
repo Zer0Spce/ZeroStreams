@@ -10,6 +10,76 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "Tennessee Volunteers vs Texas A&M Aggies",
+    "poster": "https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/tenn-tam",
+    "starts_at": 1794686400,
+    "ends_at": 1794700800,
+    "page": "https://ppv.st/live/cfb/2026-11-14/tenn-tam"
+  },
+  {
+    "name": "Missouri Tigers vs Georgia Bulldogs",
+    "poster": "https://static.ppvservices.st/assets/thumb/873859d775641dd9e910e5ef107c5a0e-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/miz-uga",
+    "starts_at": 1794688200,
+    "ends_at": 1794702600,
+    "page": "https://ppv.st/live/cfb/2026-11-14/miz-uga"
+  },
+  {
+    "name": "USC Trojans vs Indiana Hoosiers",
+    "poster": "https://static.ppvservices.st/assets/thumb/345fe3aa272ce68b3f499c982172ee94-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/usc-iu",
+    "starts_at": 1794688200,
+    "ends_at": 1794702600,
+    "page": "https://ppv.st/live/cfb/2026-11-14/usc-iu"
+  },
+  {
+    "name": "Boston College Eagles vs Notre Dame Fighting Irish",
+    "poster": "https://static.ppvservices.st/assets/thumb/df9ea491f44fef3288b8d43fa114f2ea-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/bc-nd",
+    "starts_at": 1794688200,
+    "ends_at": 1794702600,
+    "page": "https://ppv.st/live/cfb/2026-11-14/bc-nd"
+  },
+  {
+    "name": "Michigan Wolverines vs Oregon Ducks",
+    "poster": "https://static.ppvservices.st/assets/thumb/6b3a214ea4760c197a40495d6a209f63-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/mich-ore",
+    "starts_at": 1794688200,
+    "ends_at": 1794702600,
+    "page": "https://ppv.st/live/cfb/2026-11-14/mich-ore"
+  },
+  {
+    "name": "Oregon State Beavers vs Boise State Broncos",
+    "poster": "https://static.ppvservices.st/assets/thumb/7725e6546344211cf8aec75a7e6f8e35-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/orst-bois",
+    "starts_at": 1794697200,
+    "ends_at": 1794711600,
+    "page": "https://ppv.st/live/cfb/2026-11-14/orst-bois"
+  },
+  {
+    "name": "Florida Gators vs Kentucky Wildcats",
+    "poster": "https://static.ppvservices.st/assets/thumb/9d820641b0a101098ae1af471765bbaf-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-14/fla-uk",
+    "starts_at": 1794698100,
+    "ends_at": 1794712500,
+    "page": "https://ppv.st/live/cfb/2026-11-14/fla-uk"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -18,6 +88,26 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Riley vs Coupe",
+    "poster": "https://static.ppvservices.st/assets/thumb/0b1ba88090738bc4a0ef1c51ab2a6fc8-thumbnail.jpg",
+    "tag": "Boxing",
+    "category": "Combat Sports",
+    "uri": "riley-vs-coupe-32223",
+    "starts_at": 1794682800,
+    "ends_at": 1794700800,
+    "page": "https://ppv.st/live/riley-vs-coupe-32223"
+  },
+  {
+    "name": "Polymarket UFC 334: Gane vs Hokit",
+    "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "polymarket-ufc-334-gane-vs-hokit-32218",
+    "starts_at": 1794693600,
+    "ends_at": 1794722400,
+    "page": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218"
   },
   {
     "name": "Willow",
@@ -40,54 +130,24 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Kosovo vs Israel",
-    "poster": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg",
-    "tag": "UEFA Nations League",
+    "name": "Haiti vs United States",
+    "poster": "https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg",
+    "tag": "Concacaf Nations League",
     "category": "Football",
-    "uri": "uefa-nations-league/2026-11-14/kos-isr",
-    "starts_at": 1794664800,
-    "ends_at": 1794673800,
-    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/kos-isr"
+    "uri": "concacaf-nations-league/2026-11-14/hai-usa",
+    "starts_at": 1794691800,
+    "ends_at": 1794700800,
+    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-14/hai-usa"
   },
   {
-    "name": "Shrewsbury Town vs Oldham Athletic",
-    "poster": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
-    "tag": "EFL League Two",
+    "name": "Quer\u00e9taro vs Monterrey",
+    "poster": "https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg",
+    "tag": "Liga MX",
     "category": "Football",
-    "uri": "efl-league-two/2026-11-14/shr-old",
-    "starts_at": 1794668400,
-    "ends_at": 1794677400,
-    "page": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old"
-  },
-  {
-    "name": "Rochdale vs York City",
-    "poster": "https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg",
-    "tag": "EFL League Two",
-    "category": "Football",
-    "uri": "efl-league-two/2026-11-14/rch-york",
-    "starts_at": 1794668400,
-    "ends_at": 1794677400,
-    "page": "https://ppv.st/live/efl-league-two/2026-11-14/rch-york"
-  },
-  {
-    "name": "Sheffield Wednesday vs Plymouth Argyle",
-    "poster": "https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg",
-    "tag": "EFL League One",
-    "category": "Football",
-    "uri": "efl-league-one/2026-11-14/shw-ply",
-    "starts_at": 1794668400,
-    "ends_at": 1794677400,
-    "page": "https://ppv.st/live/efl-league-one/2026-11-14/shw-ply"
-  },
-  {
-    "name": "Uganda vs Botswana",
-    "poster": "https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg",
-    "tag": "AFCON Qualifying",
-    "category": "Football",
-    "uri": "afcon-qualifying/2026-11-14/uga-bot",
-    "starts_at": 1794672000,
-    "ends_at": 1794681000,
-    "page": "https://ppv.st/live/afcon-qualifying/2026-11-14/uga-bot"
+    "uri": "liga-mx/2026-11-14/qro-mty",
+    "starts_at": 1794697200,
+    "ends_at": 1794706200,
+    "page": "https://ppv.st/live/liga-mx/2026-11-14/qro-mty"
   },
   {
     "name": "Sky Sports Golf",
