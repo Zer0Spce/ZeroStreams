@@ -40,6 +40,56 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Kosovo vs Israel",
+    "poster": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-14/kos-isr",
+    "starts_at": 1794664800,
+    "ends_at": 1794673800,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-14/kos-isr"
+  },
+  {
+    "name": "Shrewsbury Town vs Oldham Athletic",
+    "poster": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
+    "tag": "EFL League Two",
+    "category": "Football",
+    "uri": "efl-league-two/2026-11-14/shr-old",
+    "starts_at": 1794668400,
+    "ends_at": 1794677400,
+    "page": "https://ppv.st/live/efl-league-two/2026-11-14/shr-old"
+  },
+  {
+    "name": "Rochdale vs York City",
+    "poster": "https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg",
+    "tag": "EFL League Two",
+    "category": "Football",
+    "uri": "efl-league-two/2026-11-14/rch-york",
+    "starts_at": 1794668400,
+    "ends_at": 1794677400,
+    "page": "https://ppv.st/live/efl-league-two/2026-11-14/rch-york"
+  },
+  {
+    "name": "Sheffield Wednesday vs Plymouth Argyle",
+    "poster": "https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg",
+    "tag": "EFL League One",
+    "category": "Football",
+    "uri": "efl-league-one/2026-11-14/shw-ply",
+    "starts_at": 1794668400,
+    "ends_at": 1794677400,
+    "page": "https://ppv.st/live/efl-league-one/2026-11-14/shw-ply"
+  },
+  {
+    "name": "Uganda vs Botswana",
+    "poster": "https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-14/uga-bot",
+    "starts_at": 1794672000,
+    "ends_at": 1794681000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-14/uga-bot"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
