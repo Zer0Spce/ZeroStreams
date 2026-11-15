@@ -10,56 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Texas Longhorns vs LSU Tigers",
-    "poster": "https://static.ppvservices.st/assets/thumb/1044926db70a6b6e8d1cb0b31534e1ea-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/tex-lsu",
-    "starts_at": 1794702600,
-    "ends_at": 1794717000,
-    "page": "https://ppv.st/live/cfb/2026-11-14/tex-lsu"
-  },
-  {
-    "name": "Purdue Boilermakers vs Iowa Hawkeyes",
-    "poster": "https://static.ppvservices.st/assets/thumb/3c7ef6ac58a3963238ae719f872a90d2-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/pur-iowa",
-    "starts_at": 1794702600,
-    "ends_at": 1794717000,
-    "page": "https://ppv.st/live/cfb/2026-11-14/pur-iowa"
-  },
-  {
-    "name": "South Carolina Gamecocks vs Arkansas Razorbacks",
-    "poster": "https://static.ppvservices.st/assets/thumb/b9ae17d786b7f3d46a432635edf4918f-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/sc-ark",
-    "starts_at": 1794703500,
-    "ends_at": 1794717900,
-    "page": "https://ppv.st/live/cfb/2026-11-14/sc-ark"
-  },
-  {
-    "name": "Texas Tech Red Raiders vs Oklahoma State Cowboys",
-    "poster": "https://static.ppvservices.st/assets/thumb/a69838aad1a5517d09011d90d51818f0-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/ttu-okst",
-    "starts_at": 1794709800,
-    "ends_at": 1794724200,
-    "page": "https://ppv.st/live/cfb/2026-11-14/ttu-okst"
-  },
-  {
-    "name": "Utah Utes vs Arizona Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-14/utah-ariz",
-    "starts_at": 1794713400,
-    "ends_at": 1794727800,
-    "page": "https://ppv.st/live/cfb/2026-11-14/utah-ariz"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -68,36 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Sydney Kings vs New Zealand Breakers",
-    "poster": "https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-15/syd-nzl",
-    "starts_at": 1794715200,
-    "ends_at": 1794726000,
-    "page": "https://ppv.st/live/nbl/2026-11-15/syd-nzl"
-  },
-  {
-    "name": "Polymarket UFC 334: Gane vs Hokit",
-    "poster": "https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg",
-    "tag": "MMA",
-    "category": "Combat Sports",
-    "uri": "polymarket-ufc-334-gane-vs-hokit-32218",
-    "starts_at": 1794693600,
-    "ends_at": 1794722400,
-    "page": "https://ppv.st/live/polymarket-ufc-334-gane-vs-hokit-32218"
-  },
-  {
-    "name": "Pacheco vs Fulghum",
-    "poster": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg",
-    "tag": "Boxing",
-    "category": "Combat Sports",
-    "uri": "pacheco-vs-fulghum-32224",
-    "starts_at": 1794704400,
-    "ends_at": 1794722400,
-    "page": "https://ppv.st/live/pacheco-vs-fulghum-32224"
   },
   {
     "name": "Willow",
@@ -120,6 +40,36 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Grand Slam of Darts | Day 2, Session 1",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-2-session-1-32251",
+    "starts_at": 1794747600,
+    "ends_at": 1794765600,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-2-session-1-32251"
+  },
+  {
+    "name": "Cyprus vs Montenegro",
+    "poster": "https://static.ppvservices.st/assets/thumb/558f9661258cf10b307d13df0aba28e6-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-15/cyp-mne",
+    "starts_at": 1794751200,
+    "ends_at": 1794760200,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-15/cyp-mne"
+  },
+  {
+    "name": "Latvia vs Armenia",
+    "poster": "https://static.ppvservices.st/assets/thumb/f8a5249a7668c97766cb9e952ce9b27b-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-15/lva-arm",
+    "starts_at": 1794751200,
+    "ends_at": 1794760200,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-15/lva-arm"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -140,36 +90,6 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
-    "name": "San Jose Sharks vs Utah Mammoth",
-    "poster": "https://static.ppvservices.st/assets/thumb/3436765ccf19eba1de1cca9f6d838ad0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-14/sj-uta",
-    "starts_at": 1794708000,
-    "ends_at": 1794718800,
-    "page": "https://ppv.st/live/nhl/2026-11-14/sj-uta"
-  },
-  {
-    "name": "New York Islanders vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d8f4a5f27a6b251cc07d397cdc22c9b4-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-14/nyi-ana",
-    "starts_at": 1794711600,
-    "ends_at": 1794722400,
-    "page": "https://ppv.st/live/nhl/2026-11-14/nyi-ana"
-  },
-  {
-    "name": "Calgary Flames vs Los Angeles Kings",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ecfe4fc48b600da3583b52a40250a31-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-14/cgy-la",
-    "starts_at": 1794711600,
-    "ends_at": 1794722400,
-    "page": "https://ppv.st/live/nhl/2026-11-14/cgy-la"
-  },
-  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -178,16 +98,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
-  },
-  {
-    "name": "AEW Full Gear",
-    "poster": "https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "aew-full-gear-32225",
-    "starts_at": 1794700800,
-    "ends_at": 1794722400,
-    "page": "https://ppv.st/live/aew-full-gear-32225"
   },
   {
     "name": "24/7 South Park",
