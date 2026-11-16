@@ -10,26 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Montreal Alouettes vs Edmonton Elks",
-    "poster": "https://static.ppvservices.st/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
-    "tag": "Canadian Football",
-    "category": "American Football",
-    "uri": "cfl/2026-11-15/mtl-edm",
-    "starts_at": 1794783600,
-    "ends_at": 1794796200,
-    "page": "https://ppv.st/live/cfl/2026-11-15/mtl-edm"
-  },
-  {
-    "name": "Pittsburgh Steelers vs Cincinnati Bengals",
-    "poster": "https://static.ppvservices.st/assets/thumb/6445d6439869620bce51b32d004221bc-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-15/pit-cin",
-    "starts_at": 1794792000,
-    "ends_at": 1794806400,
-    "page": "https://ppv.st/live/nfl/2026-11-15/pit-cin"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -38,66 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Dallas Mavericks vs Boston Celtics",
-    "poster": "https://static.ppvservices.st/assets/thumb/8a2fe6577ec8a3199addd8cb78d2ebb7-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-15/dal-bos",
-    "starts_at": 1794783600,
-    "ends_at": 1794794400,
-    "page": "https://ppv.st/live/nba/2026-11-15/dal-bos"
-  },
-  {
-    "name": "New York Knicks vs Toronto Raptors",
-    "poster": "https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-15/ny-tor",
-    "starts_at": 1794783600,
-    "ends_at": 1794794400,
-    "page": "https://ppv.st/live/nba/2026-11-15/ny-tor"
-  },
-  {
-    "name": "Houston Rockets vs Washington Wizards",
-    "poster": "https://static.ppvservices.st/assets/thumb/1d15974f2b88953c07574cc2e1c05c5f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-15/hou-wsh",
-    "starts_at": 1794787200,
-    "ends_at": 1794798000,
-    "page": "https://ppv.st/live/nba/2026-11-15/hou-wsh"
-  },
-  {
-    "name": "Syracuse Orange vs St. John's Red Storm",
-    "poster": "https://static.ppvservices.st/assets/thumb/0a6ba36f611ce7a4664d14fc6b7e72d7-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-15/syr-sju",
-    "starts_at": 1794787200,
-    "ends_at": 1794798000,
-    "page": "https://ppv.st/live/cbb/2026-11-15/syr-sju"
-  },
-  {
-    "name": "Arkansas-Pine Bluff Golden Lions vs USC Trojans",
-    "poster": "https://static.ppvservices.st/assets/thumb/7c25a206fe6fda0f72bd870e35ec6501-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-15/uapb-usc",
-    "starts_at": 1794787200,
-    "ends_at": 1794798000,
-    "page": "https://ppv.st/live/cbb/2026-11-15/uapb-usc"
-  },
-  {
-    "name": "Atlanta Hawks vs Milwaukee Bucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/1977dfacfe3638fc7f070d5e4fca7167-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-15/atl-mil",
-    "starts_at": 1794790800,
-    "ends_at": 1794801600,
-    "page": "https://ppv.st/live/nba/2026-11-15/atl-mil"
   },
   {
     "name": "Willow",
@@ -138,36 +58,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Edmonton Oilers vs Philadelphia Flyers",
-    "poster": "https://static.ppvservices.st/assets/thumb/7ddca8d8fb008425ed58887e59d7b6d0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-15/edm-phi",
-    "starts_at": 1794789000,
-    "ends_at": 1794799800,
-    "page": "https://ppv.st/live/nhl/2026-11-15/edm-phi"
-  },
-  {
-    "name": "Florida Panthers vs Dallas Stars",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ccc0601ee133bbe6c1563bff961e523-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-15/fla-dal",
-    "starts_at": 1794790800,
-    "ends_at": 1794801600,
-    "page": "https://ppv.st/live/nhl/2026-11-15/fla-dal"
-  },
-  {
-    "name": "Calgary Flames vs Anaheim Ducks",
-    "poster": "https://static.ppvservices.st/assets/thumb/73247e31f9e86f7d124f5fdf72935db3-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-15/cgy-ana",
-    "starts_at": 1794790800,
-    "ends_at": 1794801600,
-    "page": "https://ppv.st/live/nhl/2026-11-15/cgy-ana"
   },
   {
     "name": "Fox League",
