@@ -40,6 +40,66 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Grand Slam of Darts | Day 3",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-3-32253",
+    "starts_at": 1794855600,
+    "ends_at": 1794873600,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-3-32253"
+  },
+  {
+    "name": "Gibraltar vs Malta",
+    "poster": "https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/gib-mlt",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/gib-mlt"
+  },
+  {
+    "name": "Greece vs Serbia",
+    "poster": "https://static.ppvservices.st/assets/thumb/d24378502922384692993c806528ed55-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/gre-srb",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/gre-srb"
+  },
+  {
+    "name": "North Macedonia vs Slovenia",
+    "poster": "https://static.ppvservices.st/assets/thumb/7c0af8f1a0b9a4ca1780efeca9f5fe37-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/mkd-svn",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/mkd-svn"
+  },
+  {
+    "name": "Switzerland vs Scotland",
+    "poster": "https://static.ppvservices.st/assets/thumb/ecd4b7f261d259cd6835152bf7c4f507-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/sui-sco",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/sui-sco"
+  },
+  {
+    "name": "Germany vs Netherlands",
+    "poster": "https://static.ppvservices.st/assets/thumb/dea4742dab5d5f11e1acb18054073ac1-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-16/ger-ned",
+    "starts_at": 1794858300,
+    "ends_at": 1794867300,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-16/ger-ned"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -68,6 +128,26 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-league"
+  },
+  {
+    "name": "Tennis Channel",
+    "poster": "https://static.ppvservices.st/assets/thumb/cdab425a6142f35617238cfe7a753d18-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Tennis",
+    "uri": "tennis-channel",
+    "starts_at": 60,
+    "ends_at": 10860,
+    "page": "https://ppv.st/live/tennis-channel"
+  },
+  {
+    "name": "Sky Sports Tennis",
+    "poster": "https://static.ppvservices.st/assets/thumb/3fa2f4ea885cdd997f65c0ded9148fba-thumbnail.jpg",
+    "tag": "24/7 channel",
+    "category": "Tennis",
+    "uri": "sky-sports-tennis-32479",
+    "starts_at": 1794787200,
+    "ends_at": 1794801600,
+    "page": "https://ppv.st/live/sky-sports-tennis-32479"
   },
   {
     "name": "24/7 South Park",
