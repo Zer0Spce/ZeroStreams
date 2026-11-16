@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T01:18:33.395586+00:00",
+  "updated_utc": "2026-11-16T01:31:35.347223+00:00",
   "pages": 46,
   "candidate_urls": 45,
   "live_urls": 33,
@@ -20,7 +20,7 @@
     "errors": []
   },
   "event_groups": 37,
-  "event_posters": 6,
+  "event_posters": 7,
   "roxie_source": "https://roxiestreams.info/",
   "roxie_attempts": [
     {
@@ -34,271 +34,271 @@
       "url": "https://admin2.formaturamaxi.com.br/f1.m3u8",
       "name": "Formula 1 - Sao Paulo Grand Prix \u2014 Feed 1",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/tsn.m3u8",
       "name": "Formula 1 - Sao Paulo Grand Prix \u2014 Feed 2",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/plus.m3u8",
       "name": "Live | Grand Slam of Darts (8/1PM)",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin.formaturamaxi.com.br/ncaa.m3u8",
       "name": "Live | Ole Miss vs Oklahoma",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/ppv.m3u8",
       "name": "Live | Teremoana vs Ahio",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/tnt4.m3u8",
       "name": "Live | WEC - 6 Hours of Monza",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/tnt2.m3u8",
       "name": "MotoGP - Qatar Grand Prix",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
       "name": "NASCAR Cup Series: Race",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nba8.m3u8",
       "name": "NBA | Atlanta Hawks vs Milwaukee Bucks",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin.formaturamaxi.com.br/nba3.m3u8",
       "name": "NBA | Charlotte Hornets vs Los Angeles Clippers",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nba5.m3u8",
       "name": "NBA | Dallas Mavericks vs Boston Celtics",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin.formaturamaxi.com.br/nba7.m3u8",
       "name": "NBA | Houston Rockets vs Washington Wizards",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nba6.m3u8",
       "name": "NBA | New York Knicks vs Toronto Raptors",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/lakers.m3u8",
       "name": "NBA | Oklahoma City Thunder vs Sacramento Kings \u2014 Feed 1",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nba9.m3u8",
       "name": "NBA | Oklahoma City Thunder vs Sacramento Kings \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nba4.m3u8",
       "name": "NBA | San Antonio Spurs vs Utah Jazz",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin.formaturamaxi.com.br/nfl8.m3u8",
       "name": "NFL | Buffalo Bills vs New York Jets \u2014 Feed 1",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://temp.formaturamaxi.com.br/nfl8.m3u8",
       "name": "NFL | Buffalo Bills vs New York Jets \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nfl5.m3u8",
       "name": "NFL | Jacksonville Jaguars vs Tennessee Titans",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin.formaturamaxi.com.br/nfl2.m3u8",
       "name": "NFL | Kansas City Chiefs vs Atlanta Falcons",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nfl10.m3u8",
       "name": "NFL | Los Angeles Rams vs Arizona Cardinals \u2014 Feed 1",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://temp.formaturamaxi.com.br/rams.m3u8",
       "name": "NFL | Los Angeles Rams vs Arizona Cardinals \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nfl6.m3u8",
       "name": "NFL | Miami Dolphins vs Indianapolis Colts",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/redzone.m3u8",
       "name": "NFL RedZone \u2014 Feed 1",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://temp.formaturamaxi.com.br/redzone.m3u8",
       "name": "NFL RedZone \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nfl.m3u8",
       "name": "NFL | Pittsburgh Steelers vs Cincinnati Bengals",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nhl.m3u8",
       "name": "NHL | Edmonton Oilers vs Philadelphia Flyers",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nhl2.m3u8",
       "name": "NHL | Florida Panthers vs Dallas Stars",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
       "name": "NHL | Nashville Predators vs San Jose Sharks",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nhl4.m3u8",
       "name": "NHL | Vancouver Canucks vs Vegas Golden Knights",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/darts.m3u8",
       "name": "Shared Channels | DARTS \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nba.m3u8",
       "name": "Shared Channels | NBA \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nfl.m3u8",
       "name": "Shared Channels | NFL \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://temp.formaturamaxi.com.br/nfl2.m3u8",
       "name": "Shared Channels | NFL2 \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nfl3.m3u8",
       "name": "Shared Channels | NFL3 \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/nfl4.m3u8",
       "name": "Shared Channels | NFL4 \u2014 Shared Feed",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://tedesco.formaturamaxi.com.br/nfl7.m3u8",
       "name": "Shared Channels | NFL7 \u2014 Shared Feed",
       "status": "unverified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/fubo.m3u8",
       "name": "Soccer | Belgium vs Italy",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/concacaf.m3u8",
       "name": "Soccer | Cyprus vs Montenegro \u2014 Feed 1",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/tudnus.m3u8",
       "name": "Soccer | Cyprus vs Montenegro \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/vix.m3u8",
       "name": "Soccer | Finland vs San Marino",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/fsp.m3u8",
       "name": "Soccer | Latvia vs Armenia",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/abbiecadabri.m3u8",
       "name": "Soccer | SPAIN vs ENGLAND \u2014 Feed 1",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/eng.m3u8",
       "name": "Soccer | SPAIN vs ENGLAND \u2014 Feed 2",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     },
     {
       "url": "https://admin2.formaturamaxi.com.br/itv.m3u8",
       "name": "Soccer | SPAIN vs ENGLAND \u2014 Feed 3",
       "status": "verified",
-      "checked_at": "2026-11-16T01:18:30.354244+00:00"
+      "checked_at": "2026-11-16T01:31:31.588037+00:00"
     }
   ]
 }

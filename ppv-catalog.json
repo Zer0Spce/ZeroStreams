@@ -10,16 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "San Francisco 49ers vs Dallas Cowboys",
-    "poster": "https://static.ppvservices.st/assets/thumb/fcbe26fb7e2a47c54dc5cbf02fe4d5db-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-15/sf-dal",
-    "starts_at": 1794777900,
-    "ends_at": 1794792300,
-    "page": "https://ppv.st/live/nfl/2026-11-15/sf-dal"
-  },
-  {
     "name": "Montreal Alouettes vs Edmonton Elks",
     "poster": "https://static.ppvservices.st/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
     "tag": "Canadian Football",
@@ -28,6 +18,16 @@
     "starts_at": 1794783600,
     "ends_at": 1794796200,
     "page": "https://ppv.st/live/cfl/2026-11-15/mtl-edm"
+  },
+  {
+    "name": "Pittsburgh Steelers vs Cincinnati Bengals",
+    "poster": "https://static.ppvservices.st/assets/thumb/6445d6439869620bce51b32d004221bc-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-15/pit-cin",
+    "starts_at": 1794792000,
+    "ends_at": 1794806400,
+    "page": "https://ppv.st/live/nfl/2026-11-15/pit-cin"
   },
   {
     "name": "Fox Footy",
