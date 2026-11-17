@@ -20,6 +20,16 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Rutgers Scarlet Knights vs Houston Cougars",
+    "poster": "https://static.ppvservices.st/assets/thumb/5385a4c9623e71b14820224f8956f0ad-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-17/rutg-hou",
+    "starts_at": 1794942000,
+    "ends_at": 1794952800,
+    "page": "https://ppv.st/live/cbb/2026-11-17/rutg-hou"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -38,6 +48,156 @@
     "starts_at": -3600,
     "ends_at": 10800,
     "page": "https://ppv.st/live/247-fox-cricket"
+  },
+  {
+    "name": "Grand Slam of Darts | Day 4",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-4-32254",
+    "starts_at": 1794942000,
+    "ends_at": 1794960000,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-4-32254"
+  },
+  {
+    "name": "Botswana vs Uganda",
+    "poster": "https://static.ppvservices.st/assets/thumb/b931cfe6b306276977c5bf9cec084c59-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/bot-uga",
+    "starts_at": 1794942000,
+    "ends_at": 1794951000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/bot-uga"
+  },
+  {
+    "name": "Congo vs Comoros",
+    "poster": "https://static.ppvservices.st/assets/thumb/7e72cb3b7db2776bf3daa53ed1bc6adb-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/cgo-com",
+    "starts_at": 1794942000,
+    "ends_at": 1794951000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/cgo-com"
+  },
+  {
+    "name": "Liberia vs Cape Verde",
+    "poster": "https://static.ppvservices.st/assets/thumb/d50cc4b6cc006e52a0a6244bd5042c84-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/lbr-cpv",
+    "starts_at": 1794942000,
+    "ends_at": 1794951000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/lbr-cpv"
+  },
+  {
+    "name": "Mauritania vs Burkina Faso",
+    "poster": "https://static.ppvservices.st/assets/thumb/be155a0e73bfe3be85c48f396be82460-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/mtn-bka",
+    "starts_at": 1794942000,
+    "ends_at": 1794951000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/mtn-bka"
+  },
+  {
+    "name": "Rwanda vs Mali",
+    "poster": "https://static.ppvservices.st/assets/thumb/2bceacaba35a33345b817c48ed8f800c-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/rwa-mli",
+    "starts_at": 1794942000,
+    "ends_at": 1794951000,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/rwa-mli"
+  },
+  {
+    "name": "Bosnia-Herzegovina vs Romania",
+    "poster": "https://static.ppvservices.st/assets/thumb/0679f7927bcc855a5e0d95e2130a8dd4-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/bih-rou",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/bih-rou"
+  },
+  {
+    "name": "Denmark vs Norway",
+    "poster": "https://static.ppvservices.st/assets/thumb/7df59e50835410d354a6e0a6ef0da87f-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/den-nor",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/den-nor"
+  },
+  {
+    "name": "Hungary vs Northern Ireland",
+    "poster": "https://static.ppvservices.st/assets/thumb/78273b0e964d2ff2097e61b2f1cfeff6-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/hun-nir",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/hun-nir"
+  },
+  {
+    "name": "Israel vs Austria",
+    "poster": "https://static.ppvservices.st/assets/thumb/fa3072f727127332f4f4f55c9422905d-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/isr-aut",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/isr-aut"
+  },
+  {
+    "name": "Poland vs Sweden",
+    "poster": "https://static.ppvservices.st/assets/thumb/4a4d549243ea2d9be420492b53f517d9-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/pol-swe",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/pol-swe"
+  },
+  {
+    "name": "Republic of Ireland vs Kosovo",
+    "poster": "https://static.ppvservices.st/assets/thumb/1f62d310a7a90d355de03a7031c4f900-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/irl-kos",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/irl-kos"
+  },
+  {
+    "name": "Ukraine vs Georgia",
+    "poster": "https://static.ppvservices.st/assets/thumb/d032fdb3f00c1032e6fe710c0fd1a960-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/ukr-geo",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/ukr-geo"
+  },
+  {
+    "name": "Wales vs Portugal",
+    "poster": "https://static.ppvservices.st/assets/thumb/2bd6191bdf5d219be11417274621ab09-thumbnail.jpg",
+    "tag": "UEFA Nations League",
+    "category": "Football",
+    "uri": "uefa-nations-league/2026-11-17/wal-por",
+    "starts_at": 1794944700,
+    "ends_at": 1794953700,
+    "page": "https://ppv.st/live/uefa-nations-league/2026-11-17/wal-por"
+  },
+  {
+    "name": "Niger vs Morocco",
+    "poster": "https://static.ppvservices.st/assets/thumb/fa0b0ba49d061f4e6896de2ba5404138-thumbnail.jpg",
+    "tag": "AFCON Qualifying",
+    "category": "Football",
+    "uri": "afcon-qualifying/2026-11-17/nig-mar",
+    "starts_at": 1794945600,
+    "ends_at": 1794954600,
+    "page": "https://ppv.st/live/afcon-qualifying/2026-11-17/nig-mar"
   },
   {
     "name": "Sky Sports Golf",
