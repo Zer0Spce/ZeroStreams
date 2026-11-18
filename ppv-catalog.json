@@ -20,26 +20,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Illinois Fighting Illini vs Duke Blue Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/e978649434aba6c3b9111b48a51fc3b6-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/ill-duke",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/cbb/2026-11-17/ill-duke"
-  },
-  {
-    "name": "Rider Broncs vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/d15947f2a5375117b8782abd8dd6bfff-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/rid-mia",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/cbb/2026-11-17/rid-mia"
-  },
-  {
     "name": "New York Knicks vs Toronto Raptors",
     "poster": "https://static.ppvservices.st/assets/thumb/a4beabaa0a189a03e3ec9442a408613f-thumbnail.jpg",
     "tag": "NBA",
@@ -100,6 +80,36 @@
     "page": "https://ppv.st/live/cbb/2026-11-17/eiu-van"
   },
   {
+    "name": "Michigan State Spartans vs Tennessee Volunteers",
+    "poster": "https://static.ppvservices.st/assets/thumb/15fe11832427a9772c57cc2601d7057e-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-17/msu-tenn",
+    "starts_at": 1794967200,
+    "ends_at": 1794978000,
+    "page": "https://ppv.st/live/cbb/2026-11-17/msu-tenn"
+  },
+  {
+    "name": "Old Dominion Monarchs vs Virginia Cavaliers",
+    "poster": "https://static.ppvservices.st/assets/thumb/d6b6e7a207189c3ffd3b8b3175049762-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-17/odu-uva",
+    "starts_at": 1794967200,
+    "ends_at": 1794978000,
+    "page": "https://ppv.st/live/cbb/2026-11-17/odu-uva"
+  },
+  {
+    "name": "UNLV Rebels vs Kansas Jayhawks",
+    "poster": "https://static.ppvservices.st/assets/thumb/84ea6926cc6e13bab7971f72364e26e0-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-17/unlv-ku",
+    "starts_at": 1794969000,
+    "ends_at": 1794979800,
+    "page": "https://ppv.st/live/cbb/2026-11-17/unlv-ku"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -120,14 +130,14 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "United States vs Haiti",
-    "poster": "https://static.ppvservices.st/assets/thumb/c61546b6b13edb3b48a1b098291c615f-thumbnail.jpg",
+    "name": "Mexico vs Jamaica",
+    "poster": "https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg",
     "tag": "Concacaf Nations League",
     "category": "Football",
-    "uri": "concacaf-nations-league/2026-11-18/usa-hai",
-    "starts_at": 1794960000,
-    "ends_at": 1794969000,
-    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/usa-hai"
+    "uri": "concacaf-nations-league/2026-11-18/mex-jam",
+    "starts_at": 1794969000,
+    "ends_at": 1794978000,
+    "page": "https://ppv.st/live/concacaf-nations-league/2026-11-18/mex-jam"
   },
   {
     "name": "Sky Sports Golf",
@@ -148,56 +158,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Los Angeles Kings vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/f84800903a067c787f5b45231d546b7c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/la-bos",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/nhl/2026-11-17/la-bos"
-  },
-  {
-    "name": "Edmonton Oilers vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/02564ecc0ca2cce93841ef1c6bec265f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/edm-fla",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/nhl/2026-11-17/edm-fla"
-  },
-  {
-    "name": "Columbus Blue Jackets vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/09e5290a4efff5d8f5803571f25fae63-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/cbj-nyi",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/nhl/2026-11-17/cbj-nyi"
-  },
-  {
-    "name": "Buffalo Sabres vs Philadelphia Flyers",
-    "poster": "https://static.ppvservices.st/assets/thumb/61d435d66453610eaef61d49537b8281-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/buf-phi",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/nhl/2026-11-17/buf-phi"
-  },
-  {
-    "name": "Ottawa Senators vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/d1fe04d0915a7cf1f7b014c43421cd73-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-17/ott-wpg",
-    "starts_at": 1794960000,
-    "ends_at": 1794970800,
-    "page": "https://ppv.st/live/nhl/2026-11-17/ott-wpg"
   },
   {
     "name": "Washington Capitals vs Tampa Bay Lightning",
@@ -238,6 +198,26 @@
     "starts_at": 1794963600,
     "ends_at": 1794974400,
     "page": "https://ppv.st/live/nhl/2026-11-17/nsh-min"
+  },
+  {
+    "name": "Dallas Stars vs Vegas Golden Knights",
+    "poster": "https://static.ppvservices.st/assets/thumb/2179bc25743e96ebf9c6725cb62f2149-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-17/dal-vgk",
+    "starts_at": 1794970800,
+    "ends_at": 1794981600,
+    "page": "https://ppv.st/live/nhl/2026-11-17/dal-vgk"
+  },
+  {
+    "name": "Calgary Flames vs San Jose Sharks",
+    "poster": "https://static.ppvservices.st/assets/thumb/9538925e41913b7a446e7533fa4723bf-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-17/cgy-sj",
+    "starts_at": 1794970800,
+    "ends_at": 1794981600,
+    "page": "https://ppv.st/live/nhl/2026-11-17/cgy-sj"
   },
   {
     "name": "Fox League",
