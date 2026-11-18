@@ -20,36 +20,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Charlotte Hornets vs Los Angeles Lakers",
-    "poster": "https://static.ppvservices.st/assets/thumb/f09cd32ab001cf37f5d5fdeef580decf-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-17/cha-lal",
-    "starts_at": 1794974400,
-    "ends_at": 1794985200,
-    "page": "https://ppv.st/live/nba/2026-11-17/cha-lal"
-  },
-  {
-    "name": "Montana State Bobcats vs Gonzaga Bulldogs",
-    "poster": "https://static.ppvservices.st/assets/thumb/46bec4e8de39b96073c2b87300459275-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-17/mtst-gonz",
-    "starts_at": 1794974400,
-    "ends_at": 1794985200,
-    "page": "https://ppv.st/live/cbb/2026-11-17/mtst-gonz"
-  },
-  {
-    "name": "New Zealand Breakers vs South East Melbourne Phoenix",
-    "poster": "https://static.ppvservices.st/assets/thumb/60daceaf9c6d7cbbb91fde53f69c4532-thumbnail.jpg",
-    "tag": "NBL",
-    "category": "Basketball",
-    "uri": "nbl/2026-11-18/nzl-pnx",
-    "starts_at": 1794983400,
-    "ends_at": 1794994200,
-    "page": "https://ppv.st/live/nbl/2026-11-18/nzl-pnx"
-  },
-  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
