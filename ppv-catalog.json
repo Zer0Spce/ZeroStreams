@@ -20,6 +20,16 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Florida Gators vs West Virginia Mountaineers",
+    "poster": "https://static.ppvservices.st/assets/thumb/66be3fa05e168f9b1ae4fee4afafeb5d-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-19/fla-wvu",
+    "starts_at": 1795116600,
+    "ends_at": 1795127400,
+    "page": "https://ppv.st/live/cbb/2026-11-19/fla-wvu"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -38,6 +48,16 @@
     "starts_at": -3600,
     "ends_at": 10800,
     "page": "https://ppv.st/live/247-fox-cricket"
+  },
+  {
+    "name": "Grand Slam of Darts | Day 6",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-6-32256",
+    "starts_at": 1795114800,
+    "ends_at": 1795132800,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-6-32256"
   },
   {
     "name": "Sky Sports Golf",
