@@ -43,10 +43,6 @@ https://admin2.formaturamaxi.com.br/nas.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba8.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f53396dafb2f0125" tvg-name="NBA | Boston Celtics vs Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Boston Celtics vs Denver Nuggets
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba10.m3u8
 #EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="NBA | Chicago Bulls vs Brooklyn Nets" tvg-logo="https://static.ppvservices.st/assets/thumb/4dae12eac92b494cfc5accf6caadae17-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Chicago Bulls vs Brooklyn Nets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -63,23 +59,19 @@ https://admin2.formaturamaxi.com.br/nba9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.17e5e7ffe3f96966" tvg-name="NBA | Milwaukee Bucks vs Vice City (Special) — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Milwaukee Bucks vs Vice City (Special) — Feed 1
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
+#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="NBA | Memphis Grizzlies vs Cleveland Cavaliers" tvg-logo="https://static.ppvservices.st/assets/thumb/649871117b13a745ef52682f2d95db60-thumbnail.jpg" group-title="NBA" x-stream-status="unverified",NBA | Memphis Grizzlies vs Cleveland Cavaliers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/bucks.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="NBA | Milwaukee Bucks vs Vice City (Special) — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Milwaukee Bucks vs Vice City (Special) — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba3.m3u8
+https://tedesco.formaturamaxi.com.br/nba.m3u8
 #EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA | Philadelphia 76ers vs Orlando Magic" tvg-logo="https://static.ppvservices.st/assets/thumb/9db80d04d16595801a6ebc250728faa5-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Philadelphia 76ers vs Orlando Magic
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.1c410d80718eb270" tvg-name="NBA | Phoenix Suns vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Phoenix Suns vs Sacramento Kings
+#EXTINF:-1 tvg-id="zerostreams.089a819cc5b47288" tvg-name="NBA | Phoenix Suns vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Phoenix Suns vs Sacramento Kings
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nbaalt.m3u8
-#EXTINF:-1 tvg-id="zerostreams.d852b5a7042a7b36" tvg-name="NBA | Utah Jazz vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Utah Jazz vs Los Angeles Lakers
+https://admin.formaturamaxi.com.br/nba12.m3u8
+#EXTINF:-1 tvg-id="zerostreams.d852b5a7042a7b36" tvg-name="NBA | Utah Jazz vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Utah Jazz vs Los Angeles Lakers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba11.m3u8
@@ -95,10 +87,14 @@ https://tedesco.formaturamaxi.com.br/nhl.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nhl-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nhl2.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="Shared Channels | NBA — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels" x-stream-status="verified",Shared Channels | NBA — Shared Feed
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTINF:-1 tvg-id="zerostreams.17e5e7ffe3f96966" tvg-name="Shared Channels | BUCKS — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels" x-stream-status="verified",Shared Channels | BUCKS — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba.m3u8
+https://admin.formaturamaxi.com.br/bucks.m3u8
+#EXTINF:-1 tvg-id="zerostreams.a96973e26e41e7e4" tvg-name="Shared Channels | NBA3 — Shared Feed" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/live.png" group-title="Shared Channels" x-stream-status="verified",Shared Channels | NBA3 — Shared Feed
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba3.m3u8
 #EXTINF:-1 tvg-id="zerostreams.ec275171173b698c" tvg-name="Soccer | Corinthians vs Botafogo" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/soccer.png" group-title="Soccer" x-stream-status="verified",Soccer | Corinthians vs Botafogo
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/soccer-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
