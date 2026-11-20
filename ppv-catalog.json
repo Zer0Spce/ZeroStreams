@@ -10,16 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Indianapolis Colts vs Houston Texans",
-    "poster": "https://static.ppvservices.st/assets/thumb/de4b08c594743e54e27682bd21a6b0a8-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-19/ind-hou",
-    "starts_at": 1795137300,
-    "ends_at": 1795151700,
-    "page": "https://ppv.st/live/nfl/2026-11-19/ind-hou"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -28,66 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Golden State Warriors vs Memphis Grizzlies",
-    "poster": "https://static.ppvservices.st/assets/thumb/bafa03ed95e4c63a924c9130d8f682c4-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-19/gs-mem",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nba/2026-11-19/gs-mem"
-  },
-  {
-    "name": "Portland Trail Blazers vs Milwaukee Bucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/11708e39c068beb83d9dd9d90162bdec-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-19/por-mil",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nba/2026-11-19/por-mil"
-  },
-  {
-    "name": "New York Knicks vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/5e2a57bc8e40203ce33c8b9c915b57dd-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-19/ny-min",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nba/2026-11-19/ny-min"
-  },
-  {
-    "name": "Los Angeles Clippers vs San Antonio Spurs",
-    "poster": "https://static.ppvservices.st/assets/thumb/6156689b3f51a358c8621a684bc2efe7-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-19/lac-sa",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nba/2026-11-19/lac-sa"
-  },
-  {
-    "name": "Southern Utah Thunderbirds vs Texas Longhorns",
-    "poster": "https://static.ppvservices.st/assets/thumb/e957ab6591d296eb2242aac24ce90b06-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-19/suu-tex",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/cbb/2026-11-19/suu-tex"
-  },
-  {
-    "name": "Stetson Hatters vs Louisville Cardinals",
-    "poster": "https://static.ppvservices.st/assets/thumb/b8b89d5680f54558e18e799fbaf4b121-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-19/stet-lou",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/cbb/2026-11-19/stet-lou"
   },
   {
     "name": "Willow",
@@ -110,16 +40,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Orlando City SC vs FC Cincinnati",
-    "poster": "https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-19/orl-cin",
-    "starts_at": 1795134600,
-    "ends_at": 1795145400,
-    "page": "https://ppv.st/live/mls/2026-11-19/orl-cin"
-  },
-  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -138,116 +58,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Los Angeles Kings vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/15edf3d9473003cee87c3ba77cae1061-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/la-tor",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/la-tor"
-  },
-  {
-    "name": "Philadelphia Flyers vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/42794cdcca63551913131d182f0dc351-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/phi-ott",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/phi-ott"
-  },
-  {
-    "name": "St. Louis Blues vs Pittsburgh Penguins",
-    "poster": "https://static.ppvservices.st/assets/thumb/ba927417fd4bb5f00c2e6c65312715e0-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/stl-pit",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/stl-pit"
-  },
-  {
-    "name": "Buffalo Sabres vs Washington Capitals",
-    "poster": "https://static.ppvservices.st/assets/thumb/2516f76cff8fd5a0162f075a851c68cc-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/buf-wsh",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/buf-wsh"
-  },
-  {
-    "name": "Montreal Canadiens vs Carolina Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/mtl-car",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/mtl-car"
-  },
-  {
-    "name": "New York Islanders vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec123a6616c97199766818baaa86f699-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/nyi-wpg",
-    "starts_at": 1795132800,
-    "ends_at": 1795143600,
-    "page": "https://ppv.st/live/nhl/2026-11-19/nyi-wpg"
-  },
-  {
-    "name": "Edmonton Oilers vs Tampa Bay Lightning",
-    "poster": "https://static.ppvservices.st/assets/thumb/4923909f8e61015ae48608f2c0892728-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/edm-tb",
-    "starts_at": 1795134600,
-    "ends_at": 1795145400,
-    "page": "https://ppv.st/live/nhl/2026-11-19/edm-tb"
-  },
-  {
-    "name": "Columbus Blue Jackets vs Chicago Blackhawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/19b854588531633a98050c8f8c1723d6-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/cbj-chi",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nhl/2026-11-19/cbj-chi"
-  },
-  {
-    "name": "Minnesota Wild vs Calgary Flames",
-    "poster": "https://static.ppvservices.st/assets/thumb/1b8da8a2cd6a13c0e19dfdd9456c2490-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/min-cgy",
-    "starts_at": 1795136400,
-    "ends_at": 1795147200,
-    "page": "https://ppv.st/live/nhl/2026-11-19/min-cgy"
-  },
-  {
-    "name": "Anaheim Ducks vs Colorado Avalanche",
-    "poster": "https://static.ppvservices.st/assets/thumb/77ee7d87bd8f8975b51ca15243ab997b-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/ana-col",
-    "starts_at": 1795140000,
-    "ends_at": 1795150800,
-    "page": "https://ppv.st/live/nhl/2026-11-19/ana-col"
-  },
-  {
-    "name": "Vancouver Canucks vs Seattle Kraken",
-    "poster": "https://static.ppvservices.st/assets/thumb/185b38f0fe7f93516a4a5c8bac98495c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-19/van-sea",
-    "starts_at": 1795142400,
-    "ends_at": 1795153200,
-    "page": "https://ppv.st/live/nhl/2026-11-19/van-sea"
   },
   {
     "name": "Fox League",
@@ -278,16 +88,6 @@
     "starts_at": 1794787200,
     "ends_at": 1794801600,
     "page": "https://ppv.st/live/sky-sports-tennis-32479"
-  },
-  {
-    "name": "TNA Impact",
-    "poster": "https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "tna/2026-11-19",
-    "starts_at": 1795140000,
-    "ends_at": 1795150800,
-    "page": "https://ppv.st/live/tna/2026-11-19"
   },
   {
     "name": "24/7 South Park",
