@@ -40,6 +40,46 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Grand Slam of Darts | Day 7",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-7-32257",
+    "starts_at": 1795201200,
+    "ends_at": 1795219200,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-7-32257"
+  },
+  {
+    "name": "Bayern Munich vs FC Cologne",
+    "poster": "https://static.ppvservices.st/assets/thumb/c4362aeb3057819335319a3740367a0b-thumbnail.jpg",
+    "tag": "Bundesliga",
+    "category": "Football",
+    "uri": "bundesliga/2026-11-20/bay-koe",
+    "starts_at": 1795203000,
+    "ends_at": 1795212000,
+    "page": "https://ppv.st/live/bundesliga/2026-11-20/bay-koe"
+  },
+  {
+    "name": "Troyes vs Le Havre AC",
+    "poster": "https://static.ppvservices.st/assets/thumb/00eee945e802263b7ba04da78974342c-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-20/try-hac",
+    "starts_at": 1795203900,
+    "ends_at": 1795212900,
+    "page": "https://ppv.st/live/ligue1/2026-11-20/try-hac"
+  },
+  {
+    "name": "Athletic Club vs Espanyol",
+    "poster": "https://static.ppvservices.st/assets/thumb/224589ac46e9bb3e52e26565909536b2-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-20/ath-esp",
+    "starts_at": 1795204800,
+    "ends_at": 1795213800,
+    "page": "https://ppv.st/live/laliga/2026-11-20/ath-esp"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
