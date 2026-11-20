@@ -240,14 +240,14 @@
     "page": "https://ppv.st/live/nhl/2026-11-19/ana-col"
   },
   {
-    "name": "Las Vegas Grand Prix - Practice 1",
-    "poster": "https://static.ppvservices.st/assets/thumb/a4e51bfec583268fd1a064ffb4c8a18e-thumbnail.jpg",
-    "tag": "Formula 1",
-    "category": "Motorsports",
-    "uri": "f1/2026/las-vegas/fp1",
-    "starts_at": 1795134600,
-    "ends_at": 1795141800,
-    "page": "https://ppv.st/live/f1/2026/las-vegas/fp1"
+    "name": "Vancouver Canucks vs Seattle Kraken",
+    "poster": "https://static.ppvservices.st/assets/thumb/185b38f0fe7f93516a4a5c8bac98495c-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-19/van-sea",
+    "starts_at": 1795142400,
+    "ends_at": 1795153200,
+    "page": "https://ppv.st/live/nhl/2026-11-19/van-sea"
   },
   {
     "name": "Fox League",
