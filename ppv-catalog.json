@@ -10,6 +10,76 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "BYU Cougars vs Kansas Jayhawks",
+    "poster": "https://static.ppvservices.st/assets/thumb/2d5035d494f6bed4eb31ec4fbe6d1f2d-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/byu-ku",
+    "starts_at": 1795280400,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/cfb/2026-11-21/byu-ku"
+  },
+  {
+    "name": "Wake Forest Demon Deacons vs Georgia Tech Yellow Jackets",
+    "poster": "https://static.ppvservices.st/assets/thumb/9c36ef544fcb6955909f74a0b81b2f77-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/wake-gt",
+    "starts_at": 1795280400,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/cfb/2026-11-21/wake-gt"
+  },
+  {
+    "name": "Wofford Terriers vs Ole Miss Rebels",
+    "poster": "https://static.ppvservices.st/assets/thumb/bda7888547b98ea1b401f52e145d8282-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/wof-miss",
+    "starts_at": 1795280400,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/cfb/2026-11-21/wof-miss"
+  },
+  {
+    "name": "Ohio State Buckeyes vs Nebraska Cornhuskers",
+    "poster": "https://static.ppvservices.st/assets/thumb/8770549ad259204609060724550ec4b4-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/osu-neb",
+    "starts_at": 1795280400,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/cfb/2026-11-21/osu-neb"
+  },
+  {
+    "name": "Houston Cougars vs West Virginia Mountaineers",
+    "poster": "https://static.ppvservices.st/assets/thumb/e83abb2e65c111ec37623283a4946763-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/hou-wvu",
+    "starts_at": 1795284000,
+    "ends_at": 1795298400,
+    "page": "https://ppv.st/live/cfb/2026-11-21/hou-wvu"
+  },
+  {
+    "name": "Chattanooga Mocs vs Alabama Crimson Tide",
+    "poster": "https://static.ppvservices.st/assets/thumb/7342c35b73c83de9a308967eb338ac7e-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/utc-ala",
+    "starts_at": 1795287600,
+    "ends_at": 1795302000,
+    "page": "https://ppv.st/live/cfb/2026-11-21/utc-ala"
+  },
+  {
+    "name": "Iowa Hawkeyes vs Illinois Fighting Illini",
+    "poster": "https://static.ppvservices.st/assets/thumb/7a4d9b582044cbb2c1c6cc5fb84fae74-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-21/iowa-ill",
+    "starts_at": 1795289400,
+    "ends_at": 1795303800,
+    "page": "https://ppv.st/live/cfb/2026-11-21/iowa-ill"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -18,6 +88,46 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Detroit Mercy Titans vs Michigan State Spartans",
+    "poster": "https://static.ppvservices.st/assets/thumb/a214dcacf161ffbc677d909e905d44af-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-21/detm-msu",
+    "starts_at": 1795280400,
+    "ends_at": 1795291200,
+    "page": "https://ppv.st/live/cbb/2026-11-21/detm-msu"
+  },
+  {
+    "name": "Milwaukee Bucks vs Philadelphia 76ers",
+    "poster": "https://static.ppvservices.st/assets/thumb/cba419aba970197aa46d22675db14bd7-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-21/mil-phi",
+    "starts_at": 1795284000,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/nba/2026-11-21/mil-phi"
+  },
+  {
+    "name": "Queens University Royals vs LSU Tigers",
+    "poster": "https://static.ppvservices.st/assets/thumb/e7b5699aaf6d1ddda48a560f8a79a0ad-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-21/quc-lsu",
+    "starts_at": 1795284000,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/cbb/2026-11-21/quc-lsu"
+  },
+  {
+    "name": "UFC Fight Night: Prochazka vs Stirling",
+    "poster": "https://static.ppvservices.st/assets/thumb/847c6a9814ff9f823f8e267bd33355ef-thumbnail.jpg",
+    "tag": "MMA",
+    "category": "Combat Sports",
+    "uri": "ufc-fight-night-prochazka-vs-stirling-32647",
+    "starts_at": 1795273200,
+    "ends_at": 1795302000,
+    "page": "https://ppv.st/live/ufc-fight-night-prochazka-vs-stirling-32647"
   },
   {
     "name": "Willow",
@@ -40,6 +150,126 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Grand Slam of Darts | Day 8",
+    "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
+    "tag": "PDC Darts",
+    "category": "Darts",
+    "uri": "grand-slam-of-darts--day-8-32258",
+    "starts_at": 1795287600,
+    "ends_at": 1795305600,
+    "page": "https://ppv.st/live/grand-slam-of-darts--day-8-32258"
+  },
+  {
+    "name": "Sevilla vs Real Betis",
+    "poster": "https://static.ppvservices.st/assets/thumb/af9651a85a43cf202cc8a03983817be4-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-21/sev-bet",
+    "starts_at": 1795282200,
+    "ends_at": 1795291200,
+    "page": "https://ppv.st/live/laliga/2026-11-21/sev-bet"
+  },
+  {
+    "name": "Schalke 04 vs VfB Stuttgart",
+    "poster": "https://static.ppvservices.st/assets/thumb/259953fa8e9e64d1546c1f1937aa88b7-thumbnail.jpg",
+    "tag": "Bundesliga",
+    "category": "Football",
+    "uri": "bundesliga/2026-11-21/s04-vfb",
+    "starts_at": 1795282200,
+    "ends_at": 1795291200,
+    "page": "https://ppv.st/live/bundesliga/2026-11-21/s04-vfb"
+  },
+  {
+    "name": "Newcastle United vs Arsenal",
+    "poster": "https://static.ppvservices.st/assets/thumb/320e9458bedbca66794cd42cebba9351-thumbnail.jpg",
+    "tag": "Premier League",
+    "category": "Football",
+    "uri": "pl/2026-11-21/new-ars",
+    "starts_at": 1795282200,
+    "ends_at": 1795291200,
+    "page": "https://ppv.st/live/pl/2026-11-21/new-ars"
+  },
+  {
+    "name": "FC Utrecht vs SC Cambuur",
+    "poster": "https://static.ppvservices.st/assets/thumb/0da871e3c6147503d413f50557eee998-thumbnail.jpg",
+    "tag": "Eredivisie",
+    "category": "Football",
+    "uri": "eredivisie/2026-11-21/utr-cam",
+    "starts_at": 1795283100,
+    "ends_at": 1795292100,
+    "page": "https://ppv.st/live/eredivisie/2026-11-21/utr-cam"
+  },
+  {
+    "name": "Feyenoord Rotterdam vs Excelsior",
+    "poster": "https://static.ppvservices.st/assets/thumb/f0a65e39a1dbf75f308cf24fc36d0aa9-thumbnail.jpg",
+    "tag": "Eredivisie",
+    "category": "Football",
+    "uri": "eredivisie/2026-11-21/fey-exc",
+    "starts_at": 1795283100,
+    "ends_at": 1795292100,
+    "page": "https://ppv.st/live/eredivisie/2026-11-21/fey-exc"
+  },
+  {
+    "name": "New England Revolution vs Philadelphia Union",
+    "poster": "https://static.ppvservices.st/assets/thumb/92b4fce7b6c33b137c08c2f2b9699255-thumbnail.jpg",
+    "tag": "MLS",
+    "category": "Football",
+    "uri": "mls/2026-11-21/ne-phi",
+    "starts_at": 1795287600,
+    "ends_at": 1795298400,
+    "page": "https://ppv.st/live/mls/2026-11-21/ne-phi"
+  },
+  {
+    "name": "Napoli vs Torino",
+    "poster": "https://static.ppvservices.st/assets/thumb/599d0cd52995faf2be573bee104dd4e6-thumbnail.jpg",
+    "tag": "Serie A",
+    "category": "Football",
+    "uri": "seriea/2026-11-21/nap-tor",
+    "starts_at": 1795290300,
+    "ends_at": 1795299300,
+    "page": "https://ppv.st/live/seriea/2026-11-21/nap-tor"
+  },
+  {
+    "name": "AS Monaco vs AJ Auxerre",
+    "poster": "https://static.ppvservices.st/assets/thumb/80e71b9bb4c531e7747969bc024c8121-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-21/mon-aux",
+    "starts_at": 1795290300,
+    "ends_at": 1795299300,
+    "page": "https://ppv.st/live/ligue1/2026-11-21/mon-aux"
+  },
+  {
+    "name": "Lens vs Toulouse",
+    "poster": "https://static.ppvservices.st/assets/thumb/6a80a39055dcfa3638b1e70368678197-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-21/rcl-tou",
+    "starts_at": 1795290300,
+    "ends_at": 1795299300,
+    "page": "https://ppv.st/live/ligue1/2026-11-21/rcl-tou"
+  },
+  {
+    "name": "Lille vs Lyon",
+    "poster": "https://static.ppvservices.st/assets/thumb/ce8e4ae1247a5f256eb92b3d23a3a7b7-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-21/lill-lyon",
+    "starts_at": 1795290300,
+    "ends_at": 1795299300,
+    "page": "https://ppv.st/live/ligue1/2026-11-21/lill-lyon"
+  },
+  {
+    "name": "Strasbourg vs Brest",
+    "poster": "https://static.ppvservices.st/assets/thumb/5ff5872627a533e1d344376b785d989e-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-21/str-bre",
+    "starts_at": 1795290300,
+    "ends_at": 1795299300,
+    "page": "https://ppv.st/live/ligue1/2026-11-21/str-bre"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -58,6 +288,16 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Edmonton Oilers vs Carolina Hurricanes",
+    "poster": "https://static.ppvservices.st/assets/thumb/2fcd33cb7dd8f7f641cb9e925663478f-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-21/edm-car",
+    "starts_at": 1795284000,
+    "ends_at": 1795294800,
+    "page": "https://ppv.st/live/nhl/2026-11-21/edm-car"
   },
   {
     "name": "Fox League",
