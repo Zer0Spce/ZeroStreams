@@ -10,16 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Oregon Ducks vs Michigan State Spartans",
-    "poster": "https://static.ppvservices.st/assets/thumb/fddd38cedb856e2d952ae63ea4502fd9-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-20/ore-msu",
-    "starts_at": 1795222800,
-    "ends_at": 1795237200,
-    "page": "https://ppv.st/live/cfb/2026-11-20/ore-msu"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -28,126 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Charlotte Hornets vs Atlanta Hawks",
-    "poster": "https://static.ppvservices.st/assets/thumb/d1d7ac57f71178a1bf192fe6fca712ae-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/cha-atl",
-    "starts_at": 1795219200,
-    "ends_at": 1795230000,
-    "page": "https://ppv.st/live/nba/2026-11-20/cha-atl"
-  },
-  {
-    "name": "Loyola Maryland Greyhounds vs Virginia Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/eb8b6cec06956ec541e4eb2e2cd0de30-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/lmd-uva",
-    "starts_at": 1795219200,
-    "ends_at": 1795230000,
-    "page": "https://ppv.st/live/cbb/2026-11-20/lmd-uva"
-  },
-  {
-    "name": "Coastal Carolina Chanticleers vs Tennessee Volunteers",
-    "poster": "https://static.ppvservices.st/assets/thumb/238e28650138d39e43fd50d92fc78e9a-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/ccu-tenn",
-    "starts_at": 1795219200,
-    "ends_at": 1795230000,
-    "page": "https://ppv.st/live/cbb/2026-11-20/ccu-tenn"
-  },
-  {
-    "name": "Orlando Magic vs Brooklyn Nets",
-    "poster": "https://static.ppvservices.st/assets/thumb/206769c0f9f6e93c455c70926b4abb41-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/orl-bkn",
-    "starts_at": 1795221000,
-    "ends_at": 1795231800,
-    "page": "https://ppv.st/live/nba/2026-11-20/orl-bkn"
-  },
-  {
-    "name": "Indiana Pacers vs Cleveland Cavaliers",
-    "poster": "https://static.ppvservices.st/assets/thumb/2fa44c939705107d594694add94d4e17-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/ind-cle",
-    "starts_at": 1795221000,
-    "ends_at": 1795231800,
-    "page": "https://ppv.st/live/nba/2026-11-20/ind-cle"
-  },
-  {
-    "name": "Toronto Raptors vs Detroit Pistons",
-    "poster": "https://static.ppvservices.st/assets/thumb/7942f4ba146ff816f75752debdb563fd-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/tor-det",
-    "starts_at": 1795221000,
-    "ends_at": 1795231800,
-    "page": "https://ppv.st/live/nba/2026-11-20/tor-det"
-  },
-  {
-    "name": "Washington Wizards vs Chicago Bulls",
-    "poster": "https://static.ppvservices.st/assets/thumb/4a13446939ac9b569c758e070c3da73f-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/wsh-chi",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "page": "https://ppv.st/live/nba/2026-11-20/wsh-chi"
-  },
-  {
-    "name": "New Orleans Pelicans vs Oklahoma City Thunder",
-    "poster": "https://static.ppvservices.st/assets/thumb/7974fb81723c88aacfdf19dc228997b4-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/no-okc",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "page": "https://ppv.st/live/nba/2026-11-20/no-okc"
-  },
-  {
-    "name": "UCF Knights vs Vanderbilt Commodores",
-    "poster": "https://static.ppvservices.st/assets/thumb/d6e3ee1c9037ca5678b305bf8dc7da96-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/ucf-van",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "page": "https://ppv.st/live/cbb/2026-11-20/ucf-van"
-  },
-  {
-    "name": "Mississippi Valley State Delta Devils vs Arkansas Razorbacks",
-    "poster": "https://static.ppvservices.st/assets/thumb/66caadcad0d7386e6d8f97f29e1e2748-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/mvsu-ark",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "page": "https://ppv.st/live/cbb/2026-11-20/mvsu-ark"
-  },
-  {
-    "name": "Eastern Illinois Panthers vs Illinois Fighting Illini",
-    "poster": "https://static.ppvservices.st/assets/thumb/dd3f333729de85e358f2c66ae9b4db6b-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-20/eiu-ill",
-    "starts_at": 1795226400,
-    "ends_at": 1795237200,
-    "page": "https://ppv.st/live/cbb/2026-11-20/eiu-ill"
-  },
-  {
-    "name": "Phoenix Suns vs Utah Jazz",
-    "poster": "https://static.ppvservices.st/assets/thumb/e2030521e5976b30f09613cf0150a2ef-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-20/phx-utah",
-    "starts_at": 1795228200,
-    "ends_at": 1795239000,
-    "page": "https://ppv.st/live/nba/2026-11-20/phx-utah"
   },
   {
     "name": "Willow",
@@ -168,16 +38,6 @@
     "starts_at": -3600,
     "ends_at": 10800,
     "page": "https://ppv.st/live/247-fox-cricket"
-  },
-  {
-    "name": "Puebla vs Atl\u00e9tico de San Luis",
-    "poster": "https://static.ppvservices.st/assets/thumb/23cbaf92134b5a9855ae02fb2287adb1-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-20/pue-asl",
-    "starts_at": 1795222800,
-    "ends_at": 1795231800,
-    "page": "https://ppv.st/live/liga-mx/2026-11-20/pue-asl"
   },
   {
     "name": "Sky Sports Golf",
@@ -228,16 +88,6 @@
     "starts_at": 1794787200,
     "ends_at": 1794801600,
     "page": "https://ppv.st/live/sky-sports-tennis-32479"
-  },
-  {
-    "name": "WWE Friday Night Smackdown",
-    "poster": "https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-    "tag": "Wrestling",
-    "category": "Wrestling",
-    "uri": "wwe/2026-11-20",
-    "starts_at": 1795222800,
-    "ends_at": 1795233600,
-    "page": "https://ppv.st/live/wwe/2026-11-20"
   },
   {
     "name": "24/7 South Park",
