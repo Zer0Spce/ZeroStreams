@@ -20,6 +20,16 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
+    "name": "Nebraska Cornhuskers vs Butler Bulldogs",
+    "poster": "https://static.ppvservices.st/assets/thumb/ce1d60b4d9455afa887087f44ca8306f-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-22/neb-btlr",
+    "starts_at": 1795366800,
+    "ends_at": 1795377600,
+    "page": "https://ppv.st/live/cbb/2026-11-22/neb-btlr"
+  },
+  {
     "name": "Willow",
     "poster": "https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -40,6 +50,86 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Racing Santander vs Real Sociedad",
+    "poster": "https://static.ppvservices.st/assets/thumb/a5013db01b1b958870ac8a0ba7a70ebb-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-22/rac-rso",
+    "starts_at": 1795360500,
+    "ends_at": 1795369500,
+    "page": "https://ppv.st/live/laliga/2026-11-22/rac-rso"
+  },
+  {
+    "name": "IF Brommapojkarna vs Halmstads BK",
+    "poster": "https://static.ppvservices.st/assets/thumb/2201737488ff4467e39850167a42bfbb-thumbnail.jpg",
+    "tag": "Allsvenskan",
+    "category": "Football",
+    "uri": "allsvenskan/2026-11-22/bro-hbk",
+    "starts_at": 1795361400,
+    "ends_at": 1795370400,
+    "page": "https://ppv.st/live/allsvenskan/2026-11-22/bro-hbk"
+  },
+  {
+    "name": "Go Ahead Eagles vs Fortuna Sittard",
+    "poster": "https://static.ppvservices.st/assets/thumb/7e6aaaec8c8ffd9fb5e0b9aa04144304-thumbnail.jpg",
+    "tag": "Eredivisie",
+    "category": "Football",
+    "uri": "eredivisie/2026-11-22/gae-for",
+    "starts_at": 1795362300,
+    "ends_at": 1795371300,
+    "page": "https://ppv.st/live/eredivisie/2026-11-22/gae-for"
+  },
+  {
+    "name": "Lorient vs Stade Rennais",
+    "poster": "https://static.ppvservices.st/assets/thumb/0d43678c181f9ec6f83f94005214f66b-thumbnail.jpg",
+    "tag": "Ligue 1",
+    "category": "Football",
+    "uri": "ligue1/2026-11-22/lor-ren",
+    "starts_at": 1795364100,
+    "ends_at": 1795373100,
+    "page": "https://ppv.st/live/ligue1/2026-11-22/lor-ren"
+  },
+  {
+    "name": "Werder Bremen vs Hamburg SV",
+    "poster": "https://static.ppvservices.st/assets/thumb/237287cd556b8184671ad551272f6fb6-thumbnail.jpg",
+    "tag": "Bundesliga",
+    "category": "Football",
+    "uri": "bundesliga/2026-11-22/svw-hsv",
+    "starts_at": 1795365000,
+    "ends_at": 1795374000,
+    "page": "https://ppv.st/live/bundesliga/2026-11-22/svw-hsv"
+  },
+  {
+    "name": "Liverpool vs Manchester United",
+    "poster": "https://static.ppvservices.st/assets/thumb/06f2151b64027a437b011debdeeb087b-thumbnail.jpg",
+    "tag": "Premier League",
+    "category": "Football",
+    "uri": "pl/2026-11-22/liv-mun",
+    "starts_at": 1795365000,
+    "ends_at": 1795374000,
+    "page": "https://ppv.st/live/pl/2026-11-22/liv-mun"
+  },
+  {
+    "name": "AC Milan vs Frosinone",
+    "poster": "https://static.ppvservices.st/assets/thumb/ba0bbe01e3206edd18c210450083d8dc-thumbnail.jpg",
+    "tag": "Serie A",
+    "category": "Football",
+    "uri": "seriea/2026-11-22/mil-fro",
+    "starts_at": 1795366800,
+    "ends_at": 1795375800,
+    "page": "https://ppv.st/live/seriea/2026-11-22/mil-fro"
+  },
+  {
+    "name": "Osasuna vs M\u00e1laga",
+    "poster": "https://static.ppvservices.st/assets/thumb/e72a9dc8b31d702fad830f91d6f3c50f-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-22/osa-mcf",
+    "starts_at": 1795368600,
+    "ends_at": 1795377600,
+    "page": "https://ppv.st/live/laliga/2026-11-22/osa-mcf"
+  },
+  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -58,6 +148,16 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Carolina Hurricanes vs New York Rangers",
+    "poster": "https://static.ppvservices.st/assets/thumb/40e2ec2a8323dc09937350322ae0a0f7-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-22/car-nyr",
+    "starts_at": 1795368600,
+    "ends_at": 1795379400,
+    "page": "https://ppv.st/live/nhl/2026-11-22/car-nyr"
   },
   {
     "name": "Fox League",
