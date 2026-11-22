@@ -10,86 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "UCLA Bruins vs Michigan Wolverines",
-    "poster": "https://static.ppvservices.st/assets/thumb/9c6bc998fc37d13e9062a30a2a29faa9-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/ucla-mich",
-    "starts_at": 1795293000,
-    "ends_at": 1795307400,
-    "page": "https://ppv.st/live/cfb/2026-11-21/ucla-mich"
-  },
-  {
-    "name": "Arkansas Razorbacks vs Texas Longhorns",
-    "poster": "https://static.ppvservices.st/assets/thumb/08a4cef068111a1d3f1898c4ad3d30b2-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/ark-tex",
-    "starts_at": 1795293000,
-    "ends_at": 1795307400,
-    "page": "https://ppv.st/live/cfb/2026-11-21/ark-tex"
-  },
-  {
-    "name": "LSU Tigers vs Tennessee Volunteers",
-    "poster": "https://static.ppvservices.st/assets/thumb/f555fcf02f18b48afa2cdcf8f49dedac-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/lsu-tenn",
-    "starts_at": 1795293000,
-    "ends_at": 1795307400,
-    "page": "https://ppv.st/live/cfb/2026-11-21/lsu-tenn"
-  },
-  {
-    "name": "Indiana Hoosiers vs Washington Huskies",
-    "poster": "https://static.ppvservices.st/assets/thumb/dc46a235ab5f5e5fcff73d92d9c397fb-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/iu-wash",
-    "starts_at": 1795293000,
-    "ends_at": 1795307400,
-    "page": "https://ppv.st/live/cfb/2026-11-21/iu-wash"
-  },
-  {
-    "name": "Texas Tech Red Raiders vs Baylor Bears",
-    "poster": "https://static.ppvservices.st/assets/thumb/a1a507d890a600a0d6c6a5343502a5ac-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/ttu-bay",
-    "starts_at": 1795293000,
-    "ends_at": 1795307400,
-    "page": "https://ppv.st/live/cfb/2026-11-21/ttu-bay"
-  },
-  {
-    "name": "Maryland Terrapins vs USC Trojans",
-    "poster": "https://static.ppvservices.st/assets/thumb/91cb28d271b78d51aa50868a55a8298e-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/md-usc",
-    "starts_at": 1795302900,
-    "ends_at": 1795317300,
-    "page": "https://ppv.st/live/cfb/2026-11-21/md-usc"
-  },
-  {
-    "name": "Virginia Tech Hokies vs Miami Hurricanes",
-    "poster": "https://static.ppvservices.st/assets/thumb/073299ad5392d73892de1e58bc36cd36-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/vt-mia",
-    "starts_at": 1795305600,
-    "ends_at": 1795320000,
-    "page": "https://ppv.st/live/cfb/2026-11-21/vt-mia"
-  },
-  {
-    "name": "Arizona Wildcats vs Kansas State Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/acd5376787aea36d66e1875b45f797e9-thumbnail.jpg",
-    "tag": "College Football",
-    "category": "American Football",
-    "uri": "cfb/2026-11-21/ariz-ksu",
-    "starts_at": 1795305600,
-    "ends_at": 1795320000,
-    "page": "https://ppv.st/live/cfb/2026-11-21/ariz-ksu"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -98,16 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Michigan Wolverines vs Villanova Wildcats",
-    "poster": "https://static.ppvservices.st/assets/thumb/b55403cb876e9676eca69e95ba77ae6b-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-21/mich-vill",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/cbb/2026-11-21/mich-vill"
   },
   {
     "name": "Willow",
@@ -130,36 +40,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Pachuca vs Toluca",
-    "poster": "https://static.ppvservices.st/assets/thumb/65e4e8a3a4de55f4ddb174a28b807dd3-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-21/pac-tol",
-    "starts_at": 1795301400,
-    "ends_at": 1795310400,
-    "page": "https://ppv.st/live/liga-mx/2026-11-21/pac-tol"
-  },
-  {
-    "name": "Inter Miami CF vs Columbus Crew",
-    "poster": "https://static.ppvservices.st/assets/thumb/5c76912b1fabd8e39539a6152440ce4f-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-21/mia-clb",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "page": "https://ppv.st/live/mls/2026-11-21/mia-clb"
-  },
-  {
-    "name": "Santos vs Le\u00f3n",
-    "poster": "https://static.ppvservices.st/assets/thumb/6c33984bcfb9bee87ac4eb147b96a89b-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-21/san-leo",
-    "starts_at": 1795302000,
-    "ends_at": 1795311000,
-    "page": "https://ppv.st/live/liga-mx/2026-11-21/san-leo"
-  },
-  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -178,96 +58,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Buffalo Sabres vs Florida Panthers",
-    "poster": "https://static.ppvservices.st/assets/thumb/268800077b726a02be359e2d4e94a392-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/buf-fla",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "page": "https://ppv.st/live/nhl/2026-11-21/buf-fla"
-  },
-  {
-    "name": "Pittsburgh Penguins vs Nashville Predators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6cbcc9754451ac6f7ff760b81e666d4d-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/pit-nsh",
-    "starts_at": 1795302000,
-    "ends_at": 1795312800,
-    "page": "https://ppv.st/live/nhl/2026-11-21/pit-nsh"
-  },
-  {
-    "name": "Washington Capitals vs Boston Bruins",
-    "poster": "https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/wsh-bos",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/wsh-bos"
-  },
-  {
-    "name": "Columbus Blue Jackets vs Toronto Maple Leafs",
-    "poster": "https://static.ppvservices.st/assets/thumb/b43e7e07a3dc3777ea34f3f8125c1ed6-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/cbj-tor",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/cbj-tor"
-  },
-  {
-    "name": "Philadelphia Flyers vs Montreal Canadiens",
-    "poster": "https://static.ppvservices.st/assets/thumb/e8118edf1e37cad40ca4ccb05d198b90-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/phi-mtl",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/phi-mtl"
-  },
-  {
-    "name": "Los Angeles Kings vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6a1d8e0d9465315112371c04e15b273e-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/la-ott",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/la-ott"
-  },
-  {
-    "name": "New York Islanders vs Detroit Red Wings",
-    "poster": "https://static.ppvservices.st/assets/thumb/b01cb469cdb743e1f0948765e356fc3f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/nyi-det",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/nyi-det"
-  },
-  {
-    "name": "New Jersey Devils vs St. Louis Blues",
-    "poster": "https://static.ppvservices.st/assets/thumb/48d9ebab1d9ff4d8a903c6521e1ea489-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/nj-stl",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/nj-stl"
-  },
-  {
-    "name": "Vegas Golden Knights vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/09b53f37e6899dc5ceda3868b7068e68-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-21/vgk-wpg",
-    "starts_at": 1795305600,
-    "ends_at": 1795316400,
-    "page": "https://ppv.st/live/nhl/2026-11-21/vgk-wpg"
   },
   {
     "name": "Fox League",
