@@ -10,16 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Minnesota Vikings vs San Francisco 49ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/30818a87bae0059ea711827d5a2ed07d-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-22/min-sf",
-    "starts_at": 1795396800,
-    "ends_at": 1795411200,
-    "page": "https://ppv.st/live/nfl/2026-11-22/min-sf"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -28,56 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Orlando Magic vs Washington Wizards",
-    "poster": "https://static.ppvservices.st/assets/thumb/5f2c06328219573a23651b2455d92a29-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/orl-wsh",
-    "starts_at": 1795392000,
-    "ends_at": 1795402800,
-    "page": "https://ppv.st/live/nba/2026-11-22/orl-wsh"
-  },
-  {
-    "name": "Denver Nuggets vs Chicago Bulls",
-    "poster": "https://static.ppvservices.st/assets/thumb/a6626ffb8095b259970a8e609204efc4-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/den-chi",
-    "starts_at": 1795392000,
-    "ends_at": 1795402800,
-    "page": "https://ppv.st/live/nba/2026-11-22/den-chi"
-  },
-  {
-    "name": "Dallas Mavericks vs Utah Jazz",
-    "poster": "https://static.ppvservices.st/assets/thumb/044ef8898e3f5c9482b893862770b354-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/dal-utah",
-    "starts_at": 1795392000,
-    "ends_at": 1795402800,
-    "page": "https://ppv.st/live/nba/2026-11-22/dal-utah"
-  },
-  {
-    "name": "Indiana Pacers vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/77c15a0c3e0b649ec74e67ea5a119738-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/ind-ny",
-    "starts_at": 1795395600,
-    "ends_at": 1795406400,
-    "page": "https://ppv.st/live/nba/2026-11-22/ind-ny"
-  },
-  {
-    "name": "Boston Celtics vs Golden State Warriors",
-    "poster": "https://static.ppvservices.st/assets/thumb/e7a99ae793cc3ff1510e270626deaf3e-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-22/bos-gs",
-    "starts_at": 1795397400,
-    "ends_at": 1795408200,
-    "page": "https://ppv.st/live/nba/2026-11-22/bos-gs"
   },
   {
     "name": "Willow",
@@ -100,16 +40,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "Quer\u00e9taro vs Necaxa",
-    "poster": "https://static.ppvservices.st/assets/thumb/64187500a64cc2a234854d9b96e9bc7c-thumbnail.jpg",
-    "tag": "Liga MX",
-    "category": "Football",
-    "uri": "liga-mx/2026-11-22/qro-ncx",
-    "starts_at": 1795395600,
-    "ends_at": 1795404600,
-    "page": "https://ppv.st/live/liga-mx/2026-11-22/qro-ncx"
-  },
-  {
     "name": "Sky Sports Golf",
     "poster": "https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -128,36 +58,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Edmonton Oilers vs St. Louis Blues",
-    "poster": "https://static.ppvservices.st/assets/thumb/107b4be5477dde4fae41ac8ff878fd72-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-22/edm-stl",
-    "starts_at": 1795392000,
-    "ends_at": 1795402800,
-    "page": "https://ppv.st/live/nhl/2026-11-22/edm-stl"
-  },
-  {
-    "name": "Pittsburgh Penguins vs Dallas Stars",
-    "poster": "https://static.ppvservices.st/assets/thumb/7a8684ca03f6fbf2043bba56f788af08-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-22/pit-dal",
-    "starts_at": 1795392000,
-    "ends_at": 1795402800,
-    "page": "https://ppv.st/live/nhl/2026-11-22/pit-dal"
-  },
-  {
-    "name": "Chicago Blackhawks vs Vancouver Canucks",
-    "poster": "https://static.ppvservices.st/assets/thumb/91378b696292f39271cb05b31105f430-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-22/chi-van",
-    "starts_at": 1795395600,
-    "ends_at": 1795406400,
-    "page": "https://ppv.st/live/nhl/2026-11-22/chi-van"
   },
   {
     "name": "Fox League",
