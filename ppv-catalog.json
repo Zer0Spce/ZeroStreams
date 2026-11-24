@@ -10,16 +10,6 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
-    "name": "Cincinnati Bengals vs Washington Commanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/fc28cf61169d475e5c04405791cebec9-thumbnail.jpg",
-    "tag": "NFL",
-    "category": "American Football",
-    "uri": "nfl/2026-11-23/cin-wsh",
-    "starts_at": 1795482900,
-    "ends_at": 1795497300,
-    "page": "https://ppv.st/live/nfl/2026-11-23/cin-wsh"
-  },
-  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -28,96 +18,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Memphis Grizzlies vs Charlotte Hornets",
-    "poster": "https://static.ppvservices.st/assets/thumb/234881f2cb32455111f7de60cb6324b5-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/mem-cha",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "page": "https://ppv.st/live/nba/2026-11-23/mem-cha"
-  },
-  {
-    "name": "Portland Trail Blazers vs Philadelphia 76ers",
-    "poster": "https://static.ppvservices.st/assets/thumb/fdc55e13dae68ab9e50b4b19b9ce2263-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/por-phi",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "page": "https://ppv.st/live/nba/2026-11-23/por-phi"
-  },
-  {
-    "name": "Oklahoma City Thunder vs Indiana Pacers",
-    "poster": "https://static.ppvservices.st/assets/thumb/4ccb28335bd6091d59a1173a36093253-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/okc-ind",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nba/2026-11-23/okc-ind"
-  },
-  {
-    "name": "Milwaukee Bucks vs Toronto Raptors",
-    "poster": "https://static.ppvservices.st/assets/thumb/dc7402b0c0c320bd0b888009a3fe33e1-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/mil-tor",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nba/2026-11-23/mil-tor"
-  },
-  {
-    "name": "Brooklyn Nets vs Minnesota Timberwolves",
-    "poster": "https://static.ppvservices.st/assets/thumb/92975394a0b1fd9678498f056e3a1f86-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/bkn-min",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nba/2026-11-23/bkn-min"
-  },
-  {
-    "name": "Cleveland Cavaliers vs Chicago Bulls",
-    "poster": "https://static.ppvservices.st/assets/thumb/7c1f60709858aa6098794af1814a5085-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/cle-chi",
-    "starts_at": 1795482000,
-    "ends_at": 1795492800,
-    "page": "https://ppv.st/live/nba/2026-11-23/cle-chi"
-  },
-  {
-    "name": "Phoenix Suns vs New Orleans Pelicans",
-    "poster": "https://static.ppvservices.st/assets/thumb/a0c58a826b4d237fc05a3acb2139dba0-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/phx-no",
-    "starts_at": 1795482000,
-    "ends_at": 1795492800,
-    "page": "https://ppv.st/live/nba/2026-11-23/phx-no"
-  },
-  {
-    "name": "Winthrop Eagles vs Illinois Fighting Illini",
-    "poster": "https://static.ppvservices.st/assets/thumb/0f64ed999046c56369e58bf2f5d869c9-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-23/win-ill",
-    "starts_at": 1795482000,
-    "ends_at": 1795492800,
-    "page": "https://ppv.st/live/cbb/2026-11-23/win-ill"
-  },
-  {
-    "name": "Los Angeles Clippers vs Houston Rockets",
-    "poster": "https://static.ppvservices.st/assets/thumb/e75b6d08751a3671b0b059104b72825d-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-23/lac-hou",
-    "starts_at": 1795483800,
-    "ends_at": 1795494600,
-    "page": "https://ppv.st/live/nba/2026-11-23/lac-hou"
   },
   {
     "name": "Willow",
@@ -140,16 +40,6 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
-    "name": "St. Louis CITY SC vs LAFC",
-    "poster": "https://static.ppvservices.st/assets/thumb/dd3e757b37471d7e0a4738249ea695c8-thumbnail.jpg",
-    "tag": "MLS",
-    "category": "Football",
-    "uri": "mls/2026-11-23/stl-lafc",
-    "starts_at": 1795482000,
-    "ends_at": 1795492800,
-    "page": "https://ppv.st/live/mls/2026-11-23/stl-lafc"
-  },
-  {
     "name": "NHL Network",
     "poster": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -158,56 +48,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Columbus Blue Jackets vs New Jersey Devils",
-    "poster": "https://static.ppvservices.st/assets/thumb/6ca19d1fcd1fa2c4729e5842153f7c5a-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/cbj-nj",
-    "starts_at": 1795478400,
-    "ends_at": 1795489200,
-    "page": "https://ppv.st/live/nhl/2026-11-23/cbj-nj"
-  },
-  {
-    "name": "Los Angeles Kings vs Montreal Canadiens",
-    "poster": "https://static.ppvservices.st/assets/thumb/fd1ada708e6a37f71f47d2c94468f55c-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/la-mtl",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nhl/2026-11-23/la-mtl"
-  },
-  {
-    "name": "Calgary Flames vs Ottawa Senators",
-    "poster": "https://static.ppvservices.st/assets/thumb/6746c764bd430a27e0be3cd4a422bb1f-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/cgy-ott",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nhl/2026-11-23/cgy-ott"
-  },
-  {
-    "name": "Toronto Maple Leafs vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/476646008a52caf95bcc3d99dfd1c689-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/tor-nyi",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nhl/2026-11-23/tor-nyi"
-  },
-  {
-    "name": "Utah Mammoth vs Winnipeg Jets",
-    "poster": "https://static.ppvservices.st/assets/thumb/8e355a8a243fb84e2b8acc4e6f6df903-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-23/uta-wpg",
-    "starts_at": 1795480200,
-    "ends_at": 1795491000,
-    "page": "https://ppv.st/live/nhl/2026-11-23/uta-wpg"
   },
   {
     "name": "Fox League",
