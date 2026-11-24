@@ -11,14 +11,14 @@ https://tedesco.formaturamaxi.com.br/fs1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba5.m3u8
-#EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA | Cleveland Cavaliers vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Cleveland Cavaliers vs Chicago Bulls
+#EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA | Cleveland Cavaliers vs Chicago Bulls" tvg-logo="https://static.ppvservices.st/assets/thumb/7c1f60709858aa6098794af1814a5085-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Cleveland Cavaliers vs Chicago Bulls
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba6.m3u8
-#EXTINF:-1 tvg-id="zerostreams.16949ddf742381fb" tvg-name="NBA | Los Angeles Clippers vs Houston Rockets" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Los Angeles Clippers vs Houston Rockets
+#EXTINF:-1 tvg-id="zerostreams.1a6a9aeb6646aa63" tvg-name="NBA | Los Angeles Clippers vs Houston Rockets" tvg-logo="https://static.ppvservices.st/assets/thumb/e75b6d08751a3671b0b059104b72825d-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Los Angeles Clippers vs Houston Rockets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin.formaturamaxi.com.br/nba8.m3u8
+https://admin2.formaturamaxi.com.br/nba8.m3u8
 #EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="NBA | Memphis Grizzlies vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/234881f2cb32455111f7de60cb6324b5-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Memphis Grizzlies vs Charlotte Hornets
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -27,14 +27,10 @@ https://admin2.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba4.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a8921b46a11e8895" tvg-name="NBA | Phoenix Suns vs New Orleans Pelicans — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Phoenix Suns vs New Orleans Pelicans — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.61d479e63052c1ee" tvg-name="NBA | Phoenix Suns vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/a0c58a826b4d237fc05a3acb2139dba0-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Phoenix Suns vs New Orleans Pelicans
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://admin2.formaturamaxi.com.br/nba7.m3u8
-#EXTINF:-1 tvg-id="zerostreams.90a795ca6ab5621b" tvg-name="NBA | Phoenix Suns vs New Orleans Pelicans — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="verified",NBA | Phoenix Suns vs New Orleans Pelicans — Feed 2
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
-https://tedesco.formaturamaxi.com.br/nba.m3u8
+https://admin.formaturamaxi.com.br/nba7.m3u8
 #EXTINF:-1 tvg-id="zerostreams.90e298ac81863038" tvg-name="NBA | Portland Trail Blazers vs Philadelphia 76ers" tvg-logo="https://static.ppvservices.st/assets/thumb/fdc55e13dae68ab9e50b4b19b9ce2263-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Portland Trail Blazers vs Philadelphia 76ers
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
@@ -47,11 +43,11 @@ https://admin.formaturamaxi.com.br/bucks.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nba9.m3u8
-#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="NFL | Cincinnati Bengals vs Washington Commanders — Feed 1" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL" x-stream-status="verified",NFL | Cincinnati Bengals vs Washington Commanders — Feed 1
+#EXTINF:-1 tvg-id="zerostreams.6e2002794191a580" tvg-name="NFL | Cincinnati Bengals vs Washington Commanders — Feed 1" tvg-logo="https://static.ppvservices.st/assets/thumb/fc28cf61169d475e5c04405791cebec9-thumbnail.jpg" group-title="NFL" x-stream-status="verified",NFL | Cincinnati Bengals vs Washington Commanders — Feed 1
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="NFL | Cincinnati Bengals vs Washington Commanders — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nfl.png" group-title="NFL" x-stream-status="verified",NFL | Cincinnati Bengals vs Washington Commanders — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.a096cec0e20f3130" tvg-name="NFL | Cincinnati Bengals vs Washington Commanders — Feed 2" tvg-logo="https://static.ppvservices.st/assets/thumb/fc28cf61169d475e5c04405791cebec9-thumbnail.jpg" group-title="NFL" x-stream-status="verified",NFL | Cincinnati Bengals vs Washington Commanders — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/nfl.m3u8
@@ -139,7 +135,7 @@ https://admin2.formaturamaxi.com.br/fs1.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://admin2.formaturamaxi.com.br/wwe.m3u8
-#EXTINF:-1 tvg-id="zerostreams.f0ae8d396889ae29" tvg-name="WWE RAW — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE" x-stream-status="verified",WWE RAW — Feed 2
+#EXTINF:-1 tvg-id="zerostreams.f0ae8d396889ae29" tvg-name="WWE RAW — Feed 2" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/wwe.png" group-title="WWE" x-stream-status="unverified",WWE RAW — Feed 2
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/wwe-streams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
 https://tedesco.formaturamaxi.com.br/wwe.m3u8
