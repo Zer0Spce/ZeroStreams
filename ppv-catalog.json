@@ -20,26 +20,6 @@
     "page": "https://ppv.st/live/247-fox-footy"
   },
   {
-    "name": "Tennessee Volunteers vs Maryland Terrapins",
-    "poster": "https://static.ppvservices.st/assets/thumb/773a303499e2cd31cffdf64de8baac98-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-24/tenn-md",
-    "starts_at": 1795550400,
-    "ends_at": 1795561200,
-    "page": "https://ppv.st/live/cbb/2026-11-24/tenn-md"
-  },
-  {
-    "name": "Miami Hurricanes vs TCU Horned Frogs",
-    "poster": "https://static.ppvservices.st/assets/thumb/3497abcfc66e52665cc08ca9c12ccb25-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-24/mia-tcu",
-    "starts_at": 1795550400,
-    "ends_at": 1795561200,
-    "page": "https://ppv.st/live/cbb/2026-11-24/mia-tcu"
-  },
-  {
     "name": "Creighton Bluejays vs Michigan Wolverines",
     "poster": "https://static.ppvservices.st/assets/thumb/a60eba5d761656ef61fabd44dfddda10-thumbnail.jpg",
     "tag": "College Basketball",
@@ -48,6 +28,66 @@
     "starts_at": 1795559400,
     "ends_at": 1795570200,
     "page": "https://ppv.st/live/cbb/2026-11-24/crei-mich"
+  },
+  {
+    "name": "Detroit Pistons vs Orlando Magic",
+    "poster": "https://static.ppvservices.st/assets/thumb/7d6d17d170148d3ec3ca7d13340f3089-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-24/det-orl",
+    "starts_at": 1795564800,
+    "ends_at": 1795575600,
+    "page": "https://ppv.st/live/nba/2026-11-24/det-orl"
+  },
+  {
+    "name": "Milwaukee Panthers vs Florida Gators",
+    "poster": "https://static.ppvservices.st/assets/thumb/c6d3fdc86428798b622ee892f0c2639c-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-24/milw-fla",
+    "starts_at": 1795564800,
+    "ends_at": 1795575600,
+    "page": "https://ppv.st/live/cbb/2026-11-24/milw-fla"
+  },
+  {
+    "name": "Vanderbilt Commodores vs Ohio State Buckeyes",
+    "poster": "https://static.ppvservices.st/assets/thumb/274b90b187ed125ca0e9d13c853be3b7-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-24/van-osu",
+    "starts_at": 1795564800,
+    "ends_at": 1795575600,
+    "page": "https://ppv.st/live/cbb/2026-11-24/van-osu"
+  },
+  {
+    "name": "Jacksonville Dolphins vs Indiana Hoosiers",
+    "poster": "https://static.ppvservices.st/assets/thumb/191deabeced94ab5b8d8313eb7fe3632-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-24/jax-iu",
+    "starts_at": 1795564800,
+    "ends_at": 1795575600,
+    "page": "https://ppv.st/live/cbb/2026-11-24/jax-iu"
+  },
+  {
+    "name": "Boston Celtics vs Washington Wizards",
+    "poster": "https://static.ppvservices.st/assets/thumb/c9cfce5aa9e0a60c8965d8286cc6bdbe-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-24/bos-wsh",
+    "starts_at": 1795568400,
+    "ends_at": 1795579200,
+    "page": "https://ppv.st/live/nba/2026-11-24/bos-wsh"
+  },
+  {
+    "name": "Texas Tech Red Raiders vs Louisville Cardinals",
+    "poster": "https://static.ppvservices.st/assets/thumb/e1cd68a95370ed8420977a549f4dc372-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-24/ttu-lou",
+    "starts_at": 1795568400,
+    "ends_at": 1795579200,
+    "page": "https://ppv.st/live/cbb/2026-11-24/ttu-lou"
   },
   {
     "name": "Willow",
@@ -80,6 +120,16 @@
     "page": "https://ppv.st/live/nhl-network-29780"
   },
   {
+    "name": "Vegas Golden Knights vs Edmonton Oilers",
+    "poster": "https://static.ppvservices.st/assets/thumb/466955b54f067f516b606a56954aa1f9-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-24/vgk-edm",
+    "starts_at": 1795568400,
+    "ends_at": 1795579200,
+    "page": "https://ppv.st/live/nhl/2026-11-24/vgk-edm"
+  },
+  {
     "name": "Fox League",
     "poster": "https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -98,6 +148,16 @@
     "starts_at": 60,
     "ends_at": 10860,
     "page": "https://ppv.st/live/tennis-channel"
+  },
+  {
+    "name": "WWE NXT",
+    "poster": "https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+    "tag": "Wrestling",
+    "category": "Wrestling",
+    "uri": "wwe/2026-11-24",
+    "starts_at": 1795568400,
+    "ends_at": 1795579200,
+    "page": "https://ppv.st/live/wwe/2026-11-24"
   },
   {
     "name": "24/7 South Park",
