@@ -10,6 +10,26 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "Denver Broncos vs Pittsburgh Steelers",
+    "poster": "https://static.ppvservices.st/assets/thumb/ba976e2604c62434eb25dbe611f97b10-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-27/den-pit",
+    "starts_at": 1795809600,
+    "ends_at": 1795824000,
+    "page": "https://ppv.st/live/nfl/2026-11-27/den-pit"
+  },
+  {
+    "name": "Florida Gators vs Florida State Seminoles",
+    "poster": "https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-27/fla-fsu",
+    "starts_at": 1795811400,
+    "ends_at": 1795825800,
+    "page": "https://ppv.st/live/cfb/2026-11-27/fla-fsu"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -18,6 +38,26 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Southern Jaguars vs Vanderbilt Commodores",
+    "poster": "https://static.ppvservices.st/assets/thumb/39650c97616466a32060ac7b8a8b8978-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-27/sou-van",
+    "starts_at": 1795806000,
+    "ends_at": 1795816800,
+    "page": "https://ppv.st/live/cbb/2026-11-27/sou-van"
+  },
+  {
+    "name": "Georgetown Hoyas vs UCLA Bruins",
+    "poster": "https://static.ppvservices.st/assets/thumb/e9bcb184f691e472bf366bec4f015fa1-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-27/gtwn-ucla",
+    "starts_at": 1795807800,
+    "ends_at": 1795818600,
+    "page": "https://ppv.st/live/cbb/2026-11-27/gtwn-ucla"
   },
   {
     "name": "Willow",
@@ -40,6 +80,56 @@
     "page": "https://ppv.st/live/247-fox-cricket"
   },
   {
+    "name": "Players Championship Finals | Day 1 Session 2",
+    "poster": "https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg",
+    "tag": "Darts",
+    "category": "Darts",
+    "uri": "players-championship-finals--day-1-session-2-33039",
+    "starts_at": 1795806000,
+    "ends_at": 1795820400,
+    "page": "https://ppv.st/live/players-championship-finals--day-1-session-2-33039"
+  },
+  {
+    "name": "Werder Bremen vs Borussia M\u00f6nchengladbach",
+    "poster": "https://static.ppvservices.st/assets/thumb/5baae9270e3796c90e0f455f651357c0-thumbnail.jpg",
+    "tag": "Bundesliga",
+    "category": "Football",
+    "uri": "bundesliga/2026-11-27/svw-bmg",
+    "starts_at": 1795807800,
+    "ends_at": 1795816800,
+    "page": "https://ppv.st/live/bundesliga/2026-11-27/svw-bmg"
+  },
+  {
+    "name": "Venezia vs Bologna",
+    "poster": "https://static.ppvservices.st/assets/thumb/a71f7b095e9d509c0a7b264c6198a2ce-thumbnail.jpg",
+    "tag": "Serie A",
+    "category": "Football",
+    "uri": "seriea/2026-11-27/ven-bol",
+    "starts_at": 1795808700,
+    "ends_at": 1795817700,
+    "page": "https://ppv.st/live/seriea/2026-11-27/ven-bol"
+  },
+  {
+    "name": "Levante vs Racing Santander",
+    "poster": "https://static.ppvservices.st/assets/thumb/f9d22f2a3c55b88750a083e1bf9d8433-thumbnail.jpg",
+    "tag": "LaLiga",
+    "category": "Football",
+    "uri": "laliga/2026-11-27/lev-rac",
+    "starts_at": 1795809600,
+    "ends_at": 1795818600,
+    "page": "https://ppv.st/live/laliga/2026-11-27/lev-rac"
+  },
+  {
+    "name": "Nottingham Forest vs Chelsea",
+    "poster": "https://static.ppvservices.st/assets/thumb/2caeecfaa71b74af230a7e81c7ec0623-thumbnail.jpg",
+    "tag": "Premier League",
+    "category": "Football",
+    "uri": "pl/2026-11-27/nfo-che",
+    "starts_at": 1795809600,
+    "ends_at": 1795818600,
+    "page": "https://ppv.st/live/pl/2026-11-27/nfo-che"
+  },
+  {
     "name": "NHL Network",
     "poster": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -48,6 +138,86 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
+  },
+  {
+    "name": "Dallas Stars vs St. Louis Blues",
+    "poster": "https://static.ppvservices.st/assets/thumb/1d48dee2057540ecf0fdf9d48b90aef6-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/dal-stl",
+    "starts_at": 1795806000,
+    "ends_at": 1795816800,
+    "page": "https://ppv.st/live/nhl/2026-11-27/dal-stl"
+  },
+  {
+    "name": "Ottawa Senators vs Tampa Bay Lightning",
+    "poster": "https://static.ppvservices.st/assets/thumb/7df1f78479305216dee4082fa843ac89-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/ott-tb",
+    "starts_at": 1795809600,
+    "ends_at": 1795820400,
+    "page": "https://ppv.st/live/nhl/2026-11-27/ott-tb"
+  },
+  {
+    "name": "Vancouver Canucks vs Philadelphia Flyers",
+    "poster": "https://static.ppvservices.st/assets/thumb/e7d49afc6d1b1d7fcf1c815835d5c1da-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/van-phi",
+    "starts_at": 1795809600,
+    "ends_at": 1795820400,
+    "page": "https://ppv.st/live/nhl/2026-11-27/van-phi"
+  },
+  {
+    "name": "Florida Panthers vs Washington Capitals",
+    "poster": "https://static.ppvservices.st/assets/thumb/d2706c929ac0145ac4e90c437490a7ec-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/fla-wsh",
+    "starts_at": 1795809600,
+    "ends_at": 1795820400,
+    "page": "https://ppv.st/live/nhl/2026-11-27/fla-wsh"
+  },
+  {
+    "name": "Detroit Red Wings vs Columbus Blue Jackets",
+    "poster": "https://static.ppvservices.st/assets/thumb/f3531ee51b4a777cbfa5fcaa1eeb46a9-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/det-cbj",
+    "starts_at": 1795809600,
+    "ends_at": 1795820400,
+    "page": "https://ppv.st/live/nhl/2026-11-27/det-cbj"
+  },
+  {
+    "name": "Colorado Avalanche vs Minnesota Wild",
+    "poster": "https://static.ppvservices.st/assets/thumb/09baf10cb9201a0af243a670e5370194-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/col-min",
+    "starts_at": 1795813200,
+    "ends_at": 1795824000,
+    "page": "https://ppv.st/live/nhl/2026-11-27/col-min"
+  },
+  {
+    "name": "Los Angeles Kings vs Anaheim Ducks",
+    "poster": "https://static.ppvservices.st/assets/thumb/d3c3044a50dd0294a926f2bfa65c49e0-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/la-ana",
+    "starts_at": 1795813200,
+    "ends_at": 1795824000,
+    "page": "https://ppv.st/live/nhl/2026-11-27/la-ana"
+  },
+  {
+    "name": "Vegas Golden Knights vs San Jose Sharks",
+    "poster": "https://static.ppvservices.st/assets/thumb/0a126e2da9d61de3f5482e23d2cd8eb3-thumbnail.jpg",
+    "tag": "NHL",
+    "category": "Ice Hockey",
+    "uri": "nhl/2026-11-27/vgk-sj",
+    "starts_at": 1795813200,
+    "ends_at": 1795824000,
+    "page": "https://ppv.st/live/nhl/2026-11-27/vgk-sj"
   },
   {
     "name": "Fox League",
