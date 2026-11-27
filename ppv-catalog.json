@@ -10,6 +10,16 @@
     "page": "https://ppv.st/live/nfl-network"
   },
   {
+    "name": "Philadelphia Eagles vs Dallas Cowboys",
+    "poster": "https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg",
+    "tag": "NFL",
+    "category": "American Football",
+    "uri": "nfl/2026-11-26/phi-dal",
+    "starts_at": 1795728600,
+    "ends_at": 1795743000,
+    "page": "https://ppv.st/live/nfl/2026-11-26/phi-dal"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -18,6 +28,46 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
+  },
+  {
+    "name": "Arkansas Razorbacks vs Michigan State Spartans",
+    "poster": "https://static.ppvservices.st/assets/thumb/de58db432c6a01b61f8f88626bc320b2-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-26/ark-msu",
+    "starts_at": 1795728600,
+    "ends_at": 1795739400,
+    "page": "https://ppv.st/live/cbb/2026-11-26/ark-msu"
+  },
+  {
+    "name": "Utah State Aggies vs USC Trojans",
+    "poster": "https://static.ppvservices.st/assets/thumb/0ab3608c513c8a3db1ebf9be075916aa-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-26/usu-usc",
+    "starts_at": 1795728600,
+    "ends_at": 1795739400,
+    "page": "https://ppv.st/live/cbb/2026-11-26/usu-usc"
+  },
+  {
+    "name": "Saint Mary's Gaels vs UCLA Bruins",
+    "poster": "https://static.ppvservices.st/assets/thumb/90e212c516f9fb6c6f2e9001e71aa85a-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-26/smc-ucla",
+    "starts_at": 1795730400,
+    "ends_at": 1795741200,
+    "page": "https://ppv.st/live/cbb/2026-11-26/smc-ucla"
+  },
+  {
+    "name": "SMU Mustangs vs LSU Tigers",
+    "poster": "https://static.ppvservices.st/assets/thumb/b9f813bafca45288936359ff1fbedabf-thumbnail.jpg",
+    "tag": "College Basketball",
+    "category": "Basketball",
+    "uri": "cbb/2026-11-26/smu-lsu",
+    "starts_at": 1795737600,
+    "ends_at": 1795748400,
+    "page": "https://ppv.st/live/cbb/2026-11-26/smu-lsu"
   },
   {
     "name": "Willow",
