@@ -20,6 +20,16 @@
     "page": "https://ppv.st/live/cfb/2026-11-27/tex-tam"
   },
   {
+    "name": "West Virginia Mountaineers vs Utah Utes",
+    "poster": "https://static.ppvservices.st/assets/thumb/64cf8a138bda6758ba6a26f1ca39bb4d-thumbnail.jpg",
+    "tag": "College Football",
+    "category": "American Football",
+    "uri": "cfb/2026-11-27/wvu-utah",
+    "starts_at": 1795831200,
+    "ends_at": 1795845600,
+    "page": "https://ppv.st/live/cfb/2026-11-27/wvu-utah"
+  },
+  {
     "name": "Fox Footy",
     "poster": "https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -28,76 +38,6 @@
     "starts_at": -60,
     "ends_at": 10740,
     "page": "https://ppv.st/live/247-fox-footy"
-  },
-  {
-    "name": "Western Kentucky Hilltoppers vs Illinois Fighting Illini",
-    "poster": "https://static.ppvservices.st/assets/thumb/5f107f19cddcce5d9cd99e263e603d4f-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-27/wku-ill",
-    "starts_at": 1795820400,
-    "ends_at": 1795831200,
-    "page": "https://ppv.st/live/cbb/2026-11-27/wku-ill"
-  },
-  {
-    "name": "Bowling Green Falcons vs Indiana Hoosiers",
-    "poster": "https://static.ppvservices.st/assets/thumb/8d29021d46fc9ff710cd93d0dadb5980-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-27/bgsu-iu",
-    "starts_at": 1795820400,
-    "ends_at": 1795831200,
-    "page": "https://ppv.st/live/cbb/2026-11-27/bgsu-iu"
-  },
-  {
-    "name": "Miami Heat vs New York Knicks",
-    "poster": "https://static.ppvservices.st/assets/thumb/fd1cfc9d598b192261d9f565f491dcaf-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/mia-ny",
-    "starts_at": 1795824000,
-    "ends_at": 1795834800,
-    "page": "https://ppv.st/live/nba/2026-11-27/mia-ny"
-  },
-  {
-    "name": "Milwaukee Bucks vs Detroit Pistons",
-    "poster": "https://static.ppvservices.st/assets/thumb/8ca603d900763d4607c088ec81390f47-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/mil-det",
-    "starts_at": 1795825800,
-    "ends_at": 1795836600,
-    "page": "https://ppv.st/live/nba/2026-11-27/mil-det"
-  },
-  {
-    "name": "Philadelphia 76ers vs Indiana Pacers",
-    "poster": "https://static.ppvservices.st/assets/thumb/643f8a824bf65fc2e0381798e5342538-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/phi-ind",
-    "starts_at": 1795825800,
-    "ends_at": 1795836600,
-    "page": "https://ppv.st/live/nba/2026-11-27/phi-ind"
-  },
-  {
-    "name": "Brooklyn Nets vs Toronto Raptors",
-    "poster": "https://static.ppvservices.st/assets/thumb/81378101f0dd5eabbc14721b66146a94-thumbnail.jpg",
-    "tag": "NBA",
-    "category": "Basketball",
-    "uri": "nba/2026-11-27/bkn-tor",
-    "starts_at": 1795825800,
-    "ends_at": 1795836600,
-    "page": "https://ppv.st/live/nba/2026-11-27/bkn-tor"
-  },
-  {
-    "name": "Oakland Golden Grizzlies vs Houston Cougars",
-    "poster": "https://static.ppvservices.st/assets/thumb/e4fa0f1d98e8b1a6d3fbd44c791449da-thumbnail.jpg",
-    "tag": "College Basketball",
-    "category": "Basketball",
-    "uri": "cbb/2026-11-27/oak-hou",
-    "starts_at": 1795825800,
-    "ends_at": 1795836600,
-    "page": "https://ppv.st/live/cbb/2026-11-27/oak-hou"
   },
   {
     "name": "Atlanta Hawks vs Boston Celtics",
@@ -118,6 +58,56 @@
     "starts_at": 1795829400,
     "ends_at": 1795840200,
     "page": "https://ppv.st/live/nba/2026-11-27/mem-min"
+  },
+  {
+    "name": "Dallas Mavericks vs Phoenix Suns",
+    "poster": "https://static.ppvservices.st/assets/thumb/dd45df696a6757e5cff5b6c0eb3ee405-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-27/dal-phx",
+    "starts_at": 1795831200,
+    "ends_at": 1795842000,
+    "page": "https://ppv.st/live/nba/2026-11-27/dal-phx"
+  },
+  {
+    "name": "Los Angeles Lakers vs San Antonio Spurs",
+    "poster": "https://static.ppvservices.st/assets/thumb/d7e2c4dd185f7d9b795cca4f9e9a327e-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-27/lal-sa",
+    "starts_at": 1795833000,
+    "ends_at": 1795843800,
+    "page": "https://ppv.st/live/nba/2026-11-27/lal-sa"
+  },
+  {
+    "name": "Denver Nuggets vs Utah Jazz",
+    "poster": "https://static.ppvservices.st/assets/thumb/4e5dc37469424e4d422f7f5e7c6b41bf-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-27/den-utah",
+    "starts_at": 1795833000,
+    "ends_at": 1795843800,
+    "page": "https://ppv.st/live/nba/2026-11-27/den-utah"
+  },
+  {
+    "name": "New Orleans Pelicans vs Los Angeles Clippers",
+    "poster": "https://static.ppvservices.st/assets/thumb/f71ca46a948baed113f2f71f25ce62c3-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-27/no-lac",
+    "starts_at": 1795833000,
+    "ends_at": 1795843800,
+    "page": "https://ppv.st/live/nba/2026-11-27/no-lac"
+  },
+  {
+    "name": "Golden State Warriors vs Portland Trail Blazers",
+    "poster": "https://static.ppvservices.st/assets/thumb/e4b703576104c3f8fbb7e6e80e69df28-thumbnail.jpg",
+    "tag": "NBA",
+    "category": "Basketball",
+    "uri": "nba/2026-11-27/gs-por",
+    "starts_at": 1795833000,
+    "ends_at": 1795843800,
+    "page": "https://ppv.st/live/nba/2026-11-27/gs-por"
   },
   {
     "name": "Willow",
@@ -150,6 +140,16 @@
     "page": "https://ppv.st/live/mls/2026-11-27/clb-mia"
   },
   {
+    "name": "Real Salt Lake vs Vancouver Whitecaps",
+    "poster": "https://static.ppvservices.st/assets/thumb/a69bd9c6b636e2e1ab1fde35c4a8c810-thumbnail.jpg",
+    "tag": "MLS",
+    "category": "Football",
+    "uri": "mls/2026-11-27/rsl-van",
+    "starts_at": 1795834800,
+    "ends_at": 1795845600,
+    "page": "https://ppv.st/live/mls/2026-11-27/rsl-van"
+  },
+  {
     "name": "NHL Network",
     "poster": "https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg",
     "tag": "24/7 channel",
@@ -158,16 +158,6 @@
     "starts_at": 0,
     "ends_at": 14400,
     "page": "https://ppv.st/live/nhl-network-29780"
-  },
-  {
-    "name": "Winnipeg Jets vs New York Islanders",
-    "poster": "https://static.ppvservices.st/assets/thumb/2e5f13fc0f238a74a501ebc5aa0b442b-thumbnail.jpg",
-    "tag": "NHL",
-    "category": "Ice Hockey",
-    "uri": "nhl/2026-11-27/wpg-nyi",
-    "starts_at": 1795825800,
-    "ends_at": 1795836600,
-    "page": "https://ppv.st/live/nhl/2026-11-27/wpg-nyi"
   },
   {
     "name": "Pittsburgh Penguins vs Buffalo Sabres",
